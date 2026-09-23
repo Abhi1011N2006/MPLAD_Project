@@ -1,0 +1,1001 @@
+project_id,anomaly_type,risk_level,reason,label_source
+MPLADS-SYN-0001,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0002,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0003,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0004,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0005,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0006,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0007,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0008,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0009,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0010,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0011,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0012,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0013,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0014,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0015,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0016,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0017,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0018,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0019,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0020,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0021,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0022,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0023,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0024,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0025,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0026,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0027,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0028,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0029,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0030,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0031,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0032,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0033,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0034,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0035,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0036,payment_anomaly,Medium,Prototype payment pattern anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0037,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0038,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0039,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0040,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0041,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0042,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0043,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0044,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0045,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0046,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0047,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0048,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0049,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0050,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0051,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0052,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0053,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0054,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0055,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0056,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0057,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0058,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0059,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0060,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0061,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0062,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0063,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0064,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0065,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0066,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0067,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0068,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0069,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0070,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0071,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0072,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0073,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0074,payment_anomaly,Medium,Prototype payment pattern anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0075,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0076,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0077,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0078,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0079,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0080,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0081,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0082,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0083,payment_anomaly,Medium,Prototype payment pattern anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0084,payment_anomaly,Medium,Prototype payment pattern anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0085,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0086,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0087,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0088,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0089,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0090,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0091,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0092,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0093,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0094,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0095,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0096,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0097,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0098,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0099,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0100,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0101,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0102,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0103,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0104,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0105,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0106,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0107,payment_anomaly,Medium,Prototype payment pattern anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0108,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0109,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0110,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0111,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0112,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0113,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0114,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0115,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0116,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0117,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0118,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0119,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0120,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0121,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0122,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0123,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0124,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0125,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0126,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0127,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0128,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0129,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0130,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0131,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0132,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0133,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0134,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0135,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0136,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0137,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0138,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0139,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0140,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0141,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0142,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0143,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0144,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0145,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0146,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0147,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0148,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0149,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0150,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0151,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0152,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0153,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0154,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0155,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0156,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0157,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0158,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0159,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0160,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0161,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0162,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0163,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0164,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0165,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0166,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0167,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0168,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0169,payment_anomaly,Medium,Prototype payment pattern anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0170,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0171,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0172,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0173,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0174,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0175,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0176,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0177,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0178,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0179,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0180,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0181,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0182,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0183,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0184,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0185,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0186,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0187,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0188,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0189,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0190,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0191,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0192,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0193,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0194,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0195,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0196,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0197,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0198,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0199,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0200,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0201,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0202,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0203,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0204,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0205,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0206,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0207,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0208,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0209,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0210,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0211,payment_anomaly,Medium,Prototype payment pattern anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0212,payment_anomaly,Medium,Prototype payment pattern anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0213,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0214,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0215,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0216,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0217,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0218,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0219,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0220,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0221,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0222,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0223,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0224,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0225,payment_anomaly,Medium,Prototype payment pattern anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0226,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0227,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0228,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0229,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0230,payment_anomaly,Medium,Prototype payment pattern anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0231,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0232,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0233,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0234,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0235,payment_anomaly,Medium,Prototype payment pattern anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0236,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0237,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0238,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0239,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0240,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0241,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0242,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0243,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0244,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0245,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0246,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0247,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0248,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0249,payment_anomaly,Medium,Prototype payment pattern anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0250,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0251,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0252,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0253,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0254,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0255,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0256,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0257,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0258,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0259,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0260,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0261,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0262,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0263,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0264,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0265,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0266,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0267,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0268,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0269,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0270,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0271,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0272,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0273,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0274,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0275,payment_anomaly,Medium,Prototype payment pattern anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0276,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0277,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0278,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0279,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0280,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0281,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0282,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0283,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0284,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0285,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0286,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0287,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0288,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0289,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0290,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0291,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0292,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0293,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0294,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0295,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0296,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0297,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0298,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0299,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0300,payment_anomaly,Medium,Prototype payment pattern anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0301,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0302,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0303,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0304,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0305,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0306,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0307,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0308,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0309,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0310,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0311,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0312,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0313,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0314,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0315,payment_anomaly,Medium,Prototype payment pattern anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0316,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0317,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0318,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0319,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0320,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0321,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0322,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0323,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0324,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0325,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0326,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0327,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0328,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0329,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0330,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0331,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0332,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0333,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0334,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0335,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0336,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0337,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0338,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0339,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0340,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0341,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0342,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0343,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0344,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0345,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0346,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0347,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0348,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0349,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0350,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0351,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0352,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0353,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0354,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0355,payment_anomaly,Medium,Prototype payment pattern anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0356,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0357,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0358,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0359,payment_anomaly,Medium,Prototype payment pattern anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0360,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0361,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0362,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0363,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0364,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0365,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0366,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0367,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0368,payment_anomaly,Medium,Prototype payment pattern anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0369,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0370,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0371,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0372,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0373,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0374,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0375,payment_anomaly,Medium,Prototype payment pattern anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0376,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0377,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0378,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0379,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0380,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0381,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0382,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0383,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0384,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0385,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0386,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0387,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0388,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0389,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0390,payment_anomaly,Medium,Prototype payment pattern anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0391,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0392,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0393,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0394,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0395,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0396,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0397,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0398,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0399,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0400,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0401,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0402,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0403,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0404,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0405,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0406,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0407,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0408,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0409,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0410,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0411,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0412,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0413,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0414,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0415,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0416,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0417,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0418,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0419,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0420,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0421,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0422,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0423,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0424,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0425,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0426,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0427,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0428,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0429,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0430,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0431,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0432,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0433,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0434,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0435,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0436,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0437,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0438,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0439,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0440,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0441,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0442,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0443,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0444,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0445,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0446,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0447,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0448,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0449,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0450,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0451,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0452,payment_anomaly,Medium,Prototype payment pattern anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0453,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0454,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0455,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0456,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0457,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0458,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0459,payment_anomaly,Medium,Prototype payment pattern anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0460,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0461,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0462,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0463,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0464,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0465,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0466,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0467,payment_anomaly,Medium,Prototype payment pattern anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0468,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0469,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0470,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0471,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0472,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0473,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0474,payment_anomaly,Medium,Prototype payment pattern anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0475,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0476,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0477,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0478,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0479,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0480,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0481,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0482,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0483,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0484,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0485,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0486,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0487,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0488,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0489,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0490,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0491,payment_anomaly,Medium,Prototype payment pattern anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0492,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0493,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0494,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0495,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0496,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0497,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0498,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0499,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0500,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0501,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0502,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0503,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0504,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0505,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0506,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0507,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0508,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0509,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0510,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0511,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0512,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0513,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0514,payment_anomaly,Medium,Prototype payment pattern anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0515,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0516,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0517,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0518,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0519,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0520,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0521,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0522,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0523,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0524,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0525,payment_anomaly,Medium,Prototype payment pattern anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0526,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0527,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0528,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0529,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0530,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0531,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0532,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0533,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0534,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0535,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0536,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0537,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0538,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0539,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0540,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0541,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0542,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0543,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0544,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0545,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0546,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0547,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0548,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0549,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0550,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0551,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0552,payment_anomaly,Medium,Prototype payment pattern anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0553,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0554,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0555,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0556,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0557,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0558,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0559,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0560,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0561,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0562,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0563,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0564,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0565,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0566,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0567,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0568,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0569,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0570,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0571,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0572,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0573,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0574,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0575,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0576,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0577,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0578,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0579,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0580,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0581,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0582,payment_anomaly,Medium,Prototype payment pattern anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0583,payment_anomaly,Medium,Prototype payment pattern anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0584,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0585,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0586,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0587,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0588,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0589,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0590,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0591,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0592,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0593,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0594,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0595,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0596,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0597,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0598,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0599,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0600,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0601,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0602,payment_anomaly,Medium,Prototype payment pattern anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0603,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0604,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0605,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0606,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0607,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0608,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0609,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0610,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0611,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0612,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0613,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0614,payment_anomaly,Medium,Prototype payment pattern anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0615,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0616,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0617,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0618,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0619,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0620,payment_anomaly,Medium,Prototype payment pattern anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0621,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0622,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0623,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0624,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0625,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0626,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0627,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0628,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0629,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0630,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0631,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0632,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0633,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0634,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0635,payment_anomaly,Medium,Prototype payment pattern anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0636,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0637,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0638,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0639,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0640,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0641,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0642,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0643,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0644,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0645,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0646,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0647,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0648,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0649,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0650,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0651,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0652,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0653,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0654,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0655,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0656,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0657,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0658,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0659,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0660,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0661,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0662,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0663,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0664,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0665,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0666,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0667,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0668,payment_anomaly,Medium,Prototype payment pattern anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0669,payment_anomaly,Medium,Prototype payment pattern anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0670,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0671,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0672,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0673,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0674,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0675,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0676,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0677,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0678,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0679,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0680,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0681,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0682,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0683,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0684,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0685,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0686,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0687,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0688,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0689,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0690,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0691,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0692,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0693,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0694,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0695,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0696,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0697,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0698,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0699,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0700,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0701,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0702,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0703,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0704,payment_anomaly,Medium,Prototype payment pattern anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0705,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0706,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0707,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0708,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0709,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0710,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0711,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0712,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0713,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0714,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0715,payment_anomaly,Medium,Prototype payment pattern anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0716,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0717,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0718,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0719,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0720,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0721,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0722,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0723,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0724,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0725,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0726,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0727,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0728,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0729,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0730,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0731,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0732,payment_anomaly,Medium,Prototype payment pattern anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0733,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0734,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0735,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0736,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0737,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0738,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0739,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0740,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0741,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0742,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0743,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0744,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0745,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0746,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0747,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0748,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0749,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0750,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0751,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0752,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0753,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0754,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0755,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0756,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0757,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0758,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0759,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0760,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0761,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0762,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0763,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0764,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0765,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0766,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0767,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0768,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0769,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0770,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0771,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0772,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0773,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0774,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0775,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0776,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0777,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0778,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0779,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0780,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0781,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0782,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0783,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0784,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0785,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0786,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0787,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0788,payment_anomaly,Medium,Prototype payment pattern anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0789,payment_anomaly,Medium,Prototype payment pattern anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0790,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0791,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0792,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0793,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0794,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0795,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0796,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0797,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0798,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0799,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0800,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0801,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0802,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0803,payment_anomaly,Medium,Prototype payment pattern anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0804,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0805,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0806,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0807,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0808,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0809,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0810,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0811,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0812,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0813,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0814,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0815,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0816,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0817,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0818,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0819,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0820,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0821,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0822,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0823,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0824,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0825,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0826,payment_anomaly,Medium,Prototype payment pattern anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0827,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0828,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0829,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0830,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0831,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0832,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0833,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0834,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0835,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0836,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0837,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0838,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0839,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0840,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0841,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0842,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0843,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0844,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0845,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0846,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0847,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0848,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0849,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0850,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0851,payment_anomaly,Medium,Prototype payment pattern anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0852,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0853,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0854,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0855,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0856,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0857,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0858,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0859,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0860,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0861,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0862,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0863,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0864,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0865,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0866,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0867,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0868,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0869,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0870,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0871,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0872,payment_anomaly,Medium,Prototype payment pattern anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0873,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0874,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0875,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0876,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0877,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0878,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0879,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0880,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0881,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0882,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0883,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0884,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0885,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0886,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0887,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0888,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0889,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0890,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0891,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0892,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0893,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0894,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0895,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0896,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0897,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0898,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0899,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0900,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0901,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0902,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0903,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0904,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0905,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0906,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0907,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0908,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0909,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0910,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0911,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0912,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0913,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0914,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0915,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0916,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0917,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0918,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0919,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0920,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0921,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0922,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0923,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0924,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0925,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0926,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0927,payment_anomaly,Medium,Prototype payment pattern anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0928,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0929,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0930,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0931,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0932,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0933,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0934,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0935,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0936,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0937,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0938,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0939,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0940,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0941,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0942,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0943,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0944,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0945,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0946,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0947,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0948,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0949,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0950,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0951,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0952,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0953,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0954,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0955,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0956,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0957,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0958,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0959,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0960,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0961,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0962,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0963,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0964,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0965,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0966,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0967,payment_anomaly,Medium,Prototype payment pattern anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0968,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0969,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0970,payment_anomaly,Medium,Prototype payment pattern anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0971,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0972,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0973,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0974,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0975,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0976,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0977,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0978,duplicate,High,Potentially similar project/location requires verification,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0979,payment_anomaly,Medium,Prototype payment pattern anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0980,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0981,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0982,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0983,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0984,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0985,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0986,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0987,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0988,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0989,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0990,payment_anomaly,Medium,Prototype payment pattern anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0991,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0992,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0993,cost_anomaly,High,High expenditure relative to physical progress,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0994,delay,High,Physical progress is below expected schedule,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0995,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0996,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0997,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0998,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-0999,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE
+MPLADS-SYN-1000,normal,Low,No major prototype anomaly,SYNTHETIC_PROTOTYPE

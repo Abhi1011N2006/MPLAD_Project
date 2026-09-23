@@ -1,0 +1,1001 @@
+recommendation_id,project_id,recommended_by,recommendation_date,recommended_work_type,recommended_amount,reason,approval_status,approval_date,remarks
+REC-00001,MPLADS-SYN-0001,MP-595,2026-01-12,Street Lighting,810000,Water and sanitation,Approved,2026-03-07,Synthetic demonstration record
+REC-00002,MPLADS-SYN-0002,MP-123,2026-01-08,Road,2150000,Community facility,Approved,2026-02-23,Synthetic demonstration record
+REC-00003,MPLADS-SYN-0003,MP-524,2026-01-14,Drinking Water,650000,Road connectivity,Under Review,2026-03-10,Synthetic demonstration record
+REC-00004,MPLADS-SYN-0004,MP-210,2026-03-01,Drainage,1600000,Local infrastructure need,Under Review,2026-04-07,Synthetic demonstration record
+REC-00005,MPLADS-SYN-0005,MP-934,2025-11-17,School Building,1190000,Public utility improvement,Under Review,2025-12-28,Synthetic demonstration record
+REC-00006,MPLADS-SYN-0006,MP-688,2026-05-14,Drinking Water,720000,Road connectivity,Under Review,2026-06-29,Synthetic demonstration record
+REC-00007,MPLADS-SYN-0007,MP-805,2026-03-11,Solar Lighting,1690000,Public utility improvement,Rejected,2026-04-30,Synthetic demonstration record
+REC-00008,MPLADS-SYN-0008,MP-862,2026-01-31,Street Lighting,500000,Road connectivity,Approved,2026-03-19,Synthetic demonstration record
+REC-00009,MPLADS-SYN-0009,MP-130,2026-04-08,Drainage,2400000,Road connectivity,Rejected,2026-05-20,Synthetic demonstration record
+REC-00010,MPLADS-SYN-0010,MP-189,2026-02-17,School Building,2290000,Community facility,Approved,2026-04-01,Synthetic demonstration record
+REC-00011,MPLADS-SYN-0011,MP-918,2026-03-08,Street Lighting,730000,Road connectivity,Rejected,2026-04-20,Synthetic demonstration record
+REC-00012,MPLADS-SYN-0012,MP-707,2026-05-15,Community Hall,3200000,Community facility,Approved,2026-06-27,Synthetic demonstration record
+REC-00013,MPLADS-SYN-0013,MP-351,2026-05-10,Road,2880000,Road connectivity,Under Review,2026-05-27,Synthetic demonstration record
+REC-00014,MPLADS-SYN-0014,MP-939,2025-11-10,Road,2900000,Water and sanitation,Under Review,2026-01-03,Synthetic demonstration record
+REC-00015,MPLADS-SYN-0015,MP-615,2026-04-07,Road,1380000,Local infrastructure need,Rejected,2026-05-02,Synthetic demonstration record
+REC-00016,MPLADS-SYN-0016,MP-159,2025-11-29,Road,1870000,Public utility improvement,Approved,2025-12-16,Synthetic demonstration record
+REC-00017,MPLADS-SYN-0017,MP-981,2025-12-05,Drinking Water,1030000,Community facility,Rejected,2026-01-06,Synthetic demonstration record
+REC-00018,MPLADS-SYN-0018,MP-921,2026-05-01,Drinking Water,600000,Community facility,Approved,2026-06-01,Synthetic demonstration record
+REC-00019,MPLADS-SYN-0019,MP-405,2026-02-15,Drinking Water,990000,Public utility improvement,Under Review,2026-03-18,Synthetic demonstration record
+REC-00020,MPLADS-SYN-0020,MP-515,2026-04-19,Health Facility,4350000,Community facility,Under Review,2026-05-15,Synthetic demonstration record
+REC-00021,MPLADS-SYN-0021,MP-291,2026-06-02,Street Lighting,1520000,Local infrastructure need,Under Review,2026-07-11,Synthetic demonstration record
+REC-00022,MPLADS-SYN-0022,MP-942,2026-06-28,Library,550000,Public utility improvement,Rejected,2026-07-17,Synthetic demonstration record
+REC-00023,MPLADS-SYN-0023,MP-633,2026-06-05,Road,1240000,Community facility,Approved,2026-07-03,Synthetic demonstration record
+REC-00024,MPLADS-SYN-0024,MP-988,2025-11-09,Health Facility,2140000,Road connectivity,Rejected,2026-01-02,Synthetic demonstration record
+REC-00025,MPLADS-SYN-0025,MP-490,2025-11-03,Drainage,640000,Water and sanitation,Approved,2025-12-07,Synthetic demonstration record
+REC-00026,MPLADS-SYN-0026,MP-921,2026-01-17,Library,1380000,Local infrastructure need,Approved,2026-03-03,Synthetic demonstration record
+REC-00027,MPLADS-SYN-0027,MP-365,2025-12-03,Sports Facility,960000,Water and sanitation,Under Review,2026-01-16,Synthetic demonstration record
+REC-00028,MPLADS-SYN-0028,MP-852,2025-11-12,School Building,2660000,Community facility,Approved,2026-01-08,Synthetic demonstration record
+REC-00029,MPLADS-SYN-0029,MP-536,2026-06-14,Drainage,2160000,Local infrastructure need,Approved,2026-07-10,Synthetic demonstration record
+REC-00030,MPLADS-SYN-0030,MP-931,2026-02-28,Community Hall,930000,Road connectivity,Approved,2026-03-30,Synthetic demonstration record
+REC-00031,MPLADS-SYN-0031,MP-935,2026-03-25,School Building,1030000,Water and sanitation,Under Review,2026-05-01,Synthetic demonstration record
+REC-00032,MPLADS-SYN-0032,MP-907,2026-01-27,Community Hall,1950000,Water and sanitation,Approved,2026-03-23,Synthetic demonstration record
+REC-00033,MPLADS-SYN-0033,MP-754,2026-05-07,Solar Lighting,720000,Local infrastructure need,Approved,2026-06-10,Synthetic demonstration record
+REC-00034,MPLADS-SYN-0034,MP-421,2026-04-26,School Building,4020000,Community facility,Approved,2026-05-24,Synthetic demonstration record
+REC-00035,MPLADS-SYN-0035,MP-481,2026-02-17,Road,1540000,Public utility improvement,Rejected,2026-04-18,Synthetic demonstration record
+REC-00036,MPLADS-SYN-0036,MP-510,2026-02-07,School Building,2170000,Local infrastructure need,Approved,2026-03-08,Synthetic demonstration record
+REC-00037,MPLADS-SYN-0037,MP-421,2026-01-18,Sports Facility,340000,Road connectivity,Approved,2026-02-03,Synthetic demonstration record
+REC-00038,MPLADS-SYN-0038,MP-700,2026-02-02,Road,1400000,Road connectivity,Rejected,2026-03-01,Synthetic demonstration record
+REC-00039,MPLADS-SYN-0039,MP-111,2026-03-29,Sports Facility,1000000,Local infrastructure need,Approved,2026-04-17,Synthetic demonstration record
+REC-00040,MPLADS-SYN-0040,MP-976,2025-12-02,Street Lighting,850000,Road connectivity,Under Review,2026-01-15,Synthetic demonstration record
+REC-00041,MPLADS-SYN-0041,MP-654,2025-12-23,Sports Facility,630000,Local infrastructure need,Under Review,2026-02-11,Synthetic demonstration record
+REC-00042,MPLADS-SYN-0042,MP-494,2026-01-28,Community Hall,3930000,Local infrastructure need,Under Review,2026-03-22,Synthetic demonstration record
+REC-00043,MPLADS-SYN-0043,MP-889,2026-04-24,Sports Facility,560000,Community facility,Approved,2026-05-21,Synthetic demonstration record
+REC-00044,MPLADS-SYN-0044,MP-740,2026-06-05,Sports Facility,1000000,Road connectivity,Approved,2026-07-12,Synthetic demonstration record
+REC-00045,MPLADS-SYN-0045,MP-223,2026-06-11,Drainage,1720000,Community facility,Approved,2026-08-07,Synthetic demonstration record
+REC-00046,MPLADS-SYN-0046,MP-327,2026-05-05,Health Facility,2470000,Community facility,Rejected,2026-06-23,Synthetic demonstration record
+REC-00047,MPLADS-SYN-0047,MP-183,2026-01-11,Library,960000,Community facility,Rejected,2026-03-09,Synthetic demonstration record
+REC-00048,MPLADS-SYN-0048,MP-178,2025-10-12,Health Facility,1740000,Water and sanitation,Approved,2025-11-30,Synthetic demonstration record
+REC-00049,MPLADS-SYN-0049,MP-757,2026-04-10,Health Facility,1990000,Road connectivity,Approved,2026-06-02,Synthetic demonstration record
+REC-00050,MPLADS-SYN-0050,MP-824,2026-01-09,Sports Facility,810000,Public utility improvement,Under Review,2026-01-25,Synthetic demonstration record
+REC-00051,MPLADS-SYN-0051,MP-818,2026-04-12,Health Facility,3160000,Local infrastructure need,Rejected,2026-05-02,Synthetic demonstration record
+REC-00052,MPLADS-SYN-0052,MP-705,2026-05-01,Sports Facility,1020000,Public utility improvement,Approved,2026-05-24,Synthetic demonstration record
+REC-00053,MPLADS-SYN-0053,MP-880,2026-02-02,Health Facility,2940000,Public utility improvement,Under Review,2026-03-25,Synthetic demonstration record
+REC-00054,MPLADS-SYN-0054,MP-267,2026-06-04,Drainage,2350000,Public utility improvement,Approved,2026-07-25,Synthetic demonstration record
+REC-00055,MPLADS-SYN-0055,MP-142,2025-11-15,Community Hall,3590000,Local infrastructure need,Approved,2025-12-30,Synthetic demonstration record
+REC-00056,MPLADS-SYN-0056,MP-174,2026-03-21,Street Lighting,1180000,Water and sanitation,Rejected,2026-04-28,Synthetic demonstration record
+REC-00057,MPLADS-SYN-0057,MP-669,2025-12-17,Drainage,1400000,Road connectivity,Rejected,2026-01-10,Synthetic demonstration record
+REC-00058,MPLADS-SYN-0058,MP-361,2025-11-06,Sports Facility,1720000,Community facility,Approved,2025-12-15,Synthetic demonstration record
+REC-00059,MPLADS-SYN-0059,MP-208,2026-03-26,Solar Lighting,1240000,Local infrastructure need,Approved,2026-05-06,Synthetic demonstration record
+REC-00060,MPLADS-SYN-0060,MP-838,2026-07-04,School Building,3390000,Local infrastructure need,Approved,2026-07-22,Synthetic demonstration record
+REC-00061,MPLADS-SYN-0061,MP-706,2026-05-25,Drainage,1590000,Road connectivity,Approved,2026-07-06,Synthetic demonstration record
+REC-00062,MPLADS-SYN-0062,MP-602,2026-04-11,Street Lighting,1450000,Local infrastructure need,Approved,2026-05-03,Synthetic demonstration record
+REC-00063,MPLADS-SYN-0063,MP-667,2026-07-02,Library,1380000,Water and sanitation,Approved,2026-08-27,Synthetic demonstration record
+REC-00064,MPLADS-SYN-0064,MP-655,2026-02-28,Health Facility,1650000,Local infrastructure need,Approved,2026-04-26,Synthetic demonstration record
+REC-00065,MPLADS-SYN-0065,MP-984,2026-05-22,Drainage,570000,Public utility improvement,Approved,2026-06-18,Synthetic demonstration record
+REC-00066,MPLADS-SYN-0066,MP-286,2026-06-27,School Building,3200000,Road connectivity,Under Review,2026-08-18,Synthetic demonstration record
+REC-00067,MPLADS-SYN-0067,MP-887,2026-02-19,Sports Facility,1840000,Water and sanitation,Approved,2026-03-09,Synthetic demonstration record
+REC-00068,MPLADS-SYN-0068,MP-906,2026-01-08,Solar Lighting,410000,Public utility improvement,Approved,2026-01-30,Synthetic demonstration record
+REC-00069,MPLADS-SYN-0069,MP-935,2026-03-19,Drainage,730000,Road connectivity,Rejected,2026-05-08,Synthetic demonstration record
+REC-00070,MPLADS-SYN-0070,MP-804,2026-02-15,Drainage,1020000,Community facility,Approved,2026-03-03,Synthetic demonstration record
+REC-00071,MPLADS-SYN-0071,MP-820,2025-12-31,School Building,2050000,Water and sanitation,Approved,2026-02-20,Synthetic demonstration record
+REC-00072,MPLADS-SYN-0072,MP-980,2026-01-24,Health Facility,1410000,Community facility,Approved,2026-02-26,Synthetic demonstration record
+REC-00073,MPLADS-SYN-0073,MP-131,2026-05-19,School Building,2630000,Road connectivity,Approved,2026-06-08,Synthetic demonstration record
+REC-00074,MPLADS-SYN-0074,MP-244,2026-03-25,Drinking Water,380000,Local infrastructure need,Approved,2026-05-06,Synthetic demonstration record
+REC-00075,MPLADS-SYN-0075,MP-631,2026-05-03,Drainage,2190000,Local infrastructure need,Rejected,2026-06-04,Synthetic demonstration record
+REC-00076,MPLADS-SYN-0076,MP-805,2025-12-27,School Building,3460000,Community facility,Approved,2026-01-27,Synthetic demonstration record
+REC-00077,MPLADS-SYN-0077,MP-865,2025-12-03,Road,1290000,Water and sanitation,Approved,2026-01-21,Synthetic demonstration record
+REC-00078,MPLADS-SYN-0078,MP-177,2026-01-14,School Building,3490000,Community facility,Rejected,2026-02-04,Synthetic demonstration record
+REC-00079,MPLADS-SYN-0079,MP-139,2025-11-16,Street Lighting,400000,Community facility,Approved,2025-12-18,Synthetic demonstration record
+REC-00080,MPLADS-SYN-0080,MP-677,2025-11-12,Health Facility,1530000,Road connectivity,Under Review,2025-12-14,Synthetic demonstration record
+REC-00081,MPLADS-SYN-0081,MP-996,2025-11-21,Sports Facility,1270000,Road connectivity,Approved,2025-12-31,Synthetic demonstration record
+REC-00082,MPLADS-SYN-0082,MP-704,2025-12-16,Health Facility,3320000,Road connectivity,Approved,2026-01-26,Synthetic demonstration record
+REC-00083,MPLADS-SYN-0083,MP-808,2026-03-24,Community Hall,940000,Water and sanitation,Under Review,2026-04-29,Synthetic demonstration record
+REC-00084,MPLADS-SYN-0084,MP-542,2026-04-28,Drinking Water,1540000,Community facility,Approved,2026-06-25,Synthetic demonstration record
+REC-00085,MPLADS-SYN-0085,MP-752,2025-12-13,Road,2750000,Community facility,Under Review,2026-02-02,Synthetic demonstration record
+REC-00086,MPLADS-SYN-0086,MP-141,2025-09-11,Road,2140000,Water and sanitation,Under Review,2025-10-05,Synthetic demonstration record
+REC-00087,MPLADS-SYN-0087,MP-380,2026-04-26,Sports Facility,1610000,Local infrastructure need,Under Review,2026-05-20,Synthetic demonstration record
+REC-00088,MPLADS-SYN-0088,MP-733,2026-04-16,Community Hall,1370000,Local infrastructure need,Under Review,2026-06-09,Synthetic demonstration record
+REC-00089,MPLADS-SYN-0089,MP-565,2026-05-23,Community Hall,3450000,Water and sanitation,Rejected,2026-06-18,Synthetic demonstration record
+REC-00090,MPLADS-SYN-0090,MP-968,2026-01-21,Library,580000,Public utility improvement,Under Review,2026-03-06,Synthetic demonstration record
+REC-00091,MPLADS-SYN-0091,MP-870,2026-03-28,Community Hall,1420000,Water and sanitation,Approved,2026-05-20,Synthetic demonstration record
+REC-00092,MPLADS-SYN-0092,MP-299,2026-04-22,Road,1790000,Local infrastructure need,Approved,2026-06-01,Synthetic demonstration record
+REC-00093,MPLADS-SYN-0093,MP-607,2026-01-17,Community Hall,1160000,Public utility improvement,Rejected,2026-02-08,Synthetic demonstration record
+REC-00094,MPLADS-SYN-0094,MP-400,2025-10-06,Solar Lighting,1600000,Water and sanitation,Under Review,2025-11-27,Synthetic demonstration record
+REC-00095,MPLADS-SYN-0095,MP-237,2026-05-02,Community Hall,920000,Water and sanitation,Approved,2026-06-24,Synthetic demonstration record
+REC-00096,MPLADS-SYN-0096,MP-497,2026-01-08,Road,1670000,Local infrastructure need,Approved,2026-02-16,Synthetic demonstration record
+REC-00097,MPLADS-SYN-0097,MP-240,2025-11-22,Library,1660000,Community facility,Rejected,2026-01-03,Synthetic demonstration record
+REC-00098,MPLADS-SYN-0098,MP-886,2026-02-15,Solar Lighting,460000,Public utility improvement,Under Review,2026-04-09,Synthetic demonstration record
+REC-00099,MPLADS-SYN-0099,MP-230,2026-02-05,Drinking Water,1520000,Road connectivity,Rejected,2026-03-27,Synthetic demonstration record
+REC-00100,MPLADS-SYN-0100,MP-746,2025-11-03,Community Hall,2990000,Water and sanitation,Rejected,2025-12-29,Synthetic demonstration record
+REC-00101,MPLADS-SYN-0101,MP-227,2026-02-12,Community Hall,1960000,Water and sanitation,Under Review,2026-03-23,Synthetic demonstration record
+REC-00102,MPLADS-SYN-0102,MP-959,2025-12-26,Library,1260000,Water and sanitation,Rejected,2026-02-22,Synthetic demonstration record
+REC-00103,MPLADS-SYN-0103,MP-145,2026-01-04,Sports Facility,2310000,Public utility improvement,Approved,2026-02-11,Synthetic demonstration record
+REC-00104,MPLADS-SYN-0104,MP-235,2025-10-24,Solar Lighting,1560000,Public utility improvement,Approved,2025-12-23,Synthetic demonstration record
+REC-00105,MPLADS-SYN-0105,MP-430,2026-03-21,Solar Lighting,1130000,Public utility improvement,Under Review,2026-04-16,Synthetic demonstration record
+REC-00106,MPLADS-SYN-0106,MP-448,2026-04-13,Sports Facility,750000,Public utility improvement,Under Review,2026-05-22,Synthetic demonstration record
+REC-00107,MPLADS-SYN-0107,MP-100,2025-12-14,Sports Facility,2330000,Community facility,Under Review,2026-01-31,Synthetic demonstration record
+REC-00108,MPLADS-SYN-0108,MP-416,2025-11-25,Community Hall,3280000,Community facility,Rejected,2025-12-14,Synthetic demonstration record
+REC-00109,MPLADS-SYN-0109,MP-284,2026-02-14,Solar Lighting,1590000,Local infrastructure need,Under Review,2026-03-04,Synthetic demonstration record
+REC-00110,MPLADS-SYN-0110,MP-891,2026-05-05,Library,1650000,Public utility improvement,Approved,2026-06-29,Synthetic demonstration record
+REC-00111,MPLADS-SYN-0111,MP-849,2026-06-10,Street Lighting,1400000,Public utility improvement,Under Review,2026-07-07,Synthetic demonstration record
+REC-00112,MPLADS-SYN-0112,MP-292,2025-11-26,Drainage,430000,Local infrastructure need,Under Review,2026-01-03,Synthetic demonstration record
+REC-00113,MPLADS-SYN-0113,MP-117,2026-01-24,Library,540000,Road connectivity,Approved,2026-02-26,Synthetic demonstration record
+REC-00114,MPLADS-SYN-0114,MP-252,2025-10-14,Drainage,2010000,Public utility improvement,Approved,2025-11-06,Synthetic demonstration record
+REC-00115,MPLADS-SYN-0115,MP-106,2026-05-10,Drainage,2400000,Community facility,Approved,2026-06-03,Synthetic demonstration record
+REC-00116,MPLADS-SYN-0116,MP-377,2025-11-03,Drinking Water,1970000,Road connectivity,Approved,2025-11-24,Synthetic demonstration record
+REC-00117,MPLADS-SYN-0117,MP-815,2026-04-30,Drainage,2110000,Local infrastructure need,Under Review,2026-05-16,Synthetic demonstration record
+REC-00118,MPLADS-SYN-0118,MP-908,2026-02-23,Street Lighting,750000,Water and sanitation,Approved,2026-03-26,Synthetic demonstration record
+REC-00119,MPLADS-SYN-0119,MP-919,2025-10-30,Health Facility,3010000,Public utility improvement,Rejected,2025-12-14,Synthetic demonstration record
+REC-00120,MPLADS-SYN-0120,MP-880,2025-12-24,Health Facility,4150000,Community facility,Approved,2026-02-21,Synthetic demonstration record
+REC-00121,MPLADS-SYN-0121,MP-146,2025-11-02,Health Facility,3870000,Public utility improvement,Approved,2025-11-24,Synthetic demonstration record
+REC-00122,MPLADS-SYN-0122,MP-643,2025-10-29,Drinking Water,1560000,Public utility improvement,Approved,2025-11-18,Synthetic demonstration record
+REC-00123,MPLADS-SYN-0123,MP-603,2025-12-11,School Building,3860000,Community facility,Approved,2026-01-27,Synthetic demonstration record
+REC-00124,MPLADS-SYN-0124,MP-768,2026-07-08,Drinking Water,450000,Local infrastructure need,Approved,2026-09-04,Synthetic demonstration record
+REC-00125,MPLADS-SYN-0125,MP-492,2025-12-01,Sports Facility,570000,Public utility improvement,Under Review,2025-12-26,Synthetic demonstration record
+REC-00126,MPLADS-SYN-0126,MP-452,2025-10-30,Library,1600000,Water and sanitation,Rejected,2025-11-27,Synthetic demonstration record
+REC-00127,MPLADS-SYN-0127,MP-440,2026-02-17,School Building,4870000,Road connectivity,Rejected,2026-04-01,Synthetic demonstration record
+REC-00128,MPLADS-SYN-0128,MP-894,2026-01-25,Solar Lighting,850000,Road connectivity,Approved,2026-03-07,Synthetic demonstration record
+REC-00129,MPLADS-SYN-0129,MP-885,2026-04-19,Community Hall,3220000,Road connectivity,Approved,2026-05-16,Synthetic demonstration record
+REC-00130,MPLADS-SYN-0130,MP-943,2025-12-04,Sports Facility,370000,Public utility improvement,Under Review,2026-01-07,Synthetic demonstration record
+REC-00131,MPLADS-SYN-0131,MP-865,2026-04-12,Sports Facility,1570000,Public utility improvement,Approved,2026-06-06,Synthetic demonstration record
+REC-00132,MPLADS-SYN-0132,MP-307,2026-05-25,Community Hall,1290000,Road connectivity,Approved,2026-06-13,Synthetic demonstration record
+REC-00133,MPLADS-SYN-0133,MP-639,2026-04-16,School Building,2690000,Community facility,Approved,2026-06-05,Synthetic demonstration record
+REC-00134,MPLADS-SYN-0134,MP-439,2026-06-17,Community Hall,3120000,Local infrastructure need,Approved,2026-07-18,Synthetic demonstration record
+REC-00135,MPLADS-SYN-0135,MP-474,2026-04-02,Sports Facility,1310000,Public utility improvement,Approved,2026-05-19,Synthetic demonstration record
+REC-00136,MPLADS-SYN-0136,MP-262,2025-11-10,Sports Facility,500000,Local infrastructure need,Under Review,2025-12-23,Synthetic demonstration record
+REC-00137,MPLADS-SYN-0137,MP-584,2026-02-18,School Building,2380000,Water and sanitation,Rejected,2026-03-29,Synthetic demonstration record
+REC-00138,MPLADS-SYN-0138,MP-145,2025-12-14,Health Facility,3190000,Community facility,Approved,2026-02-01,Synthetic demonstration record
+REC-00139,MPLADS-SYN-0139,MP-607,2025-10-26,Street Lighting,670000,Road connectivity,Under Review,2025-12-25,Synthetic demonstration record
+REC-00140,MPLADS-SYN-0140,MP-947,2025-10-09,Health Facility,1720000,Community facility,Rejected,2025-10-29,Synthetic demonstration record
+REC-00141,MPLADS-SYN-0141,MP-232,2026-02-16,Solar Lighting,1660000,Local infrastructure need,Rejected,2026-03-23,Synthetic demonstration record
+REC-00142,MPLADS-SYN-0142,MP-173,2025-11-07,Sports Facility,2480000,Public utility improvement,Rejected,2025-12-27,Synthetic demonstration record
+REC-00143,MPLADS-SYN-0143,MP-718,2026-01-17,School Building,3560000,Public utility improvement,Approved,2026-02-24,Synthetic demonstration record
+REC-00144,MPLADS-SYN-0144,MP-239,2026-04-22,Road,1980000,Water and sanitation,Approved,2026-05-13,Synthetic demonstration record
+REC-00145,MPLADS-SYN-0145,MP-770,2025-10-17,Road,1740000,Local infrastructure need,Rejected,2025-11-19,Synthetic demonstration record
+REC-00146,MPLADS-SYN-0146,MP-363,2026-02-09,Drainage,980000,Road connectivity,Approved,2026-02-24,Synthetic demonstration record
+REC-00147,MPLADS-SYN-0147,MP-938,2025-12-31,Drinking Water,620000,Local infrastructure need,Approved,2026-02-08,Synthetic demonstration record
+REC-00148,MPLADS-SYN-0148,MP-384,2026-05-06,Drainage,520000,Road connectivity,Under Review,2026-05-30,Synthetic demonstration record
+REC-00149,MPLADS-SYN-0149,MP-907,2025-11-25,School Building,1400000,Community facility,Rejected,2025-12-29,Synthetic demonstration record
+REC-00150,MPLADS-SYN-0150,MP-824,2026-02-20,Street Lighting,540000,Water and sanitation,Under Review,2026-03-24,Synthetic demonstration record
+REC-00151,MPLADS-SYN-0151,MP-318,2026-04-10,Library,690000,Local infrastructure need,Rejected,2026-05-01,Synthetic demonstration record
+REC-00152,MPLADS-SYN-0152,MP-799,2025-12-08,Health Facility,1790000,Road connectivity,Approved,2026-01-06,Synthetic demonstration record
+REC-00153,MPLADS-SYN-0153,MP-383,2026-01-05,Community Hall,3630000,Community facility,Rejected,2026-01-30,Synthetic demonstration record
+REC-00154,MPLADS-SYN-0154,MP-542,2026-01-17,Sports Facility,2180000,Community facility,Rejected,2026-02-02,Synthetic demonstration record
+REC-00155,MPLADS-SYN-0155,MP-125,2026-02-04,Drainage,790000,Local infrastructure need,Approved,2026-03-31,Synthetic demonstration record
+REC-00156,MPLADS-SYN-0156,MP-331,2026-04-25,Road,2480000,Road connectivity,Under Review,2026-06-17,Synthetic demonstration record
+REC-00157,MPLADS-SYN-0157,MP-608,2026-04-28,Drinking Water,1620000,Road connectivity,Under Review,2026-06-17,Synthetic demonstration record
+REC-00158,MPLADS-SYN-0158,MP-741,2026-06-01,Community Hall,890000,Local infrastructure need,Approved,2026-07-16,Synthetic demonstration record
+REC-00159,MPLADS-SYN-0159,MP-513,2026-03-02,Road,2920000,Local infrastructure need,Approved,2026-03-24,Synthetic demonstration record
+REC-00160,MPLADS-SYN-0160,MP-686,2026-06-01,Solar Lighting,1510000,Community facility,Approved,2026-07-17,Synthetic demonstration record
+REC-00161,MPLADS-SYN-0161,MP-361,2026-03-24,Health Facility,3700000,Public utility improvement,Rejected,2026-05-05,Synthetic demonstration record
+REC-00162,MPLADS-SYN-0162,MP-627,2026-03-20,Drinking Water,1200000,Public utility improvement,Rejected,2026-04-22,Synthetic demonstration record
+REC-00163,MPLADS-SYN-0163,MP-988,2025-12-27,School Building,1730000,Local infrastructure need,Approved,2026-01-24,Synthetic demonstration record
+REC-00164,MPLADS-SYN-0164,MP-264,2026-04-27,School Building,2220000,Public utility improvement,Approved,2026-05-26,Synthetic demonstration record
+REC-00165,MPLADS-SYN-0165,MP-429,2026-03-16,Sports Facility,920000,Road connectivity,Approved,2026-04-28,Synthetic demonstration record
+REC-00166,MPLADS-SYN-0166,MP-396,2026-02-17,Sports Facility,2180000,Water and sanitation,Approved,2026-04-16,Synthetic demonstration record
+REC-00167,MPLADS-SYN-0167,MP-419,2026-02-23,School Building,2170000,Community facility,Approved,2026-04-04,Synthetic demonstration record
+REC-00168,MPLADS-SYN-0168,MP-574,2026-03-31,Solar Lighting,350000,Road connectivity,Rejected,2026-05-15,Synthetic demonstration record
+REC-00169,MPLADS-SYN-0169,MP-361,2025-11-29,Drinking Water,660000,Local infrastructure need,Rejected,2025-12-15,Synthetic demonstration record
+REC-00170,MPLADS-SYN-0170,MP-512,2025-12-15,Street Lighting,510000,Water and sanitation,Rejected,2026-01-21,Synthetic demonstration record
+REC-00171,MPLADS-SYN-0171,MP-112,2026-03-02,Street Lighting,1480000,Local infrastructure need,Rejected,2026-04-10,Synthetic demonstration record
+REC-00172,MPLADS-SYN-0172,MP-265,2025-12-17,Health Facility,2320000,Community facility,Approved,2026-01-08,Synthetic demonstration record
+REC-00173,MPLADS-SYN-0173,MP-906,2026-05-30,Community Hall,3230000,Community facility,Approved,2026-06-21,Synthetic demonstration record
+REC-00174,MPLADS-SYN-0174,MP-948,2025-12-24,Library,360000,Public utility improvement,Rejected,2026-02-11,Synthetic demonstration record
+REC-00175,MPLADS-SYN-0175,MP-592,2026-06-15,Drainage,1980000,Community facility,Under Review,2026-07-28,Synthetic demonstration record
+REC-00176,MPLADS-SYN-0176,MP-536,2025-11-29,Sports Facility,1860000,Road connectivity,Approved,2026-01-21,Synthetic demonstration record
+REC-00177,MPLADS-SYN-0177,MP-302,2026-05-19,Health Facility,1920000,Local infrastructure need,Under Review,2026-06-26,Synthetic demonstration record
+REC-00178,MPLADS-SYN-0178,MP-700,2026-02-21,Street Lighting,400000,Water and sanitation,Approved,2026-04-19,Synthetic demonstration record
+REC-00179,MPLADS-SYN-0179,MP-511,2026-02-17,Street Lighting,930000,Water and sanitation,Rejected,2026-03-06,Synthetic demonstration record
+REC-00180,MPLADS-SYN-0180,MP-656,2026-04-01,Library,390000,Road connectivity,Approved,2026-04-22,Synthetic demonstration record
+REC-00181,MPLADS-SYN-0181,MP-307,2026-06-30,Sports Facility,1920000,Road connectivity,Under Review,2026-07-28,Synthetic demonstration record
+REC-00182,MPLADS-SYN-0182,MP-633,2026-02-23,Sports Facility,780000,Road connectivity,Approved,2026-03-17,Synthetic demonstration record
+REC-00183,MPLADS-SYN-0183,MP-773,2026-01-10,School Building,1240000,Road connectivity,Rejected,2026-02-16,Synthetic demonstration record
+REC-00184,MPLADS-SYN-0184,MP-257,2026-01-18,Library,1050000,Road connectivity,Approved,2026-02-09,Synthetic demonstration record
+REC-00185,MPLADS-SYN-0185,MP-993,2026-04-29,Drinking Water,1510000,Water and sanitation,Approved,2026-06-12,Synthetic demonstration record
+REC-00186,MPLADS-SYN-0186,MP-798,2026-05-14,Library,1190000,Local infrastructure need,Rejected,2026-07-13,Synthetic demonstration record
+REC-00187,MPLADS-SYN-0187,MP-414,2026-07-15,Health Facility,2150000,Community facility,Approved,2026-08-23,Synthetic demonstration record
+REC-00188,MPLADS-SYN-0188,MP-740,2026-06-18,Solar Lighting,1390000,Community facility,Approved,2026-07-08,Synthetic demonstration record
+REC-00189,MPLADS-SYN-0189,MP-520,2025-10-24,School Building,1070000,Road connectivity,Under Review,2025-12-01,Synthetic demonstration record
+REC-00190,MPLADS-SYN-0190,MP-925,2026-05-12,Drainage,890000,Road connectivity,Under Review,2026-06-06,Synthetic demonstration record
+REC-00191,MPLADS-SYN-0191,MP-737,2025-11-29,Solar Lighting,1140000,Public utility improvement,Rejected,2026-01-19,Synthetic demonstration record
+REC-00192,MPLADS-SYN-0192,MP-206,2026-02-22,Community Hall,1490000,Public utility improvement,Rejected,2026-03-21,Synthetic demonstration record
+REC-00193,MPLADS-SYN-0193,MP-503,2025-12-16,Drinking Water,810000,Road connectivity,Rejected,2026-01-11,Synthetic demonstration record
+REC-00194,MPLADS-SYN-0194,MP-509,2026-01-20,Road,1860000,Water and sanitation,Rejected,2026-03-09,Synthetic demonstration record
+REC-00195,MPLADS-SYN-0195,MP-587,2025-10-11,Library,1480000,Water and sanitation,Under Review,2025-12-01,Synthetic demonstration record
+REC-00196,MPLADS-SYN-0196,MP-469,2026-01-05,School Building,1830000,Community facility,Rejected,2026-01-24,Synthetic demonstration record
+REC-00197,MPLADS-SYN-0197,MP-953,2026-06-14,Drinking Water,1600000,Road connectivity,Approved,2026-07-30,Synthetic demonstration record
+REC-00198,MPLADS-SYN-0198,MP-709,2025-12-12,Library,1390000,Local infrastructure need,Under Review,2026-01-10,Synthetic demonstration record
+REC-00199,MPLADS-SYN-0199,MP-124,2026-01-23,Road,2000000,Community facility,Under Review,2026-02-18,Synthetic demonstration record
+REC-00200,MPLADS-SYN-0200,MP-905,2025-12-07,School Building,4310000,Water and sanitation,Approved,2026-01-03,Synthetic demonstration record
+REC-00201,MPLADS-SYN-0201,MP-722,2026-04-28,Community Hall,2450000,Community facility,Approved,2026-06-25,Synthetic demonstration record
+REC-00202,MPLADS-SYN-0202,MP-969,2025-10-17,Street Lighting,1020000,Water and sanitation,Approved,2025-11-24,Synthetic demonstration record
+REC-00203,MPLADS-SYN-0203,MP-133,2026-04-16,Community Hall,3840000,Local infrastructure need,Approved,2026-05-06,Synthetic demonstration record
+REC-00204,MPLADS-SYN-0204,MP-724,2025-11-04,Drinking Water,710000,Local infrastructure need,Under Review,2025-12-08,Synthetic demonstration record
+REC-00205,MPLADS-SYN-0205,MP-100,2025-11-12,Health Facility,4430000,Road connectivity,Under Review,2025-12-08,Synthetic demonstration record
+REC-00206,MPLADS-SYN-0206,MP-522,2026-01-29,Drinking Water,760000,Road connectivity,Rejected,2026-03-24,Synthetic demonstration record
+REC-00207,MPLADS-SYN-0207,MP-876,2025-11-23,Drainage,2090000,Local infrastructure need,Under Review,2026-01-14,Synthetic demonstration record
+REC-00208,MPLADS-SYN-0208,MP-113,2025-11-30,Health Facility,2310000,Local infrastructure need,Approved,2026-01-17,Synthetic demonstration record
+REC-00209,MPLADS-SYN-0209,MP-199,2025-12-05,Sports Facility,1950000,Water and sanitation,Under Review,2026-01-18,Synthetic demonstration record
+REC-00210,MPLADS-SYN-0210,MP-720,2025-11-17,Drainage,2350000,Local infrastructure need,Under Review,2026-01-11,Synthetic demonstration record
+REC-00211,MPLADS-SYN-0211,MP-717,2025-11-22,Drinking Water,440000,Community facility,Approved,2025-12-28,Synthetic demonstration record
+REC-00212,MPLADS-SYN-0212,MP-329,2025-12-01,Health Facility,3010000,Community facility,Approved,2026-01-09,Synthetic demonstration record
+REC-00213,MPLADS-SYN-0213,MP-727,2026-04-13,Community Hall,2760000,Community facility,Rejected,2026-05-27,Synthetic demonstration record
+REC-00214,MPLADS-SYN-0214,MP-336,2025-11-19,Sports Facility,1050000,Water and sanitation,Rejected,2025-12-15,Synthetic demonstration record
+REC-00215,MPLADS-SYN-0215,MP-698,2026-04-05,Solar Lighting,1300000,Water and sanitation,Approved,2026-04-22,Synthetic demonstration record
+REC-00216,MPLADS-SYN-0216,MP-879,2026-05-16,Drinking Water,970000,Public utility improvement,Rejected,2026-06-11,Synthetic demonstration record
+REC-00217,MPLADS-SYN-0217,MP-412,2026-04-23,Sports Facility,1020000,Public utility improvement,Approved,2026-05-11,Synthetic demonstration record
+REC-00218,MPLADS-SYN-0218,MP-621,2025-11-05,Sports Facility,2190000,Water and sanitation,Rejected,2025-11-30,Synthetic demonstration record
+REC-00219,MPLADS-SYN-0219,MP-471,2026-06-08,Library,440000,Community facility,Rejected,2026-06-29,Synthetic demonstration record
+REC-00220,MPLADS-SYN-0220,MP-964,2025-12-16,Drainage,2170000,Road connectivity,Under Review,2026-02-12,Synthetic demonstration record
+REC-00221,MPLADS-SYN-0221,MP-732,2026-01-26,Street Lighting,500000,Public utility improvement,Approved,2026-03-13,Synthetic demonstration record
+REC-00222,MPLADS-SYN-0222,MP-107,2026-03-26,School Building,2350000,Local infrastructure need,Approved,2026-05-23,Synthetic demonstration record
+REC-00223,MPLADS-SYN-0223,MP-415,2026-01-08,Health Facility,1270000,Community facility,Approved,2026-02-21,Synthetic demonstration record
+REC-00224,MPLADS-SYN-0224,MP-611,2025-11-14,Solar Lighting,960000,Public utility improvement,Approved,2025-12-25,Synthetic demonstration record
+REC-00225,MPLADS-SYN-0225,MP-936,2026-03-08,Street Lighting,330000,Community facility,Rejected,2026-04-24,Synthetic demonstration record
+REC-00226,MPLADS-SYN-0226,MP-516,2025-12-24,Community Hall,3090000,Community facility,Rejected,2026-01-12,Synthetic demonstration record
+REC-00227,MPLADS-SYN-0227,MP-874,2026-01-04,Sports Facility,2220000,Community facility,Under Review,2026-03-03,Synthetic demonstration record
+REC-00228,MPLADS-SYN-0228,MP-585,2026-02-17,Street Lighting,1080000,Public utility improvement,Under Review,2026-04-05,Synthetic demonstration record
+REC-00229,MPLADS-SYN-0229,MP-590,2026-03-25,Community Hall,1760000,Community facility,Under Review,2026-04-22,Synthetic demonstration record
+REC-00230,MPLADS-SYN-0230,MP-299,2025-11-05,Drinking Water,850000,Water and sanitation,Under Review,2025-12-07,Synthetic demonstration record
+REC-00231,MPLADS-SYN-0231,MP-152,2026-04-12,Community Hall,3300000,Public utility improvement,Rejected,2026-05-09,Synthetic demonstration record
+REC-00232,MPLADS-SYN-0232,MP-601,2026-05-02,Street Lighting,460000,Water and sanitation,Rejected,2026-06-28,Synthetic demonstration record
+REC-00233,MPLADS-SYN-0233,MP-921,2026-05-11,Road,1210000,Road connectivity,Rejected,2026-06-11,Synthetic demonstration record
+REC-00234,MPLADS-SYN-0234,MP-630,2026-03-14,Library,990000,Water and sanitation,Rejected,2026-04-22,Synthetic demonstration record
+REC-00235,MPLADS-SYN-0235,MP-365,2026-04-07,School Building,1950000,Community facility,Under Review,2026-05-20,Synthetic demonstration record
+REC-00236,MPLADS-SYN-0236,MP-457,2026-03-27,Sports Facility,850000,Road connectivity,Approved,2026-04-28,Synthetic demonstration record
+REC-00237,MPLADS-SYN-0237,MP-358,2026-01-18,School Building,1160000,Road connectivity,Approved,2026-03-19,Synthetic demonstration record
+REC-00238,MPLADS-SYN-0238,MP-232,2026-03-15,School Building,1460000,Road connectivity,Approved,2026-04-22,Synthetic demonstration record
+REC-00239,MPLADS-SYN-0239,MP-553,2026-05-09,Solar Lighting,1050000,Water and sanitation,Approved,2026-07-01,Synthetic demonstration record
+REC-00240,MPLADS-SYN-0240,MP-105,2025-10-04,Sports Facility,500000,Community facility,Under Review,2025-12-01,Synthetic demonstration record
+REC-00241,MPLADS-SYN-0241,MP-725,2025-11-02,Road,1510000,Water and sanitation,Under Review,2025-12-01,Synthetic demonstration record
+REC-00242,MPLADS-SYN-0242,MP-738,2026-04-24,Sports Facility,1940000,Road connectivity,Under Review,2026-05-10,Synthetic demonstration record
+REC-00243,MPLADS-SYN-0243,MP-551,2026-05-07,School Building,1960000,Road connectivity,Under Review,2026-06-26,Synthetic demonstration record
+REC-00244,MPLADS-SYN-0244,MP-891,2026-06-04,Library,730000,Water and sanitation,Approved,2026-07-12,Synthetic demonstration record
+REC-00245,MPLADS-SYN-0245,MP-644,2025-12-04,School Building,2990000,Public utility improvement,Approved,2026-01-22,Synthetic demonstration record
+REC-00246,MPLADS-SYN-0246,MP-512,2026-04-09,Library,1590000,Community facility,Approved,2026-05-05,Synthetic demonstration record
+REC-00247,MPLADS-SYN-0247,MP-223,2025-12-05,Drinking Water,460000,Public utility improvement,Rejected,2026-01-27,Synthetic demonstration record
+REC-00248,MPLADS-SYN-0248,MP-410,2025-11-22,Road,2120000,Community facility,Approved,2026-01-20,Synthetic demonstration record
+REC-00249,MPLADS-SYN-0249,MP-930,2026-02-27,Drainage,440000,Local infrastructure need,Rejected,2026-03-28,Synthetic demonstration record
+REC-00250,MPLADS-SYN-0250,MP-314,2026-04-11,Street Lighting,240000,Local infrastructure need,Under Review,2026-05-01,Synthetic demonstration record
+REC-00251,MPLADS-SYN-0251,MP-101,2025-12-25,Community Hall,3570000,Water and sanitation,Approved,2026-01-20,Synthetic demonstration record
+REC-00252,MPLADS-SYN-0252,MP-363,2026-03-24,Street Lighting,970000,Local infrastructure need,Under Review,2026-04-14,Synthetic demonstration record
+REC-00253,MPLADS-SYN-0253,MP-921,2026-03-28,Sports Facility,1220000,Public utility improvement,Rejected,2026-05-05,Synthetic demonstration record
+REC-00254,MPLADS-SYN-0254,MP-335,2026-03-28,Road,2630000,Community facility,Rejected,2026-05-22,Synthetic demonstration record
+REC-00255,MPLADS-SYN-0255,MP-542,2026-04-20,Solar Lighting,990000,Public utility improvement,Approved,2026-05-23,Synthetic demonstration record
+REC-00256,MPLADS-SYN-0256,MP-578,2025-11-05,Solar Lighting,1250000,Road connectivity,Rejected,2025-12-07,Synthetic demonstration record
+REC-00257,MPLADS-SYN-0257,MP-907,2026-01-10,Street Lighting,1440000,Water and sanitation,Rejected,2026-01-27,Synthetic demonstration record
+REC-00258,MPLADS-SYN-0258,MP-323,2025-12-07,Street Lighting,1200000,Public utility improvement,Rejected,2026-01-03,Synthetic demonstration record
+REC-00259,MPLADS-SYN-0259,MP-734,2025-09-20,Street Lighting,760000,Water and sanitation,Under Review,2025-10-12,Synthetic demonstration record
+REC-00260,MPLADS-SYN-0260,MP-708,2026-05-26,Road,670000,Public utility improvement,Approved,2026-07-25,Synthetic demonstration record
+REC-00261,MPLADS-SYN-0261,MP-390,2025-11-19,Sports Facility,810000,Local infrastructure need,Approved,2025-12-09,Synthetic demonstration record
+REC-00262,MPLADS-SYN-0262,MP-283,2026-04-16,School Building,3800000,Water and sanitation,Rejected,2026-05-03,Synthetic demonstration record
+REC-00263,MPLADS-SYN-0263,MP-923,2026-03-04,School Building,2470000,Community facility,Approved,2026-05-01,Synthetic demonstration record
+REC-00264,MPLADS-SYN-0264,MP-435,2026-02-25,Road,1340000,Local infrastructure need,Rejected,2026-03-31,Synthetic demonstration record
+REC-00265,MPLADS-SYN-0265,MP-368,2025-11-19,Library,1120000,Community facility,Rejected,2026-01-03,Synthetic demonstration record
+REC-00266,MPLADS-SYN-0266,MP-749,2025-10-04,Library,540000,Water and sanitation,Approved,2025-11-21,Synthetic demonstration record
+REC-00267,MPLADS-SYN-0267,MP-341,2026-06-19,Solar Lighting,1200000,Local infrastructure need,Rejected,2026-07-09,Synthetic demonstration record
+REC-00268,MPLADS-SYN-0268,MP-357,2025-12-28,Drinking Water,1740000,Public utility improvement,Under Review,2026-02-09,Synthetic demonstration record
+REC-00269,MPLADS-SYN-0269,MP-480,2026-02-14,School Building,4690000,Road connectivity,Rejected,2026-04-03,Synthetic demonstration record
+REC-00270,MPLADS-SYN-0270,MP-315,2026-01-23,Sports Facility,2030000,Road connectivity,Approved,2026-03-01,Synthetic demonstration record
+REC-00271,MPLADS-SYN-0271,MP-875,2026-01-07,Health Facility,3050000,Public utility improvement,Rejected,2026-01-24,Synthetic demonstration record
+REC-00272,MPLADS-SYN-0272,MP-878,2026-01-18,Health Facility,4400000,Water and sanitation,Approved,2026-02-27,Synthetic demonstration record
+REC-00273,MPLADS-SYN-0273,MP-581,2026-02-07,Sports Facility,2140000,Road connectivity,Rejected,2026-03-24,Synthetic demonstration record
+REC-00274,MPLADS-SYN-0274,MP-592,2026-07-11,Drinking Water,500000,Local infrastructure need,Approved,2026-08-05,Synthetic demonstration record
+REC-00275,MPLADS-SYN-0275,MP-286,2026-04-21,Library,740000,Public utility improvement,Rejected,2026-05-12,Synthetic demonstration record
+REC-00276,MPLADS-SYN-0276,MP-683,2025-12-07,School Building,3740000,Local infrastructure need,Approved,2026-01-03,Synthetic demonstration record
+REC-00277,MPLADS-SYN-0277,MP-572,2026-01-05,Library,810000,Road connectivity,Under Review,2026-02-27,Synthetic demonstration record
+REC-00278,MPLADS-SYN-0278,MP-702,2025-09-22,Health Facility,4090000,Community facility,Under Review,2025-11-19,Synthetic demonstration record
+REC-00279,MPLADS-SYN-0279,MP-816,2025-12-21,Community Hall,3270000,Public utility improvement,Approved,2026-02-05,Synthetic demonstration record
+REC-00280,MPLADS-SYN-0280,MP-612,2026-03-14,Road,1270000,Water and sanitation,Approved,2026-04-19,Synthetic demonstration record
+REC-00281,MPLADS-SYN-0281,MP-617,2025-11-04,Sports Facility,1480000,Local infrastructure need,Rejected,2025-12-26,Synthetic demonstration record
+REC-00282,MPLADS-SYN-0282,MP-876,2026-05-04,Road,900000,Local infrastructure need,Rejected,2026-06-29,Synthetic demonstration record
+REC-00283,MPLADS-SYN-0283,MP-221,2025-12-29,Community Hall,2560000,Local infrastructure need,Rejected,2026-01-30,Synthetic demonstration record
+REC-00284,MPLADS-SYN-0284,MP-607,2026-04-17,Community Hall,2890000,Local infrastructure need,Rejected,2026-06-04,Synthetic demonstration record
+REC-00285,MPLADS-SYN-0285,MP-879,2025-12-21,Community Hall,2860000,Community facility,Under Review,2026-02-02,Synthetic demonstration record
+REC-00286,MPLADS-SYN-0286,MP-848,2026-05-09,Sports Facility,2400000,Road connectivity,Approved,2026-05-24,Synthetic demonstration record
+REC-00287,MPLADS-SYN-0287,MP-360,2025-11-05,Drinking Water,1650000,Community facility,Under Review,2025-12-19,Synthetic demonstration record
+REC-00288,MPLADS-SYN-0288,MP-543,2026-05-10,Sports Facility,1960000,Road connectivity,Under Review,2026-07-08,Synthetic demonstration record
+REC-00289,MPLADS-SYN-0289,MP-107,2026-02-14,Sports Facility,1150000,Road connectivity,Under Review,2026-04-09,Synthetic demonstration record
+REC-00290,MPLADS-SYN-0290,MP-590,2026-05-31,Sports Facility,1650000,Public utility improvement,Approved,2026-07-24,Synthetic demonstration record
+REC-00291,MPLADS-SYN-0291,MP-293,2026-03-06,Library,1260000,Local infrastructure need,Rejected,2026-04-25,Synthetic demonstration record
+REC-00292,MPLADS-SYN-0292,MP-350,2026-05-12,Health Facility,4570000,Water and sanitation,Under Review,2026-06-11,Synthetic demonstration record
+REC-00293,MPLADS-SYN-0293,MP-538,2026-05-10,Sports Facility,1000000,Water and sanitation,Under Review,2026-07-03,Synthetic demonstration record
+REC-00294,MPLADS-SYN-0294,MP-948,2026-03-06,Road,2270000,Road connectivity,Under Review,2026-04-07,Synthetic demonstration record
+REC-00295,MPLADS-SYN-0295,MP-664,2026-04-13,Library,730000,Community facility,Under Review,2026-06-04,Synthetic demonstration record
+REC-00296,MPLADS-SYN-0296,MP-124,2026-06-05,Drinking Water,1830000,Public utility improvement,Approved,2026-07-30,Synthetic demonstration record
+REC-00297,MPLADS-SYN-0297,MP-572,2026-07-01,Street Lighting,1030000,Road connectivity,Rejected,2026-07-16,Synthetic demonstration record
+REC-00298,MPLADS-SYN-0298,MP-258,2026-04-29,Road,1310000,Water and sanitation,Approved,2026-05-21,Synthetic demonstration record
+REC-00299,MPLADS-SYN-0299,MP-262,2026-05-24,Street Lighting,710000,Public utility improvement,Approved,2026-06-16,Synthetic demonstration record
+REC-00300,MPLADS-SYN-0300,MP-712,2026-02-01,Drainage,2430000,Community facility,Rejected,2026-03-12,Synthetic demonstration record
+REC-00301,MPLADS-SYN-0301,MP-324,2026-02-14,Community Hall,1790000,Local infrastructure need,Approved,2026-03-16,Synthetic demonstration record
+REC-00302,MPLADS-SYN-0302,MP-970,2026-01-01,Solar Lighting,550000,Water and sanitation,Under Review,2026-02-01,Synthetic demonstration record
+REC-00303,MPLADS-SYN-0303,MP-350,2026-06-16,School Building,4370000,Local infrastructure need,Rejected,2026-08-08,Synthetic demonstration record
+REC-00304,MPLADS-SYN-0304,MP-707,2025-11-22,Road,2770000,Local infrastructure need,Under Review,2025-12-24,Synthetic demonstration record
+REC-00305,MPLADS-SYN-0305,MP-923,2026-01-30,Drinking Water,1570000,Public utility improvement,Rejected,2026-02-27,Synthetic demonstration record
+REC-00306,MPLADS-SYN-0306,MP-126,2026-05-26,Drinking Water,1940000,Local infrastructure need,Approved,2026-07-20,Synthetic demonstration record
+REC-00307,MPLADS-SYN-0307,MP-465,2026-03-02,Drinking Water,330000,Public utility improvement,Approved,2026-04-21,Synthetic demonstration record
+REC-00308,MPLADS-SYN-0308,MP-104,2026-01-27,Community Hall,2920000,Local infrastructure need,Under Review,2026-02-19,Synthetic demonstration record
+REC-00309,MPLADS-SYN-0309,MP-180,2026-07-01,Health Facility,3710000,Community facility,Approved,2026-08-29,Synthetic demonstration record
+REC-00310,MPLADS-SYN-0310,MP-876,2026-01-16,Sports Facility,1990000,Water and sanitation,Approved,2026-02-03,Synthetic demonstration record
+REC-00311,MPLADS-SYN-0311,MP-641,2026-04-17,Drinking Water,1750000,Local infrastructure need,Approved,2026-06-07,Synthetic demonstration record
+REC-00312,MPLADS-SYN-0312,MP-157,2025-12-25,Solar Lighting,430000,Road connectivity,Under Review,2026-02-11,Synthetic demonstration record
+REC-00313,MPLADS-SYN-0313,MP-825,2026-02-07,Sports Facility,1760000,Water and sanitation,Approved,2026-03-27,Synthetic demonstration record
+REC-00314,MPLADS-SYN-0314,MP-554,2026-06-02,Street Lighting,330000,Water and sanitation,Rejected,2026-06-30,Synthetic demonstration record
+REC-00315,MPLADS-SYN-0315,MP-930,2025-10-07,Sports Facility,2050000,Community facility,Approved,2025-11-08,Synthetic demonstration record
+REC-00316,MPLADS-SYN-0316,MP-753,2025-12-01,Drinking Water,1220000,Road connectivity,Approved,2026-01-18,Synthetic demonstration record
+REC-00317,MPLADS-SYN-0317,MP-483,2025-12-29,Solar Lighting,350000,Local infrastructure need,Approved,2026-02-13,Synthetic demonstration record
+REC-00318,MPLADS-SYN-0318,MP-980,2026-07-08,Drinking Water,1010000,Public utility improvement,Approved,2026-08-19,Synthetic demonstration record
+REC-00319,MPLADS-SYN-0319,MP-972,2026-01-29,Drainage,2170000,Public utility improvement,Under Review,2026-02-19,Synthetic demonstration record
+REC-00320,MPLADS-SYN-0320,MP-451,2026-03-30,Solar Lighting,270000,Public utility improvement,Under Review,2026-05-07,Synthetic demonstration record
+REC-00321,MPLADS-SYN-0321,MP-578,2025-10-19,School Building,4960000,Water and sanitation,Approved,2025-11-24,Synthetic demonstration record
+REC-00322,MPLADS-SYN-0322,MP-705,2026-01-10,Health Facility,3460000,Local infrastructure need,Approved,2026-01-28,Synthetic demonstration record
+REC-00323,MPLADS-SYN-0323,MP-226,2026-04-19,Street Lighting,540000,Community facility,Rejected,2026-06-12,Synthetic demonstration record
+REC-00324,MPLADS-SYN-0324,MP-965,2026-01-09,Drinking Water,840000,Road connectivity,Under Review,2026-02-25,Synthetic demonstration record
+REC-00325,MPLADS-SYN-0325,MP-496,2025-11-16,Community Hall,1870000,Local infrastructure need,Under Review,2025-12-01,Synthetic demonstration record
+REC-00326,MPLADS-SYN-0326,MP-880,2026-02-11,Road,2980000,Road connectivity,Under Review,2026-04-04,Synthetic demonstration record
+REC-00327,MPLADS-SYN-0327,MP-830,2025-11-27,Solar Lighting,270000,Road connectivity,Approved,2026-01-13,Synthetic demonstration record
+REC-00328,MPLADS-SYN-0328,MP-239,2026-05-10,Solar Lighting,420000,Road connectivity,Under Review,2026-06-20,Synthetic demonstration record
+REC-00329,MPLADS-SYN-0329,MP-142,2026-04-19,School Building,1920000,Public utility improvement,Under Review,2026-05-05,Synthetic demonstration record
+REC-00330,MPLADS-SYN-0330,MP-971,2025-11-25,Solar Lighting,1180000,Water and sanitation,Under Review,2026-01-01,Synthetic demonstration record
+REC-00331,MPLADS-SYN-0331,MP-715,2025-10-30,Solar Lighting,710000,Public utility improvement,Under Review,2025-12-05,Synthetic demonstration record
+REC-00332,MPLADS-SYN-0332,MP-623,2025-12-12,Solar Lighting,1350000,Local infrastructure need,Approved,2026-01-28,Synthetic demonstration record
+REC-00333,MPLADS-SYN-0333,MP-779,2026-03-17,Sports Facility,1550000,Public utility improvement,Rejected,2026-04-29,Synthetic demonstration record
+REC-00334,MPLADS-SYN-0334,MP-407,2025-10-21,Street Lighting,700000,Water and sanitation,Rejected,2025-12-15,Synthetic demonstration record
+REC-00335,MPLADS-SYN-0335,MP-604,2025-10-16,Drainage,1870000,Road connectivity,Under Review,2025-12-06,Synthetic demonstration record
+REC-00336,MPLADS-SYN-0336,MP-478,2026-06-02,Community Hall,3320000,Road connectivity,Approved,2026-06-25,Synthetic demonstration record
+REC-00337,MPLADS-SYN-0337,MP-626,2026-02-13,Drinking Water,1820000,Water and sanitation,Approved,2026-03-18,Synthetic demonstration record
+REC-00338,MPLADS-SYN-0338,MP-931,2025-12-01,Library,1310000,Public utility improvement,Rejected,2026-01-23,Synthetic demonstration record
+REC-00339,MPLADS-SYN-0339,MP-730,2026-01-15,Road,760000,Local infrastructure need,Approved,2026-03-02,Synthetic demonstration record
+REC-00340,MPLADS-SYN-0340,MP-827,2025-12-13,Library,310000,Road connectivity,Under Review,2026-01-20,Synthetic demonstration record
+REC-00341,MPLADS-SYN-0341,MP-391,2025-12-04,Community Hall,1000000,Community facility,Under Review,2026-01-24,Synthetic demonstration record
+REC-00342,MPLADS-SYN-0342,MP-854,2025-10-21,Community Hall,1780000,Water and sanitation,Rejected,2025-11-21,Synthetic demonstration record
+REC-00343,MPLADS-SYN-0343,MP-546,2025-12-04,Solar Lighting,350000,Water and sanitation,Approved,2025-12-31,Synthetic demonstration record
+REC-00344,MPLADS-SYN-0344,MP-677,2025-09-15,Street Lighting,1210000,Road connectivity,Rejected,2025-11-11,Synthetic demonstration record
+REC-00345,MPLADS-SYN-0345,MP-220,2026-03-31,Library,1250000,Public utility improvement,Under Review,2026-05-08,Synthetic demonstration record
+REC-00346,MPLADS-SYN-0346,MP-326,2026-03-18,Drinking Water,660000,Road connectivity,Approved,2026-04-12,Synthetic demonstration record
+REC-00347,MPLADS-SYN-0347,MP-541,2025-10-16,Health Facility,1120000,Water and sanitation,Under Review,2025-12-09,Synthetic demonstration record
+REC-00348,MPLADS-SYN-0348,MP-484,2026-04-14,Sports Facility,1820000,Road connectivity,Approved,2026-05-08,Synthetic demonstration record
+REC-00349,MPLADS-SYN-0349,MP-602,2026-04-19,Drinking Water,1240000,Public utility improvement,Rejected,2026-05-29,Synthetic demonstration record
+REC-00350,MPLADS-SYN-0350,MP-302,2026-03-20,School Building,3420000,Local infrastructure need,Under Review,2026-04-27,Synthetic demonstration record
+REC-00351,MPLADS-SYN-0351,MP-810,2026-01-18,Sports Facility,1820000,Public utility improvement,Under Review,2026-02-08,Synthetic demonstration record
+REC-00352,MPLADS-SYN-0352,MP-752,2026-03-10,Library,1430000,Local infrastructure need,Approved,2026-04-15,Synthetic demonstration record
+REC-00353,MPLADS-SYN-0353,MP-473,2026-04-04,Street Lighting,1070000,Road connectivity,Approved,2026-05-07,Synthetic demonstration record
+REC-00354,MPLADS-SYN-0354,MP-464,2025-12-25,School Building,4060000,Community facility,Under Review,2026-02-01,Synthetic demonstration record
+REC-00355,MPLADS-SYN-0355,MP-920,2025-11-30,Drinking Water,1430000,Public utility improvement,Approved,2026-01-11,Synthetic demonstration record
+REC-00356,MPLADS-SYN-0356,MP-779,2025-12-10,Community Hall,3170000,Public utility improvement,Approved,2026-01-17,Synthetic demonstration record
+REC-00357,MPLADS-SYN-0357,MP-595,2025-11-30,Community Hall,880000,Water and sanitation,Rejected,2026-01-16,Synthetic demonstration record
+REC-00358,MPLADS-SYN-0358,MP-673,2026-05-30,Drinking Water,1380000,Community facility,Under Review,2026-06-14,Synthetic demonstration record
+REC-00359,MPLADS-SYN-0359,MP-922,2026-02-25,Solar Lighting,1030000,Community facility,Approved,2026-03-13,Synthetic demonstration record
+REC-00360,MPLADS-SYN-0360,MP-527,2025-12-07,Health Facility,1970000,Local infrastructure need,Under Review,2026-01-03,Synthetic demonstration record
+REC-00361,MPLADS-SYN-0361,MP-585,2026-04-10,Health Facility,3230000,Local infrastructure need,Under Review,2026-05-16,Synthetic demonstration record
+REC-00362,MPLADS-SYN-0362,MP-582,2026-02-22,School Building,2480000,Community facility,Under Review,2026-03-19,Synthetic demonstration record
+REC-00363,MPLADS-SYN-0363,MP-740,2026-01-19,Drainage,2330000,Community facility,Rejected,2026-03-12,Synthetic demonstration record
+REC-00364,MPLADS-SYN-0364,MP-328,2026-06-04,Solar Lighting,1630000,Water and sanitation,Rejected,2026-06-21,Synthetic demonstration record
+REC-00365,MPLADS-SYN-0365,MP-798,2025-12-26,Sports Facility,1050000,Public utility improvement,Approved,2026-02-21,Synthetic demonstration record
+REC-00366,MPLADS-SYN-0366,MP-530,2026-01-06,School Building,3490000,Local infrastructure need,Under Review,2026-03-03,Synthetic demonstration record
+REC-00367,MPLADS-SYN-0367,MP-125,2026-02-05,Library,760000,Local infrastructure need,Approved,2026-03-15,Synthetic demonstration record
+REC-00368,MPLADS-SYN-0368,MP-909,2026-03-18,Drainage,1490000,Community facility,Approved,2026-05-10,Synthetic demonstration record
+REC-00369,MPLADS-SYN-0369,MP-195,2026-06-23,School Building,3890000,Local infrastructure need,Under Review,2026-07-21,Synthetic demonstration record
+REC-00370,MPLADS-SYN-0370,MP-144,2025-12-23,Street Lighting,1430000,Public utility improvement,Rejected,2026-01-25,Synthetic demonstration record
+REC-00371,MPLADS-SYN-0371,MP-133,2026-04-09,Health Facility,2760000,Community facility,Approved,2026-06-06,Synthetic demonstration record
+REC-00372,MPLADS-SYN-0372,MP-851,2025-12-20,Library,1180000,Public utility improvement,Approved,2026-02-09,Synthetic demonstration record
+REC-00373,MPLADS-SYN-0373,MP-348,2025-12-26,Solar Lighting,1750000,Water and sanitation,Approved,2026-01-21,Synthetic demonstration record
+REC-00374,MPLADS-SYN-0374,MP-781,2026-06-18,Health Facility,1000000,Public utility improvement,Rejected,2026-08-05,Synthetic demonstration record
+REC-00375,MPLADS-SYN-0375,MP-770,2026-05-05,Health Facility,4320000,Local infrastructure need,Approved,2026-06-22,Synthetic demonstration record
+REC-00376,MPLADS-SYN-0376,MP-390,2026-01-25,School Building,1450000,Water and sanitation,Approved,2026-03-07,Synthetic demonstration record
+REC-00377,MPLADS-SYN-0377,MP-542,2026-01-08,Sports Facility,760000,Water and sanitation,Approved,2026-02-09,Synthetic demonstration record
+REC-00378,MPLADS-SYN-0378,MP-856,2025-12-18,Road,700000,Local infrastructure need,Approved,2026-01-21,Synthetic demonstration record
+REC-00379,MPLADS-SYN-0379,MP-816,2026-02-02,Solar Lighting,360000,Local infrastructure need,Approved,2026-03-07,Synthetic demonstration record
+REC-00380,MPLADS-SYN-0380,MP-860,2025-11-17,Sports Facility,750000,Water and sanitation,Rejected,2025-12-20,Synthetic demonstration record
+REC-00381,MPLADS-SYN-0381,MP-384,2026-04-07,Community Hall,2720000,Public utility improvement,Rejected,2026-05-11,Synthetic demonstration record
+REC-00382,MPLADS-SYN-0382,MP-968,2026-06-16,Drainage,2310000,Local infrastructure need,Under Review,2026-07-30,Synthetic demonstration record
+REC-00383,MPLADS-SYN-0383,MP-672,2026-02-16,Drinking Water,640000,Public utility improvement,Approved,2026-04-03,Synthetic demonstration record
+REC-00384,MPLADS-SYN-0384,MP-940,2026-04-25,Health Facility,2500000,Water and sanitation,Rejected,2026-05-25,Synthetic demonstration record
+REC-00385,MPLADS-SYN-0385,MP-708,2025-11-09,Street Lighting,1040000,Road connectivity,Approved,2026-01-06,Synthetic demonstration record
+REC-00386,MPLADS-SYN-0386,MP-662,2025-10-30,Health Facility,2900000,Water and sanitation,Rejected,2025-12-03,Synthetic demonstration record
+REC-00387,MPLADS-SYN-0387,MP-724,2025-11-30,Drinking Water,1940000,Community facility,Approved,2026-01-03,Synthetic demonstration record
+REC-00388,MPLADS-SYN-0388,MP-639,2025-11-07,Drainage,1800000,Water and sanitation,Approved,2025-12-11,Synthetic demonstration record
+REC-00389,MPLADS-SYN-0389,MP-493,2026-01-20,Health Facility,4090000,Community facility,Approved,2026-03-12,Synthetic demonstration record
+REC-00390,MPLADS-SYN-0390,MP-820,2026-04-03,Library,840000,Road connectivity,Approved,2026-04-23,Synthetic demonstration record
+REC-00391,MPLADS-SYN-0391,MP-438,2025-11-06,Drinking Water,1900000,Water and sanitation,Rejected,2025-12-10,Synthetic demonstration record
+REC-00392,MPLADS-SYN-0392,MP-247,2025-11-14,Drainage,1330000,Public utility improvement,Under Review,2025-11-29,Synthetic demonstration record
+REC-00393,MPLADS-SYN-0393,MP-741,2025-11-20,Health Facility,2180000,Water and sanitation,Approved,2026-01-09,Synthetic demonstration record
+REC-00394,MPLADS-SYN-0394,MP-924,2025-12-06,Drinking Water,600000,Water and sanitation,Under Review,2026-01-27,Synthetic demonstration record
+REC-00395,MPLADS-SYN-0395,MP-499,2025-11-30,Health Facility,3630000,Water and sanitation,Approved,2025-12-22,Synthetic demonstration record
+REC-00396,MPLADS-SYN-0396,MP-650,2026-03-02,Street Lighting,520000,Public utility improvement,Approved,2026-04-22,Synthetic demonstration record
+REC-00397,MPLADS-SYN-0397,MP-348,2026-07-07,Drainage,1730000,Public utility improvement,Under Review,2026-08-15,Synthetic demonstration record
+REC-00398,MPLADS-SYN-0398,MP-602,2026-01-10,Solar Lighting,980000,Public utility improvement,Approved,2026-01-28,Synthetic demonstration record
+REC-00399,MPLADS-SYN-0399,MP-578,2026-04-28,Sports Facility,1100000,Public utility improvement,Approved,2026-06-13,Synthetic demonstration record
+REC-00400,MPLADS-SYN-0400,MP-671,2026-03-17,Sports Facility,530000,Road connectivity,Approved,2026-04-25,Synthetic demonstration record
+REC-00401,MPLADS-SYN-0401,MP-829,2026-02-15,Drainage,2280000,Local infrastructure need,Approved,2026-04-03,Synthetic demonstration record
+REC-00402,MPLADS-SYN-0402,MP-603,2026-02-24,Community Hall,1290000,Road connectivity,Under Review,2026-04-11,Synthetic demonstration record
+REC-00403,MPLADS-SYN-0403,MP-350,2025-12-17,Drinking Water,450000,Local infrastructure need,Under Review,2026-01-22,Synthetic demonstration record
+REC-00404,MPLADS-SYN-0404,MP-698,2026-03-26,Community Hall,3820000,Water and sanitation,Under Review,2026-05-23,Synthetic demonstration record
+REC-00405,MPLADS-SYN-0405,MP-778,2026-01-22,Community Hall,2480000,Water and sanitation,Under Review,2026-03-07,Synthetic demonstration record
+REC-00406,MPLADS-SYN-0406,MP-494,2026-01-01,Solar Lighting,1710000,Community facility,Approved,2026-01-19,Synthetic demonstration record
+REC-00407,MPLADS-SYN-0407,MP-445,2025-12-22,Library,470000,Local infrastructure need,Approved,2026-01-31,Synthetic demonstration record
+REC-00408,MPLADS-SYN-0408,MP-866,2025-11-11,Library,1340000,Water and sanitation,Rejected,2025-12-12,Synthetic demonstration record
+REC-00409,MPLADS-SYN-0409,MP-361,2026-04-01,School Building,1440000,Community facility,Under Review,2026-04-29,Synthetic demonstration record
+REC-00410,MPLADS-SYN-0410,MP-329,2026-03-03,Drainage,1770000,Public utility improvement,Rejected,2026-03-20,Synthetic demonstration record
+REC-00411,MPLADS-SYN-0411,MP-520,2026-05-27,Drainage,1470000,Local infrastructure need,Under Review,2026-07-08,Synthetic demonstration record
+REC-00412,MPLADS-SYN-0412,MP-297,2025-11-28,School Building,1760000,Road connectivity,Under Review,2025-12-24,Synthetic demonstration record
+REC-00413,MPLADS-SYN-0413,MP-162,2025-12-07,Road,1000000,Road connectivity,Approved,2025-12-27,Synthetic demonstration record
+REC-00414,MPLADS-SYN-0414,MP-622,2026-01-22,School Building,2230000,Water and sanitation,Rejected,2026-02-22,Synthetic demonstration record
+REC-00415,MPLADS-SYN-0415,MP-832,2026-04-16,Sports Facility,2180000,Local infrastructure need,Under Review,2026-05-09,Synthetic demonstration record
+REC-00416,MPLADS-SYN-0416,MP-355,2026-06-30,Drainage,2180000,Road connectivity,Approved,2026-08-24,Synthetic demonstration record
+REC-00417,MPLADS-SYN-0417,MP-194,2025-10-26,Solar Lighting,1250000,Community facility,Under Review,2025-12-22,Synthetic demonstration record
+REC-00418,MPLADS-SYN-0418,MP-122,2026-04-27,Health Facility,2550000,Road connectivity,Rejected,2026-06-04,Synthetic demonstration record
+REC-00419,MPLADS-SYN-0419,MP-203,2025-12-31,Health Facility,3560000,Public utility improvement,Approved,2026-02-04,Synthetic demonstration record
+REC-00420,MPLADS-SYN-0420,MP-427,2026-04-02,Drainage,1820000,Local infrastructure need,Approved,2026-05-27,Synthetic demonstration record
+REC-00421,MPLADS-SYN-0421,MP-292,2026-03-16,Community Hall,2830000,Public utility improvement,Approved,2026-05-15,Synthetic demonstration record
+REC-00422,MPLADS-SYN-0422,MP-612,2026-03-27,Sports Facility,2260000,Water and sanitation,Rejected,2026-05-07,Synthetic demonstration record
+REC-00423,MPLADS-SYN-0423,MP-309,2026-01-25,Sports Facility,370000,Public utility improvement,Rejected,2026-03-23,Synthetic demonstration record
+REC-00424,MPLADS-SYN-0424,MP-808,2025-10-31,Health Facility,1500000,Local infrastructure need,Under Review,2025-11-23,Synthetic demonstration record
+REC-00425,MPLADS-SYN-0425,MP-309,2025-11-12,Community Hall,1390000,Community facility,Approved,2025-11-27,Synthetic demonstration record
+REC-00426,MPLADS-SYN-0426,MP-141,2025-11-26,Street Lighting,1470000,Community facility,Approved,2026-01-11,Synthetic demonstration record
+REC-00427,MPLADS-SYN-0427,MP-139,2026-07-12,School Building,4760000,Road connectivity,Approved,2026-08-04,Synthetic demonstration record
+REC-00428,MPLADS-SYN-0428,MP-183,2025-09-25,Sports Facility,1640000,Community facility,Under Review,2025-11-01,Synthetic demonstration record
+REC-00429,MPLADS-SYN-0429,MP-958,2025-10-05,Community Hall,1930000,Road connectivity,Rejected,2025-11-12,Synthetic demonstration record
+REC-00430,MPLADS-SYN-0430,MP-712,2026-03-05,Drainage,1180000,Local infrastructure need,Under Review,2026-03-28,Synthetic demonstration record
+REC-00431,MPLADS-SYN-0431,MP-119,2025-10-14,Library,400000,Public utility improvement,Under Review,2025-12-07,Synthetic demonstration record
+REC-00432,MPLADS-SYN-0432,MP-539,2025-11-12,Road,2280000,Local infrastructure need,Approved,2025-12-15,Synthetic demonstration record
+REC-00433,MPLADS-SYN-0433,MP-424,2026-01-22,Health Facility,2120000,Community facility,Approved,2026-02-08,Synthetic demonstration record
+REC-00434,MPLADS-SYN-0434,MP-988,2026-05-29,Drinking Water,630000,Local infrastructure need,Rejected,2026-07-13,Synthetic demonstration record
+REC-00435,MPLADS-SYN-0435,MP-226,2025-12-08,Community Hall,3240000,Public utility improvement,Approved,2026-01-19,Synthetic demonstration record
+REC-00436,MPLADS-SYN-0436,MP-111,2026-07-17,Solar Lighting,890000,Community facility,Approved,2026-08-09,Synthetic demonstration record
+REC-00437,MPLADS-SYN-0437,MP-511,2026-03-28,Solar Lighting,1620000,Community facility,Rejected,2026-04-30,Synthetic demonstration record
+REC-00438,MPLADS-SYN-0438,MP-922,2025-11-27,Street Lighting,270000,Public utility improvement,Rejected,2025-12-19,Synthetic demonstration record
+REC-00439,MPLADS-SYN-0439,MP-557,2026-05-20,Drainage,530000,Public utility improvement,Approved,2026-06-06,Synthetic demonstration record
+REC-00440,MPLADS-SYN-0440,MP-351,2025-11-02,Street Lighting,1070000,Local infrastructure need,Approved,2025-12-15,Synthetic demonstration record
+REC-00441,MPLADS-SYN-0441,MP-354,2026-01-16,Sports Facility,990000,Local infrastructure need,Approved,2026-02-26,Synthetic demonstration record
+REC-00442,MPLADS-SYN-0442,MP-521,2025-11-11,Drinking Water,1070000,Road connectivity,Rejected,2025-11-28,Synthetic demonstration record
+REC-00443,MPLADS-SYN-0443,MP-326,2026-05-19,Solar Lighting,700000,Public utility improvement,Rejected,2026-06-08,Synthetic demonstration record
+REC-00444,MPLADS-SYN-0444,MP-464,2025-11-27,Solar Lighting,660000,Road connectivity,Approved,2026-01-07,Synthetic demonstration record
+REC-00445,MPLADS-SYN-0445,MP-356,2026-06-19,School Building,3550000,Water and sanitation,Under Review,2026-07-25,Synthetic demonstration record
+REC-00446,MPLADS-SYN-0446,MP-253,2026-06-04,Drinking Water,620000,Water and sanitation,Rejected,2026-06-27,Synthetic demonstration record
+REC-00447,MPLADS-SYN-0447,MP-790,2026-01-11,Solar Lighting,470000,Public utility improvement,Rejected,2026-03-07,Synthetic demonstration record
+REC-00448,MPLADS-SYN-0448,MP-865,2025-11-21,Drinking Water,1330000,Local infrastructure need,Approved,2026-01-04,Synthetic demonstration record
+REC-00449,MPLADS-SYN-0449,MP-215,2025-11-09,Community Hall,1320000,Local infrastructure need,Approved,2025-12-16,Synthetic demonstration record
+REC-00450,MPLADS-SYN-0450,MP-547,2026-04-18,Street Lighting,1460000,Community facility,Rejected,2026-05-05,Synthetic demonstration record
+REC-00451,MPLADS-SYN-0451,MP-692,2026-02-10,School Building,2160000,Local infrastructure need,Under Review,2026-03-26,Synthetic demonstration record
+REC-00452,MPLADS-SYN-0452,MP-891,2026-06-25,Community Hall,1370000,Local infrastructure need,Approved,2026-07-15,Synthetic demonstration record
+REC-00453,MPLADS-SYN-0453,MP-635,2026-02-12,Library,1630000,Local infrastructure need,Rejected,2026-03-28,Synthetic demonstration record
+REC-00454,MPLADS-SYN-0454,MP-713,2026-04-12,Road,2050000,Public utility improvement,Approved,2026-05-12,Synthetic demonstration record
+REC-00455,MPLADS-SYN-0455,MP-918,2025-12-11,Solar Lighting,1550000,Public utility improvement,Approved,2026-02-08,Synthetic demonstration record
+REC-00456,MPLADS-SYN-0456,MP-117,2025-11-23,Community Hall,1660000,Road connectivity,Under Review,2026-01-10,Synthetic demonstration record
+REC-00457,MPLADS-SYN-0457,MP-851,2026-03-20,Drainage,1000000,Community facility,Under Review,2026-04-09,Synthetic demonstration record
+REC-00458,MPLADS-SYN-0458,MP-438,2026-03-20,School Building,1400000,Water and sanitation,Approved,2026-05-02,Synthetic demonstration record
+REC-00459,MPLADS-SYN-0459,MP-403,2026-04-02,Drinking Water,1430000,Public utility improvement,Approved,2026-04-23,Synthetic demonstration record
+REC-00460,MPLADS-SYN-0460,MP-640,2025-10-22,School Building,1690000,Public utility improvement,Approved,2025-11-15,Synthetic demonstration record
+REC-00461,MPLADS-SYN-0461,MP-280,2026-04-02,Library,490000,Water and sanitation,Under Review,2026-05-13,Synthetic demonstration record
+REC-00462,MPLADS-SYN-0462,MP-902,2025-11-05,Drinking Water,1090000,Road connectivity,Under Review,2025-11-27,Synthetic demonstration record
+REC-00463,MPLADS-SYN-0463,MP-125,2026-04-24,Community Hall,1370000,Public utility improvement,Approved,2026-05-28,Synthetic demonstration record
+REC-00464,MPLADS-SYN-0464,MP-976,2026-03-17,School Building,1720000,Local infrastructure need,Under Review,2026-05-16,Synthetic demonstration record
+REC-00465,MPLADS-SYN-0465,MP-657,2026-06-15,School Building,1080000,Community facility,Approved,2026-07-20,Synthetic demonstration record
+REC-00466,MPLADS-SYN-0466,MP-151,2026-04-02,Community Hall,1650000,Community facility,Approved,2026-04-29,Synthetic demonstration record
+REC-00467,MPLADS-SYN-0467,MP-500,2026-03-11,School Building,1930000,Road connectivity,Approved,2026-04-09,Synthetic demonstration record
+REC-00468,MPLADS-SYN-0468,MP-307,2026-05-14,Drinking Water,1710000,Public utility improvement,Approved,2026-06-18,Synthetic demonstration record
+REC-00469,MPLADS-SYN-0469,MP-825,2025-11-16,Road,2270000,Road connectivity,Under Review,2025-12-13,Synthetic demonstration record
+REC-00470,MPLADS-SYN-0470,MP-817,2026-01-08,Solar Lighting,1250000,Local infrastructure need,Approved,2026-02-28,Synthetic demonstration record
+REC-00471,MPLADS-SYN-0471,MP-388,2026-05-09,Drinking Water,960000,Local infrastructure need,Rejected,2026-06-09,Synthetic demonstration record
+REC-00472,MPLADS-SYN-0472,MP-561,2026-03-22,Health Facility,1170000,Water and sanitation,Approved,2026-05-16,Synthetic demonstration record
+REC-00473,MPLADS-SYN-0473,MP-250,2026-03-20,Health Facility,3540000,Local infrastructure need,Rejected,2026-04-04,Synthetic demonstration record
+REC-00474,MPLADS-SYN-0474,MP-551,2025-11-30,Drinking Water,740000,Local infrastructure need,Approved,2025-12-26,Synthetic demonstration record
+REC-00475,MPLADS-SYN-0475,MP-820,2026-01-21,Drainage,890000,Community facility,Approved,2026-03-12,Synthetic demonstration record
+REC-00476,MPLADS-SYN-0476,MP-954,2026-03-23,Health Facility,3050000,Public utility improvement,Approved,2026-05-17,Synthetic demonstration record
+REC-00477,MPLADS-SYN-0477,MP-862,2026-01-06,Solar Lighting,1330000,Water and sanitation,Approved,2026-02-18,Synthetic demonstration record
+REC-00478,MPLADS-SYN-0478,MP-960,2026-01-11,Health Facility,2980000,Community facility,Under Review,2026-02-19,Synthetic demonstration record
+REC-00479,MPLADS-SYN-0479,MP-211,2025-10-01,Drainage,810000,Water and sanitation,Rejected,2025-11-23,Synthetic demonstration record
+REC-00480,MPLADS-SYN-0480,MP-483,2025-10-28,Road,600000,Local infrastructure need,Under Review,2025-12-20,Synthetic demonstration record
+REC-00481,MPLADS-SYN-0481,MP-605,2025-12-02,Street Lighting,530000,Public utility improvement,Approved,2025-12-18,Synthetic demonstration record
+REC-00482,MPLADS-SYN-0482,MP-170,2025-12-20,Community Hall,1320000,Local infrastructure need,Under Review,2026-01-27,Synthetic demonstration record
+REC-00483,MPLADS-SYN-0483,MP-185,2025-11-04,Community Hall,2340000,Water and sanitation,Approved,2025-12-04,Synthetic demonstration record
+REC-00484,MPLADS-SYN-0484,MP-175,2026-03-12,Drinking Water,610000,Water and sanitation,Approved,2026-04-20,Synthetic demonstration record
+REC-00485,MPLADS-SYN-0485,MP-759,2026-06-10,Street Lighting,1170000,Water and sanitation,Approved,2026-07-28,Synthetic demonstration record
+REC-00486,MPLADS-SYN-0486,MP-830,2026-01-26,Street Lighting,910000,Road connectivity,Under Review,2026-02-12,Synthetic demonstration record
+REC-00487,MPLADS-SYN-0487,MP-458,2026-02-19,Library,340000,Road connectivity,Under Review,2026-03-15,Synthetic demonstration record
+REC-00488,MPLADS-SYN-0488,MP-684,2026-03-23,Drinking Water,880000,Public utility improvement,Under Review,2026-05-06,Synthetic demonstration record
+REC-00489,MPLADS-SYN-0489,MP-779,2026-02-06,Street Lighting,1000000,Water and sanitation,Rejected,2026-03-16,Synthetic demonstration record
+REC-00490,MPLADS-SYN-0490,MP-690,2026-05-13,Solar Lighting,1500000,Road connectivity,Rejected,2026-06-08,Synthetic demonstration record
+REC-00491,MPLADS-SYN-0491,MP-580,2026-01-02,Street Lighting,310000,Community facility,Under Review,2026-02-13,Synthetic demonstration record
+REC-00492,MPLADS-SYN-0492,MP-768,2026-05-08,Sports Facility,1480000,Public utility improvement,Rejected,2026-05-30,Synthetic demonstration record
+REC-00493,MPLADS-SYN-0493,MP-777,2026-01-20,Library,1410000,Public utility improvement,Rejected,2026-02-05,Synthetic demonstration record
+REC-00494,MPLADS-SYN-0494,MP-950,2026-03-19,Road,2340000,Water and sanitation,Approved,2026-04-10,Synthetic demonstration record
+REC-00495,MPLADS-SYN-0495,MP-546,2026-02-01,Solar Lighting,370000,Community facility,Approved,2026-02-23,Synthetic demonstration record
+REC-00496,MPLADS-SYN-0496,MP-720,2026-01-05,Library,860000,Public utility improvement,Rejected,2026-01-20,Synthetic demonstration record
+REC-00497,MPLADS-SYN-0497,MP-764,2026-03-18,Community Hall,2580000,Local infrastructure need,Under Review,2026-05-08,Synthetic demonstration record
+REC-00498,MPLADS-SYN-0498,MP-934,2026-01-12,Road,810000,Community facility,Approved,2026-03-09,Synthetic demonstration record
+REC-00499,MPLADS-SYN-0499,MP-150,2026-01-14,Solar Lighting,1640000,Local infrastructure need,Approved,2026-02-06,Synthetic demonstration record
+REC-00500,MPLADS-SYN-0500,MP-806,2026-04-06,Road,530000,Water and sanitation,Approved,2026-05-24,Synthetic demonstration record
+REC-00501,MPLADS-SYN-0501,MP-452,2025-11-29,Street Lighting,1170000,Community facility,Rejected,2026-01-12,Synthetic demonstration record
+REC-00502,MPLADS-SYN-0502,MP-971,2025-10-04,Health Facility,3000000,Water and sanitation,Approved,2025-10-24,Synthetic demonstration record
+REC-00503,MPLADS-SYN-0503,MP-787,2026-04-30,Drainage,1790000,Community facility,Rejected,2026-05-23,Synthetic demonstration record
+REC-00504,MPLADS-SYN-0504,MP-494,2026-01-11,Drainage,1000000,Community facility,Approved,2026-02-01,Synthetic demonstration record
+REC-00505,MPLADS-SYN-0505,MP-676,2026-05-23,Health Facility,2660000,Road connectivity,Rejected,2026-07-18,Synthetic demonstration record
+REC-00506,MPLADS-SYN-0506,MP-891,2025-10-15,Health Facility,3520000,Community facility,Rejected,2025-11-18,Synthetic demonstration record
+REC-00507,MPLADS-SYN-0507,MP-128,2025-11-09,Road,1410000,Water and sanitation,Rejected,2025-12-06,Synthetic demonstration record
+REC-00508,MPLADS-SYN-0508,MP-425,2025-09-18,School Building,2340000,Community facility,Under Review,2025-10-27,Synthetic demonstration record
+REC-00509,MPLADS-SYN-0509,MP-917,2026-04-20,Library,720000,Community facility,Approved,2026-06-11,Synthetic demonstration record
+REC-00510,MPLADS-SYN-0510,MP-252,2026-04-22,Street Lighting,230000,Local infrastructure need,Under Review,2026-05-14,Synthetic demonstration record
+REC-00511,MPLADS-SYN-0511,MP-477,2025-11-12,School Building,1020000,Water and sanitation,Approved,2026-01-02,Synthetic demonstration record
+REC-00512,MPLADS-SYN-0512,MP-570,2026-02-07,Street Lighting,420000,Road connectivity,Approved,2026-03-16,Synthetic demonstration record
+REC-00513,MPLADS-SYN-0513,MP-149,2026-04-05,Drinking Water,1240000,Water and sanitation,Under Review,2026-04-26,Synthetic demonstration record
+REC-00514,MPLADS-SYN-0514,MP-578,2025-12-17,Health Facility,1030000,Road connectivity,Rejected,2026-02-10,Synthetic demonstration record
+REC-00515,MPLADS-SYN-0515,MP-293,2026-04-25,Community Hall,1960000,Road connectivity,Approved,2026-06-14,Synthetic demonstration record
+REC-00516,MPLADS-SYN-0516,MP-848,2026-05-30,Drinking Water,2000000,Local infrastructure need,Rejected,2026-07-15,Synthetic demonstration record
+REC-00517,MPLADS-SYN-0517,MP-621,2026-03-07,Solar Lighting,1630000,Water and sanitation,Under Review,2026-04-22,Synthetic demonstration record
+REC-00518,MPLADS-SYN-0518,MP-721,2026-05-30,School Building,3120000,Public utility improvement,Under Review,2026-07-23,Synthetic demonstration record
+REC-00519,MPLADS-SYN-0519,MP-782,2026-04-19,Library,720000,Road connectivity,Under Review,2026-05-17,Synthetic demonstration record
+REC-00520,MPLADS-SYN-0520,MP-340,2025-11-13,Road,1830000,Road connectivity,Rejected,2026-01-05,Synthetic demonstration record
+REC-00521,MPLADS-SYN-0521,MP-704,2025-12-24,Solar Lighting,750000,Water and sanitation,Approved,2026-01-19,Synthetic demonstration record
+REC-00522,MPLADS-SYN-0522,MP-248,2025-10-31,Drainage,1090000,Local infrastructure need,Approved,2025-12-24,Synthetic demonstration record
+REC-00523,MPLADS-SYN-0523,MP-163,2026-03-17,Road,1970000,Water and sanitation,Under Review,2026-04-28,Synthetic demonstration record
+REC-00524,MPLADS-SYN-0524,MP-691,2026-01-02,Community Hall,1270000,Local infrastructure need,Approved,2026-02-10,Synthetic demonstration record
+REC-00525,MPLADS-SYN-0525,MP-214,2026-03-24,Road,2760000,Community facility,Approved,2026-05-14,Synthetic demonstration record
+REC-00526,MPLADS-SYN-0526,MP-699,2025-11-15,Street Lighting,670000,Community facility,Approved,2025-12-13,Synthetic demonstration record
+REC-00527,MPLADS-SYN-0527,MP-344,2026-01-26,School Building,1480000,Local infrastructure need,Approved,2026-03-22,Synthetic demonstration record
+REC-00528,MPLADS-SYN-0528,MP-351,2026-03-15,School Building,3180000,Community facility,Rejected,2026-05-04,Synthetic demonstration record
+REC-00529,MPLADS-SYN-0529,MP-140,2026-03-27,Solar Lighting,1660000,Road connectivity,Rejected,2026-05-14,Synthetic demonstration record
+REC-00530,MPLADS-SYN-0530,MP-627,2026-05-06,Solar Lighting,1090000,Water and sanitation,Under Review,2026-06-04,Synthetic demonstration record
+REC-00531,MPLADS-SYN-0531,MP-437,2025-12-14,Sports Facility,2430000,Road connectivity,Approved,2026-01-25,Synthetic demonstration record
+REC-00532,MPLADS-SYN-0532,MP-275,2025-12-10,Street Lighting,1290000,Local infrastructure need,Approved,2026-02-01,Synthetic demonstration record
+REC-00533,MPLADS-SYN-0533,MP-383,2026-04-19,Street Lighting,640000,Community facility,Rejected,2026-05-20,Synthetic demonstration record
+REC-00534,MPLADS-SYN-0534,MP-616,2025-11-23,Drinking Water,1790000,Local infrastructure need,Approved,2025-12-19,Synthetic demonstration record
+REC-00535,MPLADS-SYN-0535,MP-261,2025-11-11,Road,1480000,Water and sanitation,Approved,2025-12-14,Synthetic demonstration record
+REC-00536,MPLADS-SYN-0536,MP-225,2026-01-03,Health Facility,4220000,Water and sanitation,Approved,2026-02-23,Synthetic demonstration record
+REC-00537,MPLADS-SYN-0537,MP-919,2026-04-29,Library,670000,Public utility improvement,Approved,2026-06-20,Synthetic demonstration record
+REC-00538,MPLADS-SYN-0538,MP-184,2026-05-24,Street Lighting,740000,Water and sanitation,Rejected,2026-07-10,Synthetic demonstration record
+REC-00539,MPLADS-SYN-0539,MP-443,2026-03-15,Community Hall,2300000,Local infrastructure need,Approved,2026-05-05,Synthetic demonstration record
+REC-00540,MPLADS-SYN-0540,MP-383,2025-09-18,Library,720000,Water and sanitation,Under Review,2025-11-13,Synthetic demonstration record
+REC-00541,MPLADS-SYN-0541,MP-156,2026-01-28,Sports Facility,720000,Road connectivity,Under Review,2026-03-14,Synthetic demonstration record
+REC-00542,MPLADS-SYN-0542,MP-776,2026-03-25,Road,2020000,Water and sanitation,Rejected,2026-05-15,Synthetic demonstration record
+REC-00543,MPLADS-SYN-0543,MP-569,2026-04-06,Street Lighting,840000,Road connectivity,Approved,2026-04-25,Synthetic demonstration record
+REC-00544,MPLADS-SYN-0544,MP-785,2026-04-08,Drinking Water,1430000,Road connectivity,Approved,2026-05-12,Synthetic demonstration record
+REC-00545,MPLADS-SYN-0545,MP-426,2026-02-21,Solar Lighting,1100000,Public utility improvement,Under Review,2026-03-23,Synthetic demonstration record
+REC-00546,MPLADS-SYN-0546,MP-812,2025-12-21,Solar Lighting,1210000,Local infrastructure need,Approved,2026-02-18,Synthetic demonstration record
+REC-00547,MPLADS-SYN-0547,MP-606,2026-05-22,Library,400000,Road connectivity,Approved,2026-07-13,Synthetic demonstration record
+REC-00548,MPLADS-SYN-0548,MP-570,2026-07-05,Road,1280000,Public utility improvement,Approved,2026-08-28,Synthetic demonstration record
+REC-00549,MPLADS-SYN-0549,MP-627,2026-04-28,Drinking Water,1140000,Local infrastructure need,Approved,2026-06-06,Synthetic demonstration record
+REC-00550,MPLADS-SYN-0550,MP-818,2026-01-04,Sports Facility,1760000,Road connectivity,Rejected,2026-03-01,Synthetic demonstration record
+REC-00551,MPLADS-SYN-0551,MP-527,2025-12-05,Drainage,970000,Public utility improvement,Under Review,2026-01-01,Synthetic demonstration record
+REC-00552,MPLADS-SYN-0552,MP-690,2026-02-26,Drainage,450000,Local infrastructure need,Rejected,2026-04-16,Synthetic demonstration record
+REC-00553,MPLADS-SYN-0553,MP-946,2026-04-27,Solar Lighting,460000,Water and sanitation,Approved,2026-06-14,Synthetic demonstration record
+REC-00554,MPLADS-SYN-0554,MP-422,2025-11-29,Library,850000,Road connectivity,Approved,2026-01-08,Synthetic demonstration record
+REC-00555,MPLADS-SYN-0555,MP-877,2026-02-02,Street Lighting,930000,Road connectivity,Approved,2026-03-26,Synthetic demonstration record
+REC-00556,MPLADS-SYN-0556,MP-379,2025-10-25,Library,830000,Road connectivity,Approved,2025-11-12,Synthetic demonstration record
+REC-00557,MPLADS-SYN-0557,MP-116,2025-12-07,Library,1340000,Road connectivity,Approved,2026-01-22,Synthetic demonstration record
+REC-00558,MPLADS-SYN-0558,MP-585,2025-10-24,Street Lighting,1140000,Road connectivity,Approved,2025-11-30,Synthetic demonstration record
+REC-00559,MPLADS-SYN-0559,MP-961,2026-05-29,Library,1650000,Community facility,Approved,2026-06-20,Synthetic demonstration record
+REC-00560,MPLADS-SYN-0560,MP-209,2025-12-19,Drinking Water,1330000,Community facility,Approved,2026-02-04,Synthetic demonstration record
+REC-00561,MPLADS-SYN-0561,MP-998,2026-03-02,Drainage,580000,Community facility,Rejected,2026-04-25,Synthetic demonstration record
+REC-00562,MPLADS-SYN-0562,MP-756,2025-09-19,Drinking Water,1620000,Local infrastructure need,Approved,2025-10-13,Synthetic demonstration record
+REC-00563,MPLADS-SYN-0563,MP-700,2026-05-03,Sports Facility,330000,Public utility improvement,Under Review,2026-06-15,Synthetic demonstration record
+REC-00564,MPLADS-SYN-0564,MP-315,2026-06-02,Library,1030000,Community facility,Under Review,2026-07-19,Synthetic demonstration record
+REC-00565,MPLADS-SYN-0565,MP-179,2026-01-01,Road,1470000,Local infrastructure need,Approved,2026-02-05,Synthetic demonstration record
+REC-00566,MPLADS-SYN-0566,MP-138,2025-10-01,Drinking Water,1520000,Public utility improvement,Under Review,2025-11-14,Synthetic demonstration record
+REC-00567,MPLADS-SYN-0567,MP-505,2026-03-02,Health Facility,3550000,Local infrastructure need,Approved,2026-04-12,Synthetic demonstration record
+REC-00568,MPLADS-SYN-0568,MP-961,2026-05-17,Street Lighting,1510000,Public utility improvement,Rejected,2026-06-12,Synthetic demonstration record
+REC-00569,MPLADS-SYN-0569,MP-952,2026-01-26,Road,1280000,Road connectivity,Under Review,2026-02-28,Synthetic demonstration record
+REC-00570,MPLADS-SYN-0570,MP-266,2025-11-23,Health Facility,2360000,Local infrastructure need,Approved,2025-12-15,Synthetic demonstration record
+REC-00571,MPLADS-SYN-0571,MP-449,2026-05-03,Drinking Water,1780000,Road connectivity,Rejected,2026-06-26,Synthetic demonstration record
+REC-00572,MPLADS-SYN-0572,MP-812,2026-04-15,Drinking Water,1080000,Public utility improvement,Approved,2026-06-11,Synthetic demonstration record
+REC-00573,MPLADS-SYN-0573,MP-683,2026-02-07,Community Hall,2440000,Road connectivity,Approved,2026-03-25,Synthetic demonstration record
+REC-00574,MPLADS-SYN-0574,MP-868,2026-07-16,School Building,3780000,Water and sanitation,Approved,2026-09-11,Synthetic demonstration record
+REC-00575,MPLADS-SYN-0575,MP-334,2025-11-04,Sports Facility,1640000,Road connectivity,Rejected,2025-12-13,Synthetic demonstration record
+REC-00576,MPLADS-SYN-0576,MP-920,2026-01-03,Solar Lighting,460000,Community facility,Under Review,2026-02-03,Synthetic demonstration record
+REC-00577,MPLADS-SYN-0577,MP-801,2026-03-23,Community Hall,3360000,Local infrastructure need,Approved,2026-05-03,Synthetic demonstration record
+REC-00578,MPLADS-SYN-0578,MP-915,2025-11-28,Road,760000,Public utility improvement,Approved,2025-12-16,Synthetic demonstration record
+REC-00579,MPLADS-SYN-0579,MP-691,2026-05-27,Drainage,1030000,Road connectivity,Approved,2026-07-06,Synthetic demonstration record
+REC-00580,MPLADS-SYN-0580,MP-445,2026-04-01,Street Lighting,1350000,Public utility improvement,Approved,2026-05-02,Synthetic demonstration record
+REC-00581,MPLADS-SYN-0581,MP-880,2026-04-05,Road,1580000,Local infrastructure need,Approved,2026-04-20,Synthetic demonstration record
+REC-00582,MPLADS-SYN-0582,MP-269,2026-01-21,Sports Facility,2060000,Road connectivity,Approved,2026-03-08,Synthetic demonstration record
+REC-00583,MPLADS-SYN-0583,MP-508,2026-05-11,Community Hall,2950000,Local infrastructure need,Rejected,2026-06-27,Synthetic demonstration record
+REC-00584,MPLADS-SYN-0584,MP-721,2026-03-29,Road,2620000,Road connectivity,Rejected,2026-04-29,Synthetic demonstration record
+REC-00585,MPLADS-SYN-0585,MP-949,2025-09-14,Sports Facility,980000,Local infrastructure need,Under Review,2025-10-16,Synthetic demonstration record
+REC-00586,MPLADS-SYN-0586,MP-296,2025-12-27,Sports Facility,1750000,Public utility improvement,Approved,2026-02-07,Synthetic demonstration record
+REC-00587,MPLADS-SYN-0587,MP-468,2026-01-21,Drinking Water,520000,Local infrastructure need,Approved,2026-03-10,Synthetic demonstration record
+REC-00588,MPLADS-SYN-0588,MP-711,2026-04-25,Drainage,1500000,Local infrastructure need,Under Review,2026-06-06,Synthetic demonstration record
+REC-00589,MPLADS-SYN-0589,MP-877,2026-03-17,Road,510000,Road connectivity,Approved,2026-04-29,Synthetic demonstration record
+REC-00590,MPLADS-SYN-0590,MP-727,2026-01-23,Road,1160000,Local infrastructure need,Under Review,2026-03-09,Synthetic demonstration record
+REC-00591,MPLADS-SYN-0591,MP-274,2025-11-13,Drainage,2290000,Community facility,Approved,2026-01-12,Synthetic demonstration record
+REC-00592,MPLADS-SYN-0592,MP-281,2026-04-07,Solar Lighting,1670000,Road connectivity,Approved,2026-05-02,Synthetic demonstration record
+REC-00593,MPLADS-SYN-0593,MP-933,2026-03-28,Drainage,970000,Community facility,Approved,2026-05-23,Synthetic demonstration record
+REC-00594,MPLADS-SYN-0594,MP-205,2026-01-22,Sports Facility,1150000,Road connectivity,Approved,2026-03-14,Synthetic demonstration record
+REC-00595,MPLADS-SYN-0595,MP-722,2025-12-06,Community Hall,1300000,Road connectivity,Approved,2026-01-08,Synthetic demonstration record
+REC-00596,MPLADS-SYN-0596,MP-391,2026-05-07,Drinking Water,1910000,Local infrastructure need,Approved,2026-06-04,Synthetic demonstration record
+REC-00597,MPLADS-SYN-0597,MP-470,2026-02-02,Drainage,1340000,Water and sanitation,Approved,2026-03-26,Synthetic demonstration record
+REC-00598,MPLADS-SYN-0598,MP-391,2026-01-21,Drinking Water,1130000,Public utility improvement,Rejected,2026-02-25,Synthetic demonstration record
+REC-00599,MPLADS-SYN-0599,MP-105,2026-07-07,Solar Lighting,760000,Local infrastructure need,Approved,2026-09-05,Synthetic demonstration record
+REC-00600,MPLADS-SYN-0600,MP-210,2026-05-06,Community Hall,2210000,Water and sanitation,Under Review,2026-05-23,Synthetic demonstration record
+REC-00601,MPLADS-SYN-0601,MP-152,2026-01-30,Library,1380000,Community facility,Under Review,2026-03-30,Synthetic demonstration record
+REC-00602,MPLADS-SYN-0602,MP-546,2025-12-24,Library,350000,Community facility,Rejected,2026-02-02,Synthetic demonstration record
+REC-00603,MPLADS-SYN-0603,MP-739,2026-01-28,Sports Facility,810000,Road connectivity,Approved,2026-03-28,Synthetic demonstration record
+REC-00604,MPLADS-SYN-0604,MP-250,2025-11-09,School Building,2660000,Water and sanitation,Approved,2026-01-01,Synthetic demonstration record
+REC-00605,MPLADS-SYN-0605,MP-353,2026-02-16,Drainage,1300000,Water and sanitation,Rejected,2026-04-14,Synthetic demonstration record
+REC-00606,MPLADS-SYN-0606,MP-721,2026-01-31,Drainage,470000,Local infrastructure need,Rejected,2026-03-06,Synthetic demonstration record
+REC-00607,MPLADS-SYN-0607,MP-810,2026-05-11,Community Hall,3100000,Community facility,Approved,2026-06-15,Synthetic demonstration record
+REC-00608,MPLADS-SYN-0608,MP-914,2025-11-08,Sports Facility,1270000,Public utility improvement,Approved,2025-12-28,Synthetic demonstration record
+REC-00609,MPLADS-SYN-0609,MP-126,2025-12-15,Solar Lighting,1210000,Local infrastructure need,Approved,2026-01-11,Synthetic demonstration record
+REC-00610,MPLADS-SYN-0610,MP-629,2026-02-05,School Building,1190000,Road connectivity,Approved,2026-03-05,Synthetic demonstration record
+REC-00611,MPLADS-SYN-0611,MP-467,2026-02-19,Drinking Water,670000,Water and sanitation,Approved,2026-03-21,Synthetic demonstration record
+REC-00612,MPLADS-SYN-0612,MP-287,2025-12-08,Drinking Water,660000,Community facility,Under Review,2026-02-06,Synthetic demonstration record
+REC-00613,MPLADS-SYN-0613,MP-844,2025-12-20,Sports Facility,1860000,Public utility improvement,Approved,2026-01-20,Synthetic demonstration record
+REC-00614,MPLADS-SYN-0614,MP-278,2025-12-06,School Building,3870000,Water and sanitation,Rejected,2025-12-26,Synthetic demonstration record
+REC-00615,MPLADS-SYN-0615,MP-348,2025-09-27,Community Hall,1760000,Public utility improvement,Approved,2025-10-20,Synthetic demonstration record
+REC-00616,MPLADS-SYN-0616,MP-352,2025-11-27,Library,1720000,Road connectivity,Approved,2025-12-27,Synthetic demonstration record
+REC-00617,MPLADS-SYN-0617,MP-534,2026-04-14,Drainage,1960000,Water and sanitation,Approved,2026-05-27,Synthetic demonstration record
+REC-00618,MPLADS-SYN-0618,MP-494,2026-05-26,Street Lighting,1340000,Local infrastructure need,Under Review,2026-06-18,Synthetic demonstration record
+REC-00619,MPLADS-SYN-0619,MP-849,2026-03-29,Sports Facility,1400000,Public utility improvement,Rejected,2026-05-23,Synthetic demonstration record
+REC-00620,MPLADS-SYN-0620,MP-536,2026-04-08,Community Hall,3470000,Water and sanitation,Rejected,2026-05-12,Synthetic demonstration record
+REC-00621,MPLADS-SYN-0621,MP-652,2026-03-03,Solar Lighting,940000,Water and sanitation,Rejected,2026-03-26,Synthetic demonstration record
+REC-00622,MPLADS-SYN-0622,MP-140,2026-01-11,Health Facility,1020000,Water and sanitation,Under Review,2026-02-06,Synthetic demonstration record
+REC-00623,MPLADS-SYN-0623,MP-963,2025-11-11,School Building,1910000,Local infrastructure need,Approved,2025-12-11,Synthetic demonstration record
+REC-00624,MPLADS-SYN-0624,MP-815,2025-12-27,Sports Facility,1200000,Local infrastructure need,Under Review,2026-01-15,Synthetic demonstration record
+REC-00625,MPLADS-SYN-0625,MP-804,2026-04-30,School Building,4510000,Community facility,Rejected,2026-05-24,Synthetic demonstration record
+REC-00626,MPLADS-SYN-0626,MP-917,2025-11-10,Sports Facility,2030000,Water and sanitation,Approved,2025-12-17,Synthetic demonstration record
+REC-00627,MPLADS-SYN-0627,MP-287,2026-01-02,Drainage,1170000,Water and sanitation,Under Review,2026-02-04,Synthetic demonstration record
+REC-00628,MPLADS-SYN-0628,MP-547,2026-05-31,Health Facility,3390000,Community facility,Approved,2026-07-22,Synthetic demonstration record
+REC-00629,MPLADS-SYN-0629,MP-597,2026-01-04,Library,310000,Water and sanitation,Approved,2026-02-25,Synthetic demonstration record
+REC-00630,MPLADS-SYN-0630,MP-426,2026-05-16,Library,540000,Public utility improvement,Approved,2026-07-05,Synthetic demonstration record
+REC-00631,MPLADS-SYN-0631,MP-205,2026-03-15,Solar Lighting,1300000,Community facility,Approved,2026-05-01,Synthetic demonstration record
+REC-00632,MPLADS-SYN-0632,MP-295,2026-01-20,Health Facility,2490000,Water and sanitation,Approved,2026-03-18,Synthetic demonstration record
+REC-00633,MPLADS-SYN-0633,MP-270,2025-09-23,Solar Lighting,1400000,Water and sanitation,Rejected,2025-11-10,Synthetic demonstration record
+REC-00634,MPLADS-SYN-0634,MP-589,2025-12-12,Solar Lighting,790000,Local infrastructure need,Under Review,2026-01-07,Synthetic demonstration record
+REC-00635,MPLADS-SYN-0635,MP-997,2026-02-24,Solar Lighting,1180000,Public utility improvement,Under Review,2026-04-09,Synthetic demonstration record
+REC-00636,MPLADS-SYN-0636,MP-336,2026-04-29,Road,2010000,Local infrastructure need,Under Review,2026-06-20,Synthetic demonstration record
+REC-00637,MPLADS-SYN-0637,MP-172,2026-02-22,Community Hall,1410000,Local infrastructure need,Rejected,2026-04-21,Synthetic demonstration record
+REC-00638,MPLADS-SYN-0638,MP-707,2026-02-17,Street Lighting,840000,Public utility improvement,Approved,2026-04-14,Synthetic demonstration record
+REC-00639,MPLADS-SYN-0639,MP-426,2026-05-21,Community Hall,2030000,Public utility improvement,Under Review,2026-07-20,Synthetic demonstration record
+REC-00640,MPLADS-SYN-0640,MP-837,2025-11-27,Street Lighting,730000,Local infrastructure need,Under Review,2025-12-12,Synthetic demonstration record
+REC-00641,MPLADS-SYN-0641,MP-975,2025-11-18,Drainage,920000,Local infrastructure need,Rejected,2026-01-02,Synthetic demonstration record
+REC-00642,MPLADS-SYN-0642,MP-106,2026-03-29,School Building,2700000,Community facility,Under Review,2026-05-19,Synthetic demonstration record
+REC-00643,MPLADS-SYN-0643,MP-774,2026-03-01,Drainage,1160000,Community facility,Rejected,2026-03-28,Synthetic demonstration record
+REC-00644,MPLADS-SYN-0644,MP-567,2026-05-07,School Building,4800000,Water and sanitation,Rejected,2026-07-06,Synthetic demonstration record
+REC-00645,MPLADS-SYN-0645,MP-228,2026-02-15,Drinking Water,620000,Local infrastructure need,Approved,2026-04-05,Synthetic demonstration record
+REC-00646,MPLADS-SYN-0646,MP-931,2026-03-31,Library,1370000,Road connectivity,Under Review,2026-04-19,Synthetic demonstration record
+REC-00647,MPLADS-SYN-0647,MP-899,2026-03-05,Drainage,1020000,Road connectivity,Under Review,2026-04-11,Synthetic demonstration record
+REC-00648,MPLADS-SYN-0648,MP-866,2026-06-05,Sports Facility,860000,Public utility improvement,Approved,2026-07-13,Synthetic demonstration record
+REC-00649,MPLADS-SYN-0649,MP-440,2026-03-24,Street Lighting,1450000,Road connectivity,Approved,2026-04-20,Synthetic demonstration record
+REC-00650,MPLADS-SYN-0650,MP-824,2026-05-21,Drainage,610000,Local infrastructure need,Under Review,2026-07-14,Synthetic demonstration record
+REC-00651,MPLADS-SYN-0651,MP-459,2026-01-06,Sports Facility,1250000,Road connectivity,Approved,2026-02-27,Synthetic demonstration record
+REC-00652,MPLADS-SYN-0652,MP-313,2026-03-31,School Building,1970000,Road connectivity,Approved,2026-05-30,Synthetic demonstration record
+REC-00653,MPLADS-SYN-0653,MP-126,2026-01-09,Community Hall,1070000,Community facility,Rejected,2026-02-24,Synthetic demonstration record
+REC-00654,MPLADS-SYN-0654,MP-450,2025-12-17,Library,1790000,Local infrastructure need,Approved,2026-01-28,Synthetic demonstration record
+REC-00655,MPLADS-SYN-0655,MP-511,2026-01-21,Sports Facility,2370000,Road connectivity,Approved,2026-02-26,Synthetic demonstration record
+REC-00656,MPLADS-SYN-0656,MP-357,2026-07-22,Drinking Water,1620000,Local infrastructure need,Rejected,2026-08-21,Synthetic demonstration record
+REC-00657,MPLADS-SYN-0657,MP-245,2026-02-06,Sports Facility,750000,Public utility improvement,Approved,2026-03-09,Synthetic demonstration record
+REC-00658,MPLADS-SYN-0658,MP-529,2026-04-21,Sports Facility,830000,Water and sanitation,Rejected,2026-05-08,Synthetic demonstration record
+REC-00659,MPLADS-SYN-0659,MP-303,2026-03-24,School Building,4650000,Public utility improvement,Approved,2026-05-18,Synthetic demonstration record
+REC-00660,MPLADS-SYN-0660,MP-214,2025-09-26,School Building,3070000,Public utility improvement,Approved,2025-11-08,Synthetic demonstration record
+REC-00661,MPLADS-SYN-0661,MP-911,2026-02-03,Road,1360000,Community facility,Approved,2026-03-12,Synthetic demonstration record
+REC-00662,MPLADS-SYN-0662,MP-790,2025-11-29,Drainage,1210000,Water and sanitation,Under Review,2025-12-22,Synthetic demonstration record
+REC-00663,MPLADS-SYN-0663,MP-172,2026-04-05,Drinking Water,550000,Public utility improvement,Rejected,2026-05-10,Synthetic demonstration record
+REC-00664,MPLADS-SYN-0664,MP-533,2025-10-07,Solar Lighting,710000,Public utility improvement,Rejected,2025-11-04,Synthetic demonstration record
+REC-00665,MPLADS-SYN-0665,MP-189,2026-05-07,Library,630000,Road connectivity,Approved,2026-06-06,Synthetic demonstration record
+REC-00666,MPLADS-SYN-0666,MP-116,2026-03-12,Drinking Water,1320000,Community facility,Rejected,2026-04-06,Synthetic demonstration record
+REC-00667,MPLADS-SYN-0667,MP-155,2026-03-20,Road,2880000,Water and sanitation,Under Review,2026-05-11,Synthetic demonstration record
+REC-00668,MPLADS-SYN-0668,MP-789,2025-11-18,Road,680000,Local infrastructure need,Approved,2025-12-18,Synthetic demonstration record
+REC-00669,MPLADS-SYN-0669,MP-197,2026-04-07,Community Hall,3460000,Community facility,Approved,2026-05-07,Synthetic demonstration record
+REC-00670,MPLADS-SYN-0670,MP-527,2025-12-18,Drinking Water,1300000,Road connectivity,Under Review,2026-02-16,Synthetic demonstration record
+REC-00671,MPLADS-SYN-0671,MP-793,2025-12-04,Library,1490000,Local infrastructure need,Approved,2025-12-27,Synthetic demonstration record
+REC-00672,MPLADS-SYN-0672,MP-612,2026-03-13,Road,1340000,Public utility improvement,Under Review,2026-04-01,Synthetic demonstration record
+REC-00673,MPLADS-SYN-0673,MP-358,2025-09-07,Drainage,830000,Local infrastructure need,Approved,2025-10-20,Synthetic demonstration record
+REC-00674,MPLADS-SYN-0674,MP-237,2026-01-01,Street Lighting,330000,Community facility,Under Review,2026-02-12,Synthetic demonstration record
+REC-00675,MPLADS-SYN-0675,MP-534,2026-04-30,Sports Facility,2330000,Community facility,Rejected,2026-06-18,Synthetic demonstration record
+REC-00676,MPLADS-SYN-0676,MP-756,2026-02-20,Drainage,700000,Public utility improvement,Approved,2026-03-11,Synthetic demonstration record
+REC-00677,MPLADS-SYN-0677,MP-681,2026-03-17,Drinking Water,1050000,Community facility,Rejected,2026-04-01,Synthetic demonstration record
+REC-00678,MPLADS-SYN-0678,MP-780,2026-01-27,Health Facility,1940000,Public utility improvement,Approved,2026-02-28,Synthetic demonstration record
+REC-00679,MPLADS-SYN-0679,MP-759,2026-01-12,Health Facility,3890000,Road connectivity,Rejected,2026-02-12,Synthetic demonstration record
+REC-00680,MPLADS-SYN-0680,MP-841,2026-05-22,Drainage,2370000,Public utility improvement,Under Review,2026-06-25,Synthetic demonstration record
+REC-00681,MPLADS-SYN-0681,MP-206,2026-02-20,Street Lighting,490000,Local infrastructure need,Rejected,2026-03-30,Synthetic demonstration record
+REC-00682,MPLADS-SYN-0682,MP-991,2026-07-04,Street Lighting,1220000,Local infrastructure need,Approved,2026-08-06,Synthetic demonstration record
+REC-00683,MPLADS-SYN-0683,MP-101,2026-05-15,Community Hall,1930000,Local infrastructure need,Approved,2026-07-09,Synthetic demonstration record
+REC-00684,MPLADS-SYN-0684,MP-213,2025-12-06,Solar Lighting,1120000,Public utility improvement,Approved,2026-01-05,Synthetic demonstration record
+REC-00685,MPLADS-SYN-0685,MP-475,2026-06-12,Community Hall,2350000,Road connectivity,Rejected,2026-08-02,Synthetic demonstration record
+REC-00686,MPLADS-SYN-0686,MP-236,2026-04-09,Solar Lighting,410000,Local infrastructure need,Rejected,2026-05-03,Synthetic demonstration record
+REC-00687,MPLADS-SYN-0687,MP-797,2026-02-17,School Building,2320000,Public utility improvement,Approved,2026-04-11,Synthetic demonstration record
+REC-00688,MPLADS-SYN-0688,MP-533,2026-01-28,Street Lighting,1410000,Water and sanitation,Approved,2026-03-26,Synthetic demonstration record
+REC-00689,MPLADS-SYN-0689,MP-600,2026-04-28,Health Facility,3690000,Water and sanitation,Approved,2026-06-27,Synthetic demonstration record
+REC-00690,MPLADS-SYN-0690,MP-919,2026-02-27,Drinking Water,870000,Community facility,Rejected,2026-04-28,Synthetic demonstration record
+REC-00691,MPLADS-SYN-0691,MP-969,2026-01-14,School Building,3900000,Water and sanitation,Rejected,2026-02-25,Synthetic demonstration record
+REC-00692,MPLADS-SYN-0692,MP-853,2026-04-18,Street Lighting,570000,Water and sanitation,Under Review,2026-05-07,Synthetic demonstration record
+REC-00693,MPLADS-SYN-0693,MP-612,2026-04-17,Road,2200000,Water and sanitation,Rejected,2026-06-13,Synthetic demonstration record
+REC-00694,MPLADS-SYN-0694,MP-231,2026-03-06,Street Lighting,1110000,Public utility improvement,Approved,2026-04-24,Synthetic demonstration record
+REC-00695,MPLADS-SYN-0695,MP-328,2025-12-26,Drainage,1470000,Community facility,Rejected,2026-02-20,Synthetic demonstration record
+REC-00696,MPLADS-SYN-0696,MP-919,2026-04-24,Solar Lighting,1680000,Public utility improvement,Approved,2026-05-26,Synthetic demonstration record
+REC-00697,MPLADS-SYN-0697,MP-587,2026-01-08,Sports Facility,1880000,Public utility improvement,Approved,2026-02-09,Synthetic demonstration record
+REC-00698,MPLADS-SYN-0698,MP-219,2025-12-21,Sports Facility,2300000,Community facility,Under Review,2026-01-25,Synthetic demonstration record
+REC-00699,MPLADS-SYN-0699,MP-857,2026-05-09,Road,2230000,Community facility,Rejected,2026-06-25,Synthetic demonstration record
+REC-00700,MPLADS-SYN-0700,MP-760,2025-12-02,Sports Facility,1870000,Water and sanitation,Approved,2026-01-03,Synthetic demonstration record
+REC-00701,MPLADS-SYN-0701,MP-651,2026-06-26,Road,1040000,Community facility,Approved,2026-08-11,Synthetic demonstration record
+REC-00702,MPLADS-SYN-0702,MP-773,2025-09-21,Drinking Water,530000,Water and sanitation,Under Review,2025-11-18,Synthetic demonstration record
+REC-00703,MPLADS-SYN-0703,MP-353,2025-12-30,Road,1630000,Local infrastructure need,Under Review,2026-02-14,Synthetic demonstration record
+REC-00704,MPLADS-SYN-0704,MP-622,2026-05-12,Solar Lighting,1750000,Road connectivity,Approved,2026-07-02,Synthetic demonstration record
+REC-00705,MPLADS-SYN-0705,MP-885,2026-01-04,Road,1420000,Community facility,Under Review,2026-02-03,Synthetic demonstration record
+REC-00706,MPLADS-SYN-0706,MP-500,2025-10-13,Road,500000,Public utility improvement,Approved,2025-11-20,Synthetic demonstration record
+REC-00707,MPLADS-SYN-0707,MP-947,2026-01-28,Community Hall,1820000,Road connectivity,Approved,2026-02-27,Synthetic demonstration record
+REC-00708,MPLADS-SYN-0708,MP-287,2025-12-31,School Building,4560000,Water and sanitation,Approved,2026-02-27,Synthetic demonstration record
+REC-00709,MPLADS-SYN-0709,MP-423,2026-01-27,Community Hall,3920000,Road connectivity,Approved,2026-03-09,Synthetic demonstration record
+REC-00710,MPLADS-SYN-0710,MP-628,2026-01-24,Library,710000,Road connectivity,Rejected,2026-03-09,Synthetic demonstration record
+REC-00711,MPLADS-SYN-0711,MP-243,2026-02-04,Sports Facility,1050000,Local infrastructure need,Rejected,2026-03-31,Synthetic demonstration record
+REC-00712,MPLADS-SYN-0712,MP-886,2026-01-12,Road,1660000,Road connectivity,Approved,2026-02-25,Synthetic demonstration record
+REC-00713,MPLADS-SYN-0713,MP-772,2025-12-13,Community Hall,2010000,Road connectivity,Approved,2025-12-31,Synthetic demonstration record
+REC-00714,MPLADS-SYN-0714,MP-454,2026-01-12,Drinking Water,300000,Road connectivity,Under Review,2026-02-17,Synthetic demonstration record
+REC-00715,MPLADS-SYN-0715,MP-789,2026-04-09,Drainage,820000,Road connectivity,Under Review,2026-05-12,Synthetic demonstration record
+REC-00716,MPLADS-SYN-0716,MP-560,2026-07-06,Road,1030000,Community facility,Rejected,2026-08-19,Synthetic demonstration record
+REC-00717,MPLADS-SYN-0717,MP-815,2026-02-25,Sports Facility,840000,Community facility,Approved,2026-04-22,Synthetic demonstration record
+REC-00718,MPLADS-SYN-0718,MP-918,2026-01-08,Library,1000000,Local infrastructure need,Approved,2026-01-25,Synthetic demonstration record
+REC-00719,MPLADS-SYN-0719,MP-898,2026-02-11,Drainage,1600000,Public utility improvement,Approved,2026-03-15,Synthetic demonstration record
+REC-00720,MPLADS-SYN-0720,MP-887,2026-04-05,School Building,2930000,Community facility,Under Review,2026-05-21,Synthetic demonstration record
+REC-00721,MPLADS-SYN-0721,MP-227,2026-02-12,Drinking Water,530000,Public utility improvement,Under Review,2026-03-24,Synthetic demonstration record
+REC-00722,MPLADS-SYN-0722,MP-804,2026-03-10,Community Hall,1350000,Water and sanitation,Under Review,2026-05-06,Synthetic demonstration record
+REC-00723,MPLADS-SYN-0723,MP-650,2026-02-04,Library,1560000,Local infrastructure need,Under Review,2026-02-25,Synthetic demonstration record
+REC-00724,MPLADS-SYN-0724,MP-810,2026-01-10,Library,370000,Road connectivity,Rejected,2026-02-20,Synthetic demonstration record
+REC-00725,MPLADS-SYN-0725,MP-183,2025-12-04,Health Facility,1030000,Community facility,Rejected,2026-01-04,Synthetic demonstration record
+REC-00726,MPLADS-SYN-0726,MP-252,2026-05-20,Health Facility,880000,Water and sanitation,Approved,2026-06-22,Synthetic demonstration record
+REC-00727,MPLADS-SYN-0727,MP-943,2026-01-04,Community Hall,3480000,Water and sanitation,Approved,2026-03-04,Synthetic demonstration record
+REC-00728,MPLADS-SYN-0728,MP-676,2025-11-01,Street Lighting,420000,Community facility,Rejected,2025-12-16,Synthetic demonstration record
+REC-00729,MPLADS-SYN-0729,MP-217,2026-04-04,Health Facility,3150000,Local infrastructure need,Approved,2026-05-21,Synthetic demonstration record
+REC-00730,MPLADS-SYN-0730,MP-577,2026-05-25,Solar Lighting,1440000,Local infrastructure need,Approved,2026-06-24,Synthetic demonstration record
+REC-00731,MPLADS-SYN-0731,MP-434,2026-01-05,Solar Lighting,1380000,Water and sanitation,Approved,2026-03-05,Synthetic demonstration record
+REC-00732,MPLADS-SYN-0732,MP-775,2026-05-02,Street Lighting,860000,Road connectivity,Approved,2026-05-18,Synthetic demonstration record
+REC-00733,MPLADS-SYN-0733,MP-350,2026-03-13,Library,620000,Public utility improvement,Under Review,2026-04-21,Synthetic demonstration record
+REC-00734,MPLADS-SYN-0734,MP-533,2026-04-27,Library,1400000,Community facility,Rejected,2026-06-23,Synthetic demonstration record
+REC-00735,MPLADS-SYN-0735,MP-715,2026-03-09,Community Hall,2270000,Local infrastructure need,Approved,2026-05-03,Synthetic demonstration record
+REC-00736,MPLADS-SYN-0736,MP-367,2026-04-03,Health Facility,4090000,Public utility improvement,Approved,2026-05-17,Synthetic demonstration record
+REC-00737,MPLADS-SYN-0737,MP-739,2025-12-15,Sports Facility,360000,Community facility,Approved,2026-01-15,Synthetic demonstration record
+REC-00738,MPLADS-SYN-0738,MP-961,2025-12-23,Library,1530000,Community facility,Approved,2026-01-25,Synthetic demonstration record
+REC-00739,MPLADS-SYN-0739,MP-122,2025-12-16,Community Hall,1830000,Road connectivity,Approved,2026-01-06,Synthetic demonstration record
+REC-00740,MPLADS-SYN-0740,MP-296,2026-03-21,Road,1220000,Local infrastructure need,Approved,2026-05-07,Synthetic demonstration record
+REC-00741,MPLADS-SYN-0741,MP-886,2026-03-27,Drinking Water,1840000,Road connectivity,Approved,2026-04-19,Synthetic demonstration record
+REC-00742,MPLADS-SYN-0742,MP-185,2025-12-13,Sports Facility,1960000,Road connectivity,Under Review,2026-02-10,Synthetic demonstration record
+REC-00743,MPLADS-SYN-0743,MP-935,2026-02-14,School Building,2530000,Road connectivity,Approved,2026-04-02,Synthetic demonstration record
+REC-00744,MPLADS-SYN-0744,MP-270,2026-01-24,Drinking Water,360000,Water and sanitation,Under Review,2026-03-18,Synthetic demonstration record
+REC-00745,MPLADS-SYN-0745,MP-936,2026-02-24,Street Lighting,410000,Water and sanitation,Approved,2026-03-12,Synthetic demonstration record
+REC-00746,MPLADS-SYN-0746,MP-377,2025-11-18,Road,920000,Public utility improvement,Rejected,2025-12-20,Synthetic demonstration record
+REC-00747,MPLADS-SYN-0747,MP-846,2026-03-25,Drinking Water,1020000,Public utility improvement,Under Review,2026-05-03,Synthetic demonstration record
+REC-00748,MPLADS-SYN-0748,MP-580,2025-12-06,Solar Lighting,1250000,Road connectivity,Approved,2026-02-03,Synthetic demonstration record
+REC-00749,MPLADS-SYN-0749,MP-315,2025-12-26,Street Lighting,700000,Water and sanitation,Approved,2026-01-30,Synthetic demonstration record
+REC-00750,MPLADS-SYN-0750,MP-996,2026-02-23,Library,800000,Public utility improvement,Approved,2026-03-17,Synthetic demonstration record
+REC-00751,MPLADS-SYN-0751,MP-941,2026-03-31,Sports Facility,550000,Road connectivity,Under Review,2026-04-21,Synthetic demonstration record
+REC-00752,MPLADS-SYN-0752,MP-168,2025-12-26,Sports Facility,2190000,Local infrastructure need,Approved,2026-02-19,Synthetic demonstration record
+REC-00753,MPLADS-SYN-0753,MP-128,2026-05-06,Health Facility,3450000,Water and sanitation,Approved,2026-06-21,Synthetic demonstration record
+REC-00754,MPLADS-SYN-0754,MP-353,2026-03-23,Health Facility,3000000,Water and sanitation,Approved,2026-04-10,Synthetic demonstration record
+REC-00755,MPLADS-SYN-0755,MP-469,2026-01-02,School Building,3170000,Public utility improvement,Approved,2026-01-21,Synthetic demonstration record
+REC-00756,MPLADS-SYN-0756,MP-416,2026-02-17,Road,2790000,Road connectivity,Approved,2026-04-14,Synthetic demonstration record
+REC-00757,MPLADS-SYN-0757,MP-902,2026-02-21,Street Lighting,650000,Water and sanitation,Approved,2026-03-31,Synthetic demonstration record
+REC-00758,MPLADS-SYN-0758,MP-673,2025-11-26,Community Hall,1630000,Road connectivity,Approved,2025-12-31,Synthetic demonstration record
+REC-00759,MPLADS-SYN-0759,MP-222,2026-06-02,Solar Lighting,800000,Local infrastructure need,Rejected,2026-06-23,Synthetic demonstration record
+REC-00760,MPLADS-SYN-0760,MP-420,2026-04-24,Sports Facility,710000,Community facility,Under Review,2026-05-26,Synthetic demonstration record
+REC-00761,MPLADS-SYN-0761,MP-523,2026-04-18,Drinking Water,1120000,Local infrastructure need,Under Review,2026-05-24,Synthetic demonstration record
+REC-00762,MPLADS-SYN-0762,MP-314,2026-01-24,Community Hall,1730000,Water and sanitation,Under Review,2026-03-14,Synthetic demonstration record
+REC-00763,MPLADS-SYN-0763,MP-511,2026-05-30,Library,1380000,Community facility,Approved,2026-07-25,Synthetic demonstration record
+REC-00764,MPLADS-SYN-0764,MP-477,2025-09-21,Sports Facility,850000,Local infrastructure need,Approved,2025-10-23,Synthetic demonstration record
+REC-00765,MPLADS-SYN-0765,MP-694,2025-11-08,Solar Lighting,1180000,Road connectivity,Approved,2025-12-04,Synthetic demonstration record
+REC-00766,MPLADS-SYN-0766,MP-236,2026-01-17,Health Facility,4200000,Public utility improvement,Under Review,2026-03-08,Synthetic demonstration record
+REC-00767,MPLADS-SYN-0767,MP-707,2025-11-04,Library,1420000,Public utility improvement,Under Review,2025-12-21,Synthetic demonstration record
+REC-00768,MPLADS-SYN-0768,MP-810,2026-04-26,Street Lighting,840000,Public utility improvement,Under Review,2026-06-21,Synthetic demonstration record
+REC-00769,MPLADS-SYN-0769,MP-620,2026-03-23,Drainage,1180000,Community facility,Approved,2026-04-28,Synthetic demonstration record
+REC-00770,MPLADS-SYN-0770,MP-925,2026-06-20,Drainage,750000,Water and sanitation,Under Review,2026-07-07,Synthetic demonstration record
+REC-00771,MPLADS-SYN-0771,MP-833,2026-03-03,Drainage,500000,Community facility,Approved,2026-04-24,Synthetic demonstration record
+REC-00772,MPLADS-SYN-0772,MP-745,2026-01-05,Community Hall,1010000,Water and sanitation,Approved,2026-02-12,Synthetic demonstration record
+REC-00773,MPLADS-SYN-0773,MP-907,2025-12-31,Drainage,1670000,Road connectivity,Approved,2026-02-06,Synthetic demonstration record
+REC-00774,MPLADS-SYN-0774,MP-387,2025-11-18,Solar Lighting,1310000,Water and sanitation,Rejected,2026-01-03,Synthetic demonstration record
+REC-00775,MPLADS-SYN-0775,MP-359,2026-04-14,Community Hall,3090000,Road connectivity,Under Review,2026-06-04,Synthetic demonstration record
+REC-00776,MPLADS-SYN-0776,MP-370,2026-04-29,Library,1060000,Community facility,Approved,2026-05-16,Synthetic demonstration record
+REC-00777,MPLADS-SYN-0777,MP-537,2026-04-08,Street Lighting,300000,Road connectivity,Approved,2026-04-26,Synthetic demonstration record
+REC-00778,MPLADS-SYN-0778,MP-108,2025-11-08,Community Hall,2000000,Water and sanitation,Approved,2025-12-17,Synthetic demonstration record
+REC-00779,MPLADS-SYN-0779,MP-659,2025-11-15,School Building,4210000,Water and sanitation,Approved,2026-01-11,Synthetic demonstration record
+REC-00780,MPLADS-SYN-0780,MP-472,2026-01-11,Road,1300000,Road connectivity,Approved,2026-02-26,Synthetic demonstration record
+REC-00781,MPLADS-SYN-0781,MP-707,2025-11-04,Street Lighting,740000,Public utility improvement,Under Review,2025-12-30,Synthetic demonstration record
+REC-00782,MPLADS-SYN-0782,MP-768,2026-03-02,Road,2370000,Water and sanitation,Approved,2026-04-23,Synthetic demonstration record
+REC-00783,MPLADS-SYN-0783,MP-243,2026-03-09,School Building,1780000,Local infrastructure need,Approved,2026-04-09,Synthetic demonstration record
+REC-00784,MPLADS-SYN-0784,MP-579,2026-04-22,Health Facility,3480000,Public utility improvement,Under Review,2026-05-23,Synthetic demonstration record
+REC-00785,MPLADS-SYN-0785,MP-848,2026-01-30,School Building,1170000,Public utility improvement,Rejected,2026-02-16,Synthetic demonstration record
+REC-00786,MPLADS-SYN-0786,MP-873,2026-05-08,Library,1240000,Water and sanitation,Approved,2026-06-28,Synthetic demonstration record
+REC-00787,MPLADS-SYN-0787,MP-974,2026-03-23,Street Lighting,670000,Public utility improvement,Approved,2026-05-17,Synthetic demonstration record
+REC-00788,MPLADS-SYN-0788,MP-579,2025-12-30,Community Hall,2970000,Local infrastructure need,Rejected,2026-02-19,Synthetic demonstration record
+REC-00789,MPLADS-SYN-0789,MP-506,2026-07-02,Sports Facility,1300000,Public utility improvement,Under Review,2026-08-28,Synthetic demonstration record
+REC-00790,MPLADS-SYN-0790,MP-823,2026-03-19,Road,2350000,Water and sanitation,Under Review,2026-04-15,Synthetic demonstration record
+REC-00791,MPLADS-SYN-0791,MP-802,2025-11-25,Library,860000,Water and sanitation,Approved,2025-12-23,Synthetic demonstration record
+REC-00792,MPLADS-SYN-0792,MP-480,2026-03-18,Community Hall,1080000,Local infrastructure need,Approved,2026-05-15,Synthetic demonstration record
+REC-00793,MPLADS-SYN-0793,MP-895,2025-09-28,Road,990000,Community facility,Under Review,2025-10-28,Synthetic demonstration record
+REC-00794,MPLADS-SYN-0794,MP-749,2026-01-06,School Building,1170000,Community facility,Under Review,2026-02-07,Synthetic demonstration record
+REC-00795,MPLADS-SYN-0795,MP-570,2026-05-06,School Building,3190000,Community facility,Under Review,2026-05-30,Synthetic demonstration record
+REC-00796,MPLADS-SYN-0796,MP-348,2025-09-20,Street Lighting,210000,Water and sanitation,Approved,2025-11-05,Synthetic demonstration record
+REC-00797,MPLADS-SYN-0797,MP-370,2025-11-24,Library,1470000,Community facility,Rejected,2025-12-25,Synthetic demonstration record
+REC-00798,MPLADS-SYN-0798,MP-917,2025-11-11,School Building,4530000,Road connectivity,Under Review,2026-01-10,Synthetic demonstration record
+REC-00799,MPLADS-SYN-0799,MP-462,2025-11-23,Library,980000,Water and sanitation,Approved,2025-12-19,Synthetic demonstration record
+REC-00800,MPLADS-SYN-0800,MP-842,2025-10-11,Solar Lighting,800000,Public utility improvement,Approved,2025-11-26,Synthetic demonstration record
+REC-00801,MPLADS-SYN-0801,MP-995,2026-02-22,Sports Facility,1960000,Road connectivity,Approved,2026-04-06,Synthetic demonstration record
+REC-00802,MPLADS-SYN-0802,MP-641,2026-05-20,Solar Lighting,890000,Public utility improvement,Approved,2026-06-13,Synthetic demonstration record
+REC-00803,MPLADS-SYN-0803,MP-386,2025-12-22,Road,2220000,Local infrastructure need,Approved,2026-01-19,Synthetic demonstration record
+REC-00804,MPLADS-SYN-0804,MP-313,2026-03-03,Health Facility,2840000,Water and sanitation,Approved,2026-04-17,Synthetic demonstration record
+REC-00805,MPLADS-SYN-0805,MP-204,2025-11-17,Solar Lighting,1230000,Water and sanitation,Rejected,2025-12-19,Synthetic demonstration record
+REC-00806,MPLADS-SYN-0806,MP-131,2026-03-20,Drainage,2440000,Road connectivity,Approved,2026-04-21,Synthetic demonstration record
+REC-00807,MPLADS-SYN-0807,MP-444,2025-11-21,Drainage,1430000,Road connectivity,Approved,2025-12-11,Synthetic demonstration record
+REC-00808,MPLADS-SYN-0808,MP-665,2026-01-25,Solar Lighting,1730000,Water and sanitation,Approved,2026-03-13,Synthetic demonstration record
+REC-00809,MPLADS-SYN-0809,MP-225,2026-01-11,Community Hall,1010000,Local infrastructure need,Under Review,2026-01-26,Synthetic demonstration record
+REC-00810,MPLADS-SYN-0810,MP-824,2025-12-16,Community Hall,3160000,Public utility improvement,Approved,2026-01-02,Synthetic demonstration record
+REC-00811,MPLADS-SYN-0811,MP-893,2025-10-16,Health Facility,2490000,Road connectivity,Under Review,2025-12-07,Synthetic demonstration record
+REC-00812,MPLADS-SYN-0812,MP-273,2026-01-29,Health Facility,2700000,Community facility,Approved,2026-03-13,Synthetic demonstration record
+REC-00813,MPLADS-SYN-0813,MP-602,2026-03-29,Solar Lighting,1370000,Water and sanitation,Under Review,2026-04-24,Synthetic demonstration record
+REC-00814,MPLADS-SYN-0814,MP-739,2026-05-17,Library,350000,Public utility improvement,Under Review,2026-07-15,Synthetic demonstration record
+REC-00815,MPLADS-SYN-0815,MP-322,2026-05-20,Drinking Water,640000,Public utility improvement,Rejected,2026-06-16,Synthetic demonstration record
+REC-00816,MPLADS-SYN-0816,MP-832,2026-01-14,School Building,4110000,Water and sanitation,Approved,2026-03-08,Synthetic demonstration record
+REC-00817,MPLADS-SYN-0817,MP-888,2026-03-29,Library,1460000,Community facility,Approved,2026-04-18,Synthetic demonstration record
+REC-00818,MPLADS-SYN-0818,MP-222,2026-05-30,Health Facility,3430000,Local infrastructure need,Approved,2026-06-22,Synthetic demonstration record
+REC-00819,MPLADS-SYN-0819,MP-101,2026-03-05,Road,2490000,Water and sanitation,Rejected,2026-03-30,Synthetic demonstration record
+REC-00820,MPLADS-SYN-0820,MP-363,2026-06-07,Solar Lighting,500000,Public utility improvement,Under Review,2026-08-05,Synthetic demonstration record
+REC-00821,MPLADS-SYN-0821,MP-494,2026-02-10,Library,1100000,Community facility,Rejected,2026-03-18,Synthetic demonstration record
+REC-00822,MPLADS-SYN-0822,MP-995,2025-11-24,Drinking Water,990000,Water and sanitation,Approved,2026-01-01,Synthetic demonstration record
+REC-00823,MPLADS-SYN-0823,MP-587,2026-02-06,Drainage,1070000,Public utility improvement,Approved,2026-02-22,Synthetic demonstration record
+REC-00824,MPLADS-SYN-0824,MP-285,2025-11-11,School Building,2420000,Local infrastructure need,Approved,2025-11-30,Synthetic demonstration record
+REC-00825,MPLADS-SYN-0825,MP-564,2025-11-14,Drainage,1970000,Public utility improvement,Approved,2026-01-10,Synthetic demonstration record
+REC-00826,MPLADS-SYN-0826,MP-470,2026-04-05,Community Hall,2070000,Local infrastructure need,Rejected,2026-05-29,Synthetic demonstration record
+REC-00827,MPLADS-SYN-0827,MP-961,2025-11-17,Road,1130000,Public utility improvement,Rejected,2025-12-30,Synthetic demonstration record
+REC-00828,MPLADS-SYN-0828,MP-207,2026-01-17,Sports Facility,1930000,Public utility improvement,Rejected,2026-02-13,Synthetic demonstration record
+REC-00829,MPLADS-SYN-0829,MP-187,2025-11-12,Drainage,420000,Road connectivity,Under Review,2025-11-30,Synthetic demonstration record
+REC-00830,MPLADS-SYN-0830,MP-800,2026-03-15,Drainage,1910000,Water and sanitation,Under Review,2026-05-07,Synthetic demonstration record
+REC-00831,MPLADS-SYN-0831,MP-949,2025-12-22,Sports Facility,500000,Local infrastructure need,Approved,2026-02-01,Synthetic demonstration record
+REC-00832,MPLADS-SYN-0832,MP-833,2025-12-01,Road,810000,Local infrastructure need,Approved,2026-01-23,Synthetic demonstration record
+REC-00833,MPLADS-SYN-0833,MP-583,2026-03-28,Health Facility,780000,Public utility improvement,Approved,2026-04-13,Synthetic demonstration record
+REC-00834,MPLADS-SYN-0834,MP-770,2026-04-29,Library,690000,Water and sanitation,Approved,2026-05-24,Synthetic demonstration record
+REC-00835,MPLADS-SYN-0835,MP-634,2026-01-29,Solar Lighting,740000,Community facility,Under Review,2026-03-07,Synthetic demonstration record
+REC-00836,MPLADS-SYN-0836,MP-351,2025-11-23,School Building,5020000,Community facility,Under Review,2026-01-13,Synthetic demonstration record
+REC-00837,MPLADS-SYN-0837,MP-890,2025-10-18,Sports Facility,1480000,Local infrastructure need,Approved,2025-11-17,Synthetic demonstration record
+REC-00838,MPLADS-SYN-0838,MP-177,2026-03-13,School Building,3590000,Road connectivity,Rejected,2026-04-19,Synthetic demonstration record
+REC-00839,MPLADS-SYN-0839,MP-571,2025-12-22,School Building,2680000,Road connectivity,Rejected,2026-02-14,Synthetic demonstration record
+REC-00840,MPLADS-SYN-0840,MP-302,2026-05-09,School Building,3680000,Public utility improvement,Approved,2026-05-24,Synthetic demonstration record
+REC-00841,MPLADS-SYN-0841,MP-638,2026-05-15,Library,1070000,Community facility,Approved,2026-06-26,Synthetic demonstration record
+REC-00842,MPLADS-SYN-0842,MP-719,2026-06-01,Drainage,2110000,Road connectivity,Approved,2026-07-15,Synthetic demonstration record
+REC-00843,MPLADS-SYN-0843,MP-112,2026-02-10,Drainage,550000,Public utility improvement,Under Review,2026-03-04,Synthetic demonstration record
+REC-00844,MPLADS-SYN-0844,MP-124,2026-01-23,School Building,3640000,Local infrastructure need,Rejected,2026-03-11,Synthetic demonstration record
+REC-00845,MPLADS-SYN-0845,MP-659,2025-11-25,Solar Lighting,1140000,Water and sanitation,Rejected,2026-01-20,Synthetic demonstration record
+REC-00846,MPLADS-SYN-0846,MP-628,2026-05-21,Health Facility,2510000,Water and sanitation,Under Review,2026-06-26,Synthetic demonstration record
+REC-00847,MPLADS-SYN-0847,MP-654,2025-09-22,Drainage,1970000,Road connectivity,Approved,2025-11-13,Synthetic demonstration record
+REC-00848,MPLADS-SYN-0848,MP-688,2025-12-04,Road,2780000,Local infrastructure need,Under Review,2026-01-09,Synthetic demonstration record
+REC-00849,MPLADS-SYN-0849,MP-403,2026-03-17,Road,1300000,Community facility,Rejected,2026-04-12,Synthetic demonstration record
+REC-00850,MPLADS-SYN-0850,MP-500,2025-12-18,Community Hall,2950000,Water and sanitation,Under Review,2026-02-14,Synthetic demonstration record
+REC-00851,MPLADS-SYN-0851,MP-231,2026-01-21,Drinking Water,700000,Water and sanitation,Approved,2026-03-09,Synthetic demonstration record
+REC-00852,MPLADS-SYN-0852,MP-447,2026-02-08,Road,1030000,Local infrastructure need,Approved,2026-03-13,Synthetic demonstration record
+REC-00853,MPLADS-SYN-0853,MP-237,2026-04-18,Drinking Water,1620000,Local infrastructure need,Under Review,2026-05-17,Synthetic demonstration record
+REC-00854,MPLADS-SYN-0854,MP-666,2025-11-11,Solar Lighting,1630000,Road connectivity,Under Review,2025-11-28,Synthetic demonstration record
+REC-00855,MPLADS-SYN-0855,MP-805,2026-01-19,Health Facility,2750000,Road connectivity,Rejected,2026-02-12,Synthetic demonstration record
+REC-00856,MPLADS-SYN-0856,MP-598,2026-03-09,Sports Facility,1520000,Water and sanitation,Under Review,2026-05-05,Synthetic demonstration record
+REC-00857,MPLADS-SYN-0857,MP-402,2026-06-18,Sports Facility,1640000,Community facility,Approved,2026-08-08,Synthetic demonstration record
+REC-00858,MPLADS-SYN-0858,MP-209,2026-06-16,Health Facility,4140000,Water and sanitation,Rejected,2026-07-29,Synthetic demonstration record
+REC-00859,MPLADS-SYN-0859,MP-134,2026-06-02,Road,840000,Water and sanitation,Rejected,2026-07-23,Synthetic demonstration record
+REC-00860,MPLADS-SYN-0860,MP-853,2026-01-15,Drainage,1470000,Road connectivity,Under Review,2026-02-27,Synthetic demonstration record
+REC-00861,MPLADS-SYN-0861,MP-735,2025-11-02,Solar Lighting,1830000,Local infrastructure need,Approved,2025-11-20,Synthetic demonstration record
+REC-00862,MPLADS-SYN-0862,MP-761,2026-01-29,School Building,2790000,Water and sanitation,Rejected,2026-03-26,Synthetic demonstration record
+REC-00863,MPLADS-SYN-0863,MP-539,2026-01-05,Solar Lighting,350000,Road connectivity,Approved,2026-02-21,Synthetic demonstration record
+REC-00864,MPLADS-SYN-0864,MP-739,2025-12-09,Road,2050000,Public utility improvement,Rejected,2026-01-27,Synthetic demonstration record
+REC-00865,MPLADS-SYN-0865,MP-424,2026-05-05,Community Hall,3660000,Public utility improvement,Rejected,2026-06-19,Synthetic demonstration record
+REC-00866,MPLADS-SYN-0866,MP-174,2025-11-27,Health Facility,2510000,Public utility improvement,Under Review,2026-01-17,Synthetic demonstration record
+REC-00867,MPLADS-SYN-0867,MP-999,2025-11-22,Community Hall,4040000,Local infrastructure need,Rejected,2025-12-24,Synthetic demonstration record
+REC-00868,MPLADS-SYN-0868,MP-792,2026-04-29,Street Lighting,1210000,Community facility,Approved,2026-05-30,Synthetic demonstration record
+REC-00869,MPLADS-SYN-0869,MP-549,2026-05-18,Drinking Water,1960000,Community facility,Approved,2026-06-19,Synthetic demonstration record
+REC-00870,MPLADS-SYN-0870,MP-102,2026-01-26,Street Lighting,870000,Road connectivity,Approved,2026-03-12,Synthetic demonstration record
+REC-00871,MPLADS-SYN-0871,MP-703,2025-11-16,Sports Facility,2290000,Public utility improvement,Rejected,2025-12-23,Synthetic demonstration record
+REC-00872,MPLADS-SYN-0872,MP-921,2025-11-24,Drainage,1450000,Community facility,Rejected,2026-01-01,Synthetic demonstration record
+REC-00873,MPLADS-SYN-0873,MP-905,2026-02-01,Street Lighting,320000,Community facility,Approved,2026-03-15,Synthetic demonstration record
+REC-00874,MPLADS-SYN-0874,MP-703,2025-11-18,Solar Lighting,1150000,Public utility improvement,Approved,2025-12-17,Synthetic demonstration record
+REC-00875,MPLADS-SYN-0875,MP-842,2025-09-19,Road,1250000,Public utility improvement,Rejected,2025-10-17,Synthetic demonstration record
+REC-00876,MPLADS-SYN-0876,MP-894,2026-06-09,Library,710000,Water and sanitation,Approved,2026-07-03,Synthetic demonstration record
+REC-00877,MPLADS-SYN-0877,MP-498,2026-04-24,School Building,3260000,Water and sanitation,Approved,2026-05-13,Synthetic demonstration record
+REC-00878,MPLADS-SYN-0878,MP-973,2025-12-28,Library,390000,Public utility improvement,Approved,2026-01-13,Synthetic demonstration record
+REC-00879,MPLADS-SYN-0879,MP-899,2025-09-28,Drainage,2190000,Road connectivity,Rejected,2025-11-24,Synthetic demonstration record
+REC-00880,MPLADS-SYN-0880,MP-983,2026-01-04,Drinking Water,1180000,Community facility,Under Review,2026-02-25,Synthetic demonstration record
+REC-00881,MPLADS-SYN-0881,MP-476,2025-12-21,Street Lighting,960000,Public utility improvement,Approved,2026-02-19,Synthetic demonstration record
+REC-00882,MPLADS-SYN-0882,MP-285,2026-03-30,Street Lighting,1340000,Road connectivity,Rejected,2026-05-08,Synthetic demonstration record
+REC-00883,MPLADS-SYN-0883,MP-107,2026-03-23,Health Facility,2390000,Community facility,Approved,2026-04-28,Synthetic demonstration record
+REC-00884,MPLADS-SYN-0884,MP-930,2025-10-04,Street Lighting,1290000,Community facility,Approved,2025-11-14,Synthetic demonstration record
+REC-00885,MPLADS-SYN-0885,MP-720,2025-09-30,Street Lighting,590000,Local infrastructure need,Approved,2025-10-16,Synthetic demonstration record
+REC-00886,MPLADS-SYN-0886,MP-375,2025-12-09,Road,1680000,Local infrastructure need,Approved,2026-02-02,Synthetic demonstration record
+REC-00887,MPLADS-SYN-0887,MP-446,2025-12-18,Sports Facility,360000,Public utility improvement,Approved,2026-02-08,Synthetic demonstration record
+REC-00888,MPLADS-SYN-0888,MP-430,2025-12-15,Community Hall,3270000,Water and sanitation,Under Review,2026-02-07,Synthetic demonstration record
+REC-00889,MPLADS-SYN-0889,MP-716,2026-03-29,Drinking Water,1890000,Water and sanitation,Rejected,2026-04-14,Synthetic demonstration record
+REC-00890,MPLADS-SYN-0890,MP-920,2026-03-31,School Building,3370000,Local infrastructure need,Rejected,2026-04-17,Synthetic demonstration record
+REC-00891,MPLADS-SYN-0891,MP-610,2026-07-11,Drinking Water,1350000,Road connectivity,Rejected,2026-08-01,Synthetic demonstration record
+REC-00892,MPLADS-SYN-0892,MP-906,2026-05-05,Road,1630000,Public utility improvement,Approved,2026-06-17,Synthetic demonstration record
+REC-00893,MPLADS-SYN-0893,MP-152,2026-05-14,Community Hall,2000000,Road connectivity,Approved,2026-07-10,Synthetic demonstration record
+REC-00894,MPLADS-SYN-0894,MP-416,2026-05-20,Sports Facility,1800000,Road connectivity,Approved,2026-06-28,Synthetic demonstration record
+REC-00895,MPLADS-SYN-0895,MP-548,2026-01-20,School Building,3030000,Local infrastructure need,Rejected,2026-02-19,Synthetic demonstration record
+REC-00896,MPLADS-SYN-0896,MP-819,2026-01-09,Solar Lighting,860000,Water and sanitation,Rejected,2026-02-04,Synthetic demonstration record
+REC-00897,MPLADS-SYN-0897,MP-466,2026-07-10,Library,1690000,Water and sanitation,Rejected,2026-08-13,Synthetic demonstration record
+REC-00898,MPLADS-SYN-0898,MP-856,2026-06-08,School Building,4000000,Road connectivity,Under Review,2026-07-16,Synthetic demonstration record
+REC-00899,MPLADS-SYN-0899,MP-547,2025-12-19,Drinking Water,610000,Water and sanitation,Approved,2026-02-05,Synthetic demonstration record
+REC-00900,MPLADS-SYN-0900,MP-397,2026-05-26,Road,2640000,Community facility,Rejected,2026-06-29,Synthetic demonstration record
+REC-00901,MPLADS-SYN-0901,MP-380,2026-07-11,Drinking Water,430000,Public utility improvement,Rejected,2026-08-27,Synthetic demonstration record
+REC-00902,MPLADS-SYN-0902,MP-339,2026-03-08,School Building,3940000,Local infrastructure need,Under Review,2026-03-29,Synthetic demonstration record
+REC-00903,MPLADS-SYN-0903,MP-615,2026-03-10,Drinking Water,680000,Community facility,Rejected,2026-04-05,Synthetic demonstration record
+REC-00904,MPLADS-SYN-0904,MP-312,2026-05-10,Drinking Water,1250000,Road connectivity,Approved,2026-05-30,Synthetic demonstration record
+REC-00905,MPLADS-SYN-0905,MP-264,2025-10-14,Sports Facility,1570000,Public utility improvement,Approved,2025-12-13,Synthetic demonstration record
+REC-00906,MPLADS-SYN-0906,MP-690,2026-04-12,Library,830000,Community facility,Approved,2026-05-04,Synthetic demonstration record
+REC-00907,MPLADS-SYN-0907,MP-676,2026-02-14,Library,1750000,Local infrastructure need,Approved,2026-03-30,Synthetic demonstration record
+REC-00908,MPLADS-SYN-0908,MP-941,2025-09-19,Health Facility,2040000,Local infrastructure need,Approved,2025-10-12,Synthetic demonstration record
+REC-00909,MPLADS-SYN-0909,MP-812,2026-04-12,Road,1450000,Local infrastructure need,Under Review,2026-06-11,Synthetic demonstration record
+REC-00910,MPLADS-SYN-0910,MP-623,2025-11-20,Health Facility,4240000,Road connectivity,Under Review,2025-12-31,Synthetic demonstration record
+REC-00911,MPLADS-SYN-0911,MP-914,2026-01-27,Health Facility,1850000,Water and sanitation,Approved,2026-03-06,Synthetic demonstration record
+REC-00912,MPLADS-SYN-0912,MP-372,2025-11-12,Library,1380000,Local infrastructure need,Rejected,2026-01-07,Synthetic demonstration record
+REC-00913,MPLADS-SYN-0913,MP-488,2025-11-12,Drainage,1080000,Water and sanitation,Approved,2025-12-15,Synthetic demonstration record
+REC-00914,MPLADS-SYN-0914,MP-527,2026-01-30,Drainage,1360000,Community facility,Approved,2026-03-22,Synthetic demonstration record
+REC-00915,MPLADS-SYN-0915,MP-201,2026-02-28,School Building,4130000,Water and sanitation,Under Review,2026-04-07,Synthetic demonstration record
+REC-00916,MPLADS-SYN-0916,MP-768,2025-10-27,Road,1240000,Water and sanitation,Rejected,2025-12-23,Synthetic demonstration record
+REC-00917,MPLADS-SYN-0917,MP-869,2025-12-23,Road,2250000,Water and sanitation,Under Review,2026-02-06,Synthetic demonstration record
+REC-00918,MPLADS-SYN-0918,MP-494,2025-11-19,Road,2640000,Water and sanitation,Under Review,2026-01-03,Synthetic demonstration record
+REC-00919,MPLADS-SYN-0919,MP-147,2025-12-26,Drinking Water,720000,Community facility,Under Review,2026-01-18,Synthetic demonstration record
+REC-00920,MPLADS-SYN-0920,MP-612,2026-01-11,Sports Facility,2480000,Road connectivity,Approved,2026-03-04,Synthetic demonstration record
+REC-00921,MPLADS-SYN-0921,MP-418,2026-04-19,Street Lighting,920000,Road connectivity,Under Review,2026-05-15,Synthetic demonstration record
+REC-00922,MPLADS-SYN-0922,MP-602,2026-06-05,Library,1220000,Road connectivity,Approved,2026-07-08,Synthetic demonstration record
+REC-00923,MPLADS-SYN-0923,MP-738,2025-12-28,Solar Lighting,1710000,Community facility,Rejected,2026-02-14,Synthetic demonstration record
+REC-00924,MPLADS-SYN-0924,MP-707,2025-12-17,Drinking Water,1320000,Community facility,Rejected,2026-01-10,Synthetic demonstration record
+REC-00925,MPLADS-SYN-0925,MP-469,2025-12-19,Health Facility,2520000,Road connectivity,Under Review,2026-01-12,Synthetic demonstration record
+REC-00926,MPLADS-SYN-0926,MP-105,2025-12-20,Street Lighting,850000,Water and sanitation,Approved,2026-02-16,Synthetic demonstration record
+REC-00927,MPLADS-SYN-0927,MP-667,2026-02-18,Street Lighting,1360000,Road connectivity,Approved,2026-03-31,Synthetic demonstration record
+REC-00928,MPLADS-SYN-0928,MP-274,2025-10-30,Street Lighting,490000,Community facility,Rejected,2025-12-27,Synthetic demonstration record
+REC-00929,MPLADS-SYN-0929,MP-760,2026-02-19,Drinking Water,480000,Community facility,Rejected,2026-04-18,Synthetic demonstration record
+REC-00930,MPLADS-SYN-0930,MP-135,2026-04-06,Library,1400000,Local infrastructure need,Rejected,2026-05-21,Synthetic demonstration record
+REC-00931,MPLADS-SYN-0931,MP-412,2026-01-26,Drainage,1270000,Water and sanitation,Rejected,2026-02-22,Synthetic demonstration record
+REC-00932,MPLADS-SYN-0932,MP-138,2026-02-04,School Building,3920000,Public utility improvement,Approved,2026-02-24,Synthetic demonstration record
+REC-00933,MPLADS-SYN-0933,MP-353,2025-12-06,School Building,2380000,Local infrastructure need,Approved,2025-12-26,Synthetic demonstration record
+REC-00934,MPLADS-SYN-0934,MP-813,2026-01-02,Drainage,1400000,Public utility improvement,Approved,2026-02-01,Synthetic demonstration record
+REC-00935,MPLADS-SYN-0935,MP-180,2026-04-18,Road,1700000,Local infrastructure need,Approved,2026-06-04,Synthetic demonstration record
+REC-00936,MPLADS-SYN-0936,MP-784,2025-11-15,School Building,2990000,Local infrastructure need,Rejected,2025-12-22,Synthetic demonstration record
+REC-00937,MPLADS-SYN-0937,MP-613,2026-03-20,Road,1790000,Community facility,Under Review,2026-04-25,Synthetic demonstration record
+REC-00938,MPLADS-SYN-0938,MP-610,2025-10-02,Sports Facility,2440000,Road connectivity,Under Review,2025-10-25,Synthetic demonstration record
+REC-00939,MPLADS-SYN-0939,MP-396,2026-03-24,Solar Lighting,380000,Road connectivity,Approved,2026-05-14,Synthetic demonstration record
+REC-00940,MPLADS-SYN-0940,MP-206,2026-02-21,Library,760000,Road connectivity,Approved,2026-03-25,Synthetic demonstration record
+REC-00941,MPLADS-SYN-0941,MP-521,2026-02-27,Library,450000,Community facility,Rejected,2026-03-30,Synthetic demonstration record
+REC-00942,MPLADS-SYN-0942,MP-565,2026-04-11,Community Hall,1100000,Community facility,Approved,2026-05-16,Synthetic demonstration record
+REC-00943,MPLADS-SYN-0943,MP-563,2025-12-11,Solar Lighting,1090000,Community facility,Approved,2026-02-05,Synthetic demonstration record
+REC-00944,MPLADS-SYN-0944,MP-567,2025-12-20,Library,610000,Local infrastructure need,Approved,2026-01-25,Synthetic demonstration record
+REC-00945,MPLADS-SYN-0945,MP-506,2025-12-10,Road,2990000,Water and sanitation,Rejected,2026-01-09,Synthetic demonstration record
+REC-00946,MPLADS-SYN-0946,MP-308,2025-09-30,Library,1760000,Community facility,Under Review,2025-11-29,Synthetic demonstration record
+REC-00947,MPLADS-SYN-0947,MP-547,2025-10-15,Health Facility,1970000,Road connectivity,Approved,2025-11-28,Synthetic demonstration record
+REC-00948,MPLADS-SYN-0948,MP-646,2025-09-25,Drainage,1160000,Public utility improvement,Under Review,2025-11-22,Synthetic demonstration record
+REC-00949,MPLADS-SYN-0949,MP-147,2025-11-29,Solar Lighting,1170000,Local infrastructure need,Approved,2026-01-10,Synthetic demonstration record
+REC-00950,MPLADS-SYN-0950,MP-370,2026-04-08,Library,700000,Water and sanitation,Under Review,2026-06-02,Synthetic demonstration record
+REC-00951,MPLADS-SYN-0951,MP-531,2026-04-17,Road,750000,Public utility improvement,Approved,2026-05-27,Synthetic demonstration record
+REC-00952,MPLADS-SYN-0952,MP-649,2026-04-13,Drinking Water,1740000,Road connectivity,Approved,2026-05-25,Synthetic demonstration record
+REC-00953,MPLADS-SYN-0953,MP-980,2026-02-08,Sports Facility,530000,Road connectivity,Approved,2026-03-26,Synthetic demonstration record
+REC-00954,MPLADS-SYN-0954,MP-568,2025-11-07,Library,1420000,Public utility improvement,Rejected,2025-12-22,Synthetic demonstration record
+REC-00955,MPLADS-SYN-0955,MP-844,2026-03-31,Road,2550000,Community facility,Approved,2026-04-20,Synthetic demonstration record
+REC-00956,MPLADS-SYN-0956,MP-234,2026-07-18,Health Facility,930000,Water and sanitation,Approved,2026-09-09,Synthetic demonstration record
+REC-00957,MPLADS-SYN-0957,MP-795,2026-07-16,Street Lighting,1000000,Community facility,Under Review,2026-09-12,Synthetic demonstration record
+REC-00958,MPLADS-SYN-0958,MP-956,2026-06-16,Health Facility,3540000,Local infrastructure need,Approved,2026-08-04,Synthetic demonstration record
+REC-00959,MPLADS-SYN-0959,MP-565,2025-11-13,Sports Facility,610000,Public utility improvement,Approved,2025-12-06,Synthetic demonstration record
+REC-00960,MPLADS-SYN-0960,MP-894,2026-07-10,School Building,2810000,Road connectivity,Approved,2026-08-30,Synthetic demonstration record
+REC-00961,MPLADS-SYN-0961,MP-749,2026-05-10,Street Lighting,990000,Road connectivity,Under Review,2026-06-18,Synthetic demonstration record
+REC-00962,MPLADS-SYN-0962,MP-946,2026-05-26,Sports Facility,2250000,Road connectivity,Under Review,2026-07-06,Synthetic demonstration record
+REC-00963,MPLADS-SYN-0963,MP-287,2025-12-17,School Building,1830000,Public utility improvement,Approved,2026-01-07,Synthetic demonstration record
+REC-00964,MPLADS-SYN-0964,MP-444,2026-04-03,Community Hall,2960000,Water and sanitation,Rejected,2026-05-01,Synthetic demonstration record
+REC-00965,MPLADS-SYN-0965,MP-910,2026-01-11,Health Facility,2170000,Public utility improvement,Approved,2026-03-10,Synthetic demonstration record
+REC-00966,MPLADS-SYN-0966,MP-137,2025-11-03,Road,1430000,Community facility,Approved,2025-12-06,Synthetic demonstration record
+REC-00967,MPLADS-SYN-0967,MP-849,2026-06-28,Street Lighting,1180000,Public utility improvement,Rejected,2026-07-21,Synthetic demonstration record
+REC-00968,MPLADS-SYN-0968,MP-346,2025-12-12,Sports Facility,840000,Community facility,Approved,2026-01-13,Synthetic demonstration record
+REC-00969,MPLADS-SYN-0969,MP-340,2026-03-23,Sports Facility,1400000,Local infrastructure need,Rejected,2026-04-27,Synthetic demonstration record
+REC-00970,MPLADS-SYN-0970,MP-975,2025-11-24,Health Facility,1510000,Community facility,Under Review,2025-12-13,Synthetic demonstration record
+REC-00971,MPLADS-SYN-0971,MP-380,2025-11-25,Health Facility,1000000,Public utility improvement,Approved,2025-12-19,Synthetic demonstration record
+REC-00972,MPLADS-SYN-0972,MP-641,2025-12-13,Drainage,1120000,Road connectivity,Approved,2026-01-19,Synthetic demonstration record
+REC-00973,MPLADS-SYN-0973,MP-599,2026-03-03,Sports Facility,300000,Road connectivity,Under Review,2026-03-18,Synthetic demonstration record
+REC-00974,MPLADS-SYN-0974,MP-317,2025-11-02,Community Hall,1730000,Public utility improvement,Approved,2025-12-19,Synthetic demonstration record
+REC-00975,MPLADS-SYN-0975,MP-975,2025-12-08,Health Facility,3350000,Community facility,Rejected,2025-12-24,Synthetic demonstration record
+REC-00976,MPLADS-SYN-0976,MP-371,2025-12-26,Drinking Water,550000,Road connectivity,Approved,2026-01-29,Synthetic demonstration record
+REC-00977,MPLADS-SYN-0977,MP-188,2025-12-14,School Building,3270000,Local infrastructure need,Approved,2026-01-27,Synthetic demonstration record
+REC-00978,MPLADS-SYN-0978,MP-198,2025-11-05,Street Lighting,630000,Community facility,Approved,2025-12-05,Synthetic demonstration record
+REC-00979,MPLADS-SYN-0979,MP-436,2026-02-25,Drainage,420000,Public utility improvement,Approved,2026-04-12,Synthetic demonstration record
+REC-00980,MPLADS-SYN-0980,MP-744,2026-01-08,Library,1100000,Public utility improvement,Rejected,2026-02-19,Synthetic demonstration record
+REC-00981,MPLADS-SYN-0981,MP-451,2026-04-10,Drainage,830000,Road connectivity,Rejected,2026-05-20,Synthetic demonstration record
+REC-00982,MPLADS-SYN-0982,MP-548,2025-12-10,Sports Facility,2000000,Public utility improvement,Rejected,2026-01-16,Synthetic demonstration record
+REC-00983,MPLADS-SYN-0983,MP-330,2026-05-09,Community Hall,3370000,Road connectivity,Under Review,2026-06-12,Synthetic demonstration record
+REC-00984,MPLADS-SYN-0984,MP-209,2026-01-02,Sports Facility,1550000,Road connectivity,Rejected,2026-01-23,Synthetic demonstration record
+REC-00985,MPLADS-SYN-0985,MP-498,2026-01-30,Street Lighting,450000,Water and sanitation,Rejected,2026-02-20,Synthetic demonstration record
+REC-00986,MPLADS-SYN-0986,MP-799,2025-11-08,Health Facility,4010000,Public utility improvement,Approved,2025-12-29,Synthetic demonstration record
+REC-00987,MPLADS-SYN-0987,MP-721,2026-04-26,Road,1350000,Road connectivity,Approved,2026-06-09,Synthetic demonstration record
+REC-00988,MPLADS-SYN-0988,MP-152,2026-04-04,Road,1460000,Public utility improvement,Approved,2026-05-11,Synthetic demonstration record
+REC-00989,MPLADS-SYN-0989,MP-757,2026-01-24,Health Facility,1310000,Local infrastructure need,Approved,2026-02-24,Synthetic demonstration record
+REC-00990,MPLADS-SYN-0990,MP-751,2026-06-09,School Building,1610000,Public utility improvement,Approved,2026-07-21,Synthetic demonstration record
+REC-00991,MPLADS-SYN-0991,MP-583,2026-01-11,Street Lighting,220000,Community facility,Under Review,2026-02-27,Synthetic demonstration record
+REC-00992,MPLADS-SYN-0992,MP-394,2026-01-16,Road,1260000,Water and sanitation,Rejected,2026-02-12,Synthetic demonstration record
+REC-00993,MPLADS-SYN-0993,MP-821,2026-03-20,Street Lighting,380000,Community facility,Approved,2026-04-12,Synthetic demonstration record
+REC-00994,MPLADS-SYN-0994,MP-985,2025-10-19,Sports Facility,860000,Community facility,Approved,2025-11-17,Synthetic demonstration record
+REC-00995,MPLADS-SYN-0995,MP-214,2025-10-16,Library,820000,Community facility,Approved,2025-11-09,Synthetic demonstration record
+REC-00996,MPLADS-SYN-0996,MP-454,2026-03-27,Drainage,1830000,Community facility,Approved,2026-05-17,Synthetic demonstration record
+REC-00997,MPLADS-SYN-0997,MP-906,2026-04-16,Drainage,2250000,Road connectivity,Under Review,2026-05-30,Synthetic demonstration record
+REC-00998,MPLADS-SYN-0998,MP-189,2025-11-30,Solar Lighting,1580000,Road connectivity,Approved,2025-12-20,Synthetic demonstration record
+REC-00999,MPLADS-SYN-0999,MP-531,2025-11-24,Drainage,1910000,Public utility improvement,Approved,2025-12-11,Synthetic demonstration record
+REC-01000,MPLADS-SYN-1000,MP-500,2026-03-11,Community Hall,3810000,Road connectivity,Approved,2026-03-28,Synthetic demonstration record

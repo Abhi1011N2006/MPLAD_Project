@@ -1,0 +1,1001 @@
+tender_id,project_id,tender_title,department,location,estimated_cost,publication_date,submission_deadline,tender_status,number_of_bids,award_status,awarded_contractor_id,award_amount,award_date
+TND-00001,MPLADS-SYN-0001,Tender for Street Lighting - MPLADS-SYN-0001,Public Works Department,"Ahmedabad, Gujarat",820000.0,2026-02-04,2026-02-17,Awarded,7,Awarded,CON-001,741277.79,2026-03-07
+TND-00002,MPLADS-SYN-0002,Tender for Road - MPLADS-SYN-0002,Zilla Parishad,"Jaipur, Rajasthan",2190000.0,2026-04-14,2026-05-06,Under Evaluation,6,Not Awarded,,,
+TND-00003,MPLADS-SYN-0003,Tender for Drinking Water - MPLADS-SYN-0003,Zilla Parishad,"Varanasi, Uttar Pradesh",650000.0,2026-01-08,2026-01-26,Bidding Closed,2,Not Awarded,,,
+TND-00004,MPLADS-SYN-0004,Tender for Drainage - MPLADS-SYN-0004,Municipal Council,"Solapur, Maharashtra",1650000.0,2026-05-19,2026-06-06,Published,7,Not Awarded,,,
+TND-00005,MPLADS-SYN-0005,Tender for School Building - MPLADS-SYN-0005,District Health Office,"Aurangabad, Maharashtra",1160000.0,2026-01-26,2026-02-14,Completed,3,Awarded,CON-003,1099747.92,2026-02-27
+TND-00006,MPLADS-SYN-0006,Tender for Drinking Water - MPLADS-SYN-0006,Municipal Council,"Pune, Maharashtra",720000.0,2026-07-12,2026-07-25,Under Evaluation,7,Not Awarded,,,
+TND-00007,MPLADS-SYN-0007,Tender for Solar Lighting - MPLADS-SYN-0007,Municipal Corporation,"Rajkot, Gujarat",1690000.0,2026-03-13,2026-03-29,Completed,4,Awarded,CON-004,1680496.49,2026-04-03
+TND-00008,MPLADS-SYN-0008,Tender for Street Lighting - MPLADS-SYN-0008,Municipal Council,"Surat, Gujarat",490000.0,2026-02-02,2026-02-27,Under Evaluation,2,Not Awarded,,,
+TND-00009,MPLADS-SYN-0009,Tender for Drainage - MPLADS-SYN-0009,Education Department,"Jaipur, Rajasthan",2390000.0,2026-06-16,2026-07-03,Completed,3,Awarded,CON-007,2417966.44,2026-07-10
+TND-00010,MPLADS-SYN-0010,Tender for School Building - MPLADS-SYN-0010,Rural Development Agency,"Chennai, Tamil Nadu",2330000.0,2026-03-17,2026-03-29,Awarded,6,Awarded,CON-005,2318059.13,2026-04-07
+TND-00011,MPLADS-SYN-0011,Tender for Street Lighting - MPLADS-SYN-0011,District Health Office,"Dhule, Maharashtra",730000.0,2026-05-01,2026-05-16,Published,6,Not Awarded,,,
+TND-00012,MPLADS-SYN-0012,Tender for Community Hall - MPLADS-SYN-0012,Education Department,"Rajkot, Gujarat",3170000.0,2026-05-14,2026-05-30,Under Evaluation,7,Not Awarded,,,
+TND-00013,MPLADS-SYN-0013,Tender for Road - MPLADS-SYN-0013,District Health Office,"Prayagraj, Uttar Pradesh",2910000.0,2026-06-17,2026-07-06,Published,7,Not Awarded,,,
+TND-00014,MPLADS-SYN-0014,Tender for Road - MPLADS-SYN-0014,Education Department,"Thane, Maharashtra",2930000.0,2026-01-18,2026-02-11,Published,5,Not Awarded,,,
+TND-00015,MPLADS-SYN-0015,Tender for Road - MPLADS-SYN-0015,Municipal Corporation,"Kutch, Gujarat",1380000.0,2026-05-04,2026-05-21,Awarded,4,Awarded,CON-004,1218754.09,2026-06-02
+TND-00016,MPLADS-SYN-0016,Tender for Road - MPLADS-SYN-0016,Public Works Department,"Hubballi, Karnataka",1820000.0,2026-01-10,2026-01-20,Under Evaluation,7,Not Awarded,,,
+TND-00017,MPLADS-SYN-0017,Tender for Drinking Water - MPLADS-SYN-0017,Public Works Department,"Bengaluru Urban, Karnataka",1050000.0,2026-02-20,2026-03-09,Published,2,Not Awarded,,,
+TND-00018,MPLADS-SYN-0018,Tender for Drinking Water - MPLADS-SYN-0018,Public Works Department,"Bengaluru Urban, Karnataka",600000.0,2026-07-01,2026-07-18,Completed,7,Awarded,CON-002,571687.3,2026-07-27
+TND-00019,MPLADS-SYN-0019,Tender for Drinking Water - MPLADS-SYN-0019,Municipal Council,"Patna, Bihar",970000.0,2026-02-22,2026-03-19,Published,5,Not Awarded,,,
+TND-00020,MPLADS-SYN-0020,Tender for Health Facility - MPLADS-SYN-0020,Rural Development Agency,"Jabalpur, Madhya Pradesh",4350000.0,2026-06-28,2026-07-11,Bidding Closed,7,Not Awarded,,,
+TND-00021,MPLADS-SYN-0021,Tender for Street Lighting - MPLADS-SYN-0021,Rural Development Agency,"Ujjain, Madhya Pradesh",1500000.0,2026-06-09,2026-07-02,Bidding Closed,5,Not Awarded,,,
+TND-00022,MPLADS-SYN-0022,Tender for Library - MPLADS-SYN-0022,Education Department,"Chennai, Tamil Nadu",550000.0,2026-07-14,2026-07-27,Published,5,Not Awarded,,,
+TND-00023,MPLADS-SYN-0023,Tender for Road - MPLADS-SYN-0023,Rural Development Agency,"Jalgaon, Maharashtra",1250000.0,2026-05-30,2026-06-12,Published,3,Not Awarded,,,
+TND-00024,MPLADS-SYN-0024,Tender for Health Facility - MPLADS-SYN-0024,Municipal Corporation,"Bengaluru Urban, Karnataka",2200000.0,2025-12-02,2025-12-26,Awarded,5,Awarded,CON-002,1996551.05,2026-01-14
+TND-00025,MPLADS-SYN-0025,Tender for Drainage - MPLADS-SYN-0025,Rural Development Agency,"Agra, Uttar Pradesh",630000.0,2025-12-21,2026-01-14,Awarded,6,Awarded,CON-001,563652.37,2026-01-19
+TND-00026,MPLADS-SYN-0026,Tender for Library - MPLADS-SYN-0026,Municipal Council,"Lucknow, Uttar Pradesh",1340000.0,2026-04-02,2026-04-17,Awarded,5,Awarded,CON-003,1275953.04,2026-05-04
+TND-00027,MPLADS-SYN-0027,Tender for Sports Facility - MPLADS-SYN-0027,Zilla Parishad,"Indore, Madhya Pradesh",940000.0,2026-01-28,2026-02-19,Awarded,5,Awarded,CON-007,864593.63,2026-03-10
+TND-00028,MPLADS-SYN-0028,Tender for School Building - MPLADS-SYN-0028,District Health Office,"Patna, Bihar",2640000.0,2025-12-25,2026-01-19,Completed,3,Awarded,CON-005,2440696.3,2026-01-25
+TND-00029,MPLADS-SYN-0029,Tender for Drainage - MPLADS-SYN-0029,Public Works Department,"Rajkot, Gujarat",2100000.0,2026-06-05,2026-06-16,Under Evaluation,4,Not Awarded,,,
+TND-00030,MPLADS-SYN-0030,Tender for Community Hall - MPLADS-SYN-0030,Municipal Corporation,"Lucknow, Uttar Pradesh",950000.0,2026-03-26,2026-04-20,Awarded,6,Awarded,CON-006,858434.16,2026-04-27
+TND-00031,MPLADS-SYN-0031,Tender for School Building - MPLADS-SYN-0031,Public Works Department,"Belagavi, Karnataka",1030000.0,2026-06-17,2026-06-29,Awarded,3,Awarded,CON-006,968783.32,2026-07-11
+TND-00032,MPLADS-SYN-0032,Tender for Community Hall - MPLADS-SYN-0032,Municipal Council,"Madurai, Tamil Nadu",2000000.0,2026-03-15,2026-03-26,Under Evaluation,2,Not Awarded,,,
+TND-00033,MPLADS-SYN-0033,Tender for Solar Lighting - MPLADS-SYN-0033,Rural Development Agency,"Palghar, Maharashtra",730000.0,2026-06-21,2026-07-11,Bidding Closed,3,Not Awarded,,,
+TND-00034,MPLADS-SYN-0034,Tender for School Building - MPLADS-SYN-0034,District Health Office,"Jabalpur, Madhya Pradesh",3980000.0,2026-04-11,2026-05-01,Published,4,Not Awarded,,,
+TND-00035,MPLADS-SYN-0035,Tender for Road - MPLADS-SYN-0035,Education Department,"Ujjain, Madhya Pradesh",1550000.0,2026-03-23,2026-04-11,Bidding Closed,4,Not Awarded,,,
+TND-00036,MPLADS-SYN-0036,Tender for School Building - MPLADS-SYN-0036,Rural Development Agency,"Ujjain, Madhya Pradesh",2130000.0,2026-05-17,2026-06-10,Awarded,6,Awarded,CON-001,2192652.82,2026-06-17
+TND-00037,MPLADS-SYN-0037,Tender for Sports Facility - MPLADS-SYN-0037,Rural Development Agency,"Darbhanga, Bihar",340000.0,2026-03-26,2026-04-13,Under Evaluation,4,Not Awarded,,,
+TND-00038,MPLADS-SYN-0038,Tender for Road - MPLADS-SYN-0038,District Health Office,"Coimbatore, Tamil Nadu",1400000.0,2026-02-23,2026-03-16,Awarded,3,Awarded,CON-006,1324018.76,2026-03-30
+TND-00039,MPLADS-SYN-0039,Tender for Sports Facility - MPLADS-SYN-0039,Education Department,"Muzaffarpur, Bihar",980000.0,2026-05-08,2026-05-18,Under Evaluation,6,Not Awarded,,,
+TND-00040,MPLADS-SYN-0040,Tender for Street Lighting - MPLADS-SYN-0040,Public Works Department,"Varanasi, Uttar Pradesh",830000.0,2025-11-28,2025-12-11,Completed,4,Awarded,CON-006,744770.87,2025-12-19
+TND-00041,MPLADS-SYN-0041,Tender for Sports Facility - MPLADS-SYN-0041,District Health Office,"Salem, Tamil Nadu",630000.0,2025-12-15,2025-12-29,Published,4,Not Awarded,,,
+TND-00042,MPLADS-SYN-0042,Tender for Community Hall - MPLADS-SYN-0042,District Health Office,"Kutch, Gujarat",3830000.0,2026-02-06,2026-02-26,Under Evaluation,7,Not Awarded,,,
+TND-00043,MPLADS-SYN-0043,Tender for Sports Facility - MPLADS-SYN-0043,Municipal Council,"Tiruchirappalli, Tamil Nadu",570000.0,2026-07-04,2026-07-29,Published,2,Not Awarded,,,
+TND-00044,MPLADS-SYN-0044,Tender for Sports Facility - MPLADS-SYN-0044,Education Department,"Kota, Rajasthan",1030000.0,2026-07-01,2026-07-24,Awarded,4,Awarded,CON-003,913211.4,2026-08-08
+TND-00045,MPLADS-SYN-0045,Tender for Drainage - MPLADS-SYN-0045,Rural Development Agency,"Hubballi, Karnataka",1690000.0,2026-06-29,2026-07-17,Awarded,7,Awarded,CON-003,1599205.3,2026-08-04
+TND-00046,MPLADS-SYN-0046,Tender for Health Facility - MPLADS-SYN-0046,Municipal Corporation,"Darbhanga, Bihar",2400000.0,2026-08-03,2026-08-16,Under Evaluation,7,Not Awarded,,,
+TND-00047,MPLADS-SYN-0047,Tender for Library - MPLADS-SYN-0047,Public Works Department,"Vadodara, Gujarat",950000.0,2026-02-17,2026-02-28,Awarded,4,Awarded,CON-003,919007.61,2026-03-09
+TND-00048,MPLADS-SYN-0048,Tender for Health Facility - MPLADS-SYN-0048,District Health Office,"Ahmednagar, Maharashtra",1700000.0,2025-12-21,2026-01-01,Bidding Closed,4,Not Awarded,,,
+TND-00049,MPLADS-SYN-0049,Tender for Health Facility - MPLADS-SYN-0049,District Health Office,"Dhule, Maharashtra",2000000.0,2026-04-04,2026-04-20,Awarded,3,Awarded,CON-005,1960080.02,2026-05-06
+TND-00050,MPLADS-SYN-0050,Tender for Sports Facility - MPLADS-SYN-0050,Public Works Department,"Thane, Maharashtra",810000.0,2026-01-24,2026-02-07,Under Evaluation,3,Not Awarded,,,
+TND-00051,MPLADS-SYN-0051,Tender for Health Facility - MPLADS-SYN-0051,District Health Office,"Varanasi, Uttar Pradesh",3090000.0,2026-06-02,2026-06-12,Awarded,7,Awarded,CON-004,3147699.86,2026-06-30
+TND-00052,MPLADS-SYN-0052,Tender for Sports Facility - MPLADS-SYN-0052,District Health Office,"Ahmednagar, Maharashtra",1040000.0,2026-05-20,2026-06-07,Published,7,Not Awarded,,,
+TND-00053,MPLADS-SYN-0053,Tender for Health Facility - MPLADS-SYN-0053,Municipal Council,"Thane, Maharashtra",2930000.0,2026-02-02,2026-02-13,Awarded,5,Awarded,CON-003,2676159.62,2026-03-04
+TND-00054,MPLADS-SYN-0054,Tender for Drainage - MPLADS-SYN-0054,Municipal Corporation,"Ajmer, Rajasthan",2380000.0,2026-07-15,2026-08-01,Completed,2,Awarded,CON-003,2330031.85,2026-08-18
+TND-00055,MPLADS-SYN-0055,Tender for Community Hall - MPLADS-SYN-0055,Education Department,"Coimbatore, Tamil Nadu",3590000.0,2025-12-16,2025-12-28,Completed,4,Awarded,CON-002,3348292.19,2026-01-14
+TND-00056,MPLADS-SYN-0056,Tender for Street Lighting - MPLADS-SYN-0056,District Health Office,"Belagavi, Karnataka",1210000.0,2026-05-27,2026-06-16,Published,2,Not Awarded,,,
+TND-00057,MPLADS-SYN-0057,Tender for Drainage - MPLADS-SYN-0057,District Health Office,"Agra, Uttar Pradesh",1380000.0,2026-02-25,2026-03-15,Completed,2,Awarded,CON-005,1337890.25,2026-03-31
+TND-00058,MPLADS-SYN-0058,Tender for Sports Facility - MPLADS-SYN-0058,Public Works Department,"Prayagraj, Uttar Pradesh",1720000.0,2025-12-28,2026-01-20,Published,6,Not Awarded,,,
+TND-00059,MPLADS-SYN-0059,Tender for Solar Lighting - MPLADS-SYN-0059,Education Department,"Varanasi, Uttar Pradesh",1220000.0,2026-05-07,2026-05-23,Awarded,2,Awarded,CON-006,1203307.71,2026-05-28
+TND-00060,MPLADS-SYN-0060,Tender for School Building - MPLADS-SYN-0060,Public Works Department,"Prayagraj, Uttar Pradesh",3290000.0,2026-07-01,2026-07-17,Under Evaluation,5,Not Awarded,,,
+TND-00061,MPLADS-SYN-0061,Tender for Drainage - MPLADS-SYN-0061,Rural Development Agency,"Madurai, Tamil Nadu",1560000.0,2026-06-16,2026-07-06,Awarded,4,Awarded,CON-001,1528032.67,2026-07-14
+TND-00062,MPLADS-SYN-0062,Tender for Street Lighting - MPLADS-SYN-0062,Rural Development Agency,"Patna, Bihar",1450000.0,2026-05-17,2026-06-05,Published,5,Not Awarded,,,
+TND-00063,MPLADS-SYN-0063,Tender for Library - MPLADS-SYN-0063,Public Works Department,"Bhagalpur, Bihar",1360000.0,2026-07-07,2026-07-26,Completed,3,Awarded,CON-001,1235935.38,2026-08-12
+TND-00064,MPLADS-SYN-0064,Tender for Health Facility - MPLADS-SYN-0064,Municipal Corporation,"Tiruchirappalli, Tamil Nadu",1640000.0,2026-03-12,2026-03-31,Published,6,Not Awarded,,,
+TND-00065,MPLADS-SYN-0065,Tender for Drainage - MPLADS-SYN-0065,Municipal Council,"Rajkot, Gujarat",560000.0,2026-06-03,2026-06-22,Awarded,5,Awarded,CON-002,558803.74,2026-07-07
+TND-00066,MPLADS-SYN-0066,Tender for School Building - MPLADS-SYN-0066,Zilla Parishad,"Jalgaon, Maharashtra",3160000.0,2026-06-21,2026-07-15,Bidding Closed,3,Not Awarded,,,
+TND-00067,MPLADS-SYN-0067,Tender for Sports Facility - MPLADS-SYN-0067,Education Department,"Surat, Gujarat",1830000.0,2026-04-10,2026-04-25,Under Evaluation,2,Not Awarded,,,
+TND-00068,MPLADS-SYN-0068,Tender for Solar Lighting - MPLADS-SYN-0068,Rural Development Agency,"Ahmedabad, Gujarat",420000.0,2026-02-14,2026-03-06,Completed,3,Awarded,CON-002,411986.13,2026-03-18
+TND-00069,MPLADS-SYN-0069,Tender for Drainage - MPLADS-SYN-0069,Zilla Parishad,"Mysuru, Karnataka",720000.0,2026-04-30,2026-05-10,Awarded,3,Awarded,CON-002,739865.09,2026-05-17
+TND-00070,MPLADS-SYN-0070,Tender for Drainage - MPLADS-SYN-0070,Municipal Corporation,"Kanpur Nagar, Uttar Pradesh",1030000.0,2026-04-29,2026-05-15,Bidding Closed,7,Not Awarded,,,
+TND-00071,MPLADS-SYN-0071,Tender for School Building - MPLADS-SYN-0071,Municipal Council,"Varanasi, Uttar Pradesh",2050000.0,2026-02-27,2026-03-21,Bidding Closed,3,Not Awarded,,,
+TND-00072,MPLADS-SYN-0072,Tender for Health Facility - MPLADS-SYN-0072,Municipal Corporation,"Muzaffarpur, Bihar",1410000.0,2026-02-15,2026-02-25,Published,2,Not Awarded,,,
+TND-00073,MPLADS-SYN-0073,Tender for School Building - MPLADS-SYN-0073,Rural Development Agency,"Gaya, Bihar",2690000.0,2026-07-04,2026-07-19,Bidding Closed,7,Not Awarded,,,
+TND-00074,MPLADS-SYN-0074,Tender for Drinking Water - MPLADS-SYN-0074,Municipal Corporation,"Tiruchirappalli, Tamil Nadu",370000.0,2026-03-19,2026-03-30,Under Evaluation,3,Not Awarded,,,
+TND-00075,MPLADS-SYN-0075,Tender for Drainage - MPLADS-SYN-0075,Public Works Department,"Jodhpur, Rajasthan",2230000.0,2026-04-19,2026-05-03,Awarded,5,Awarded,CON-007,2185704.75,2026-05-18
+TND-00076,MPLADS-SYN-0076,Tender for School Building - MPLADS-SYN-0076,Municipal Council,"Ajmer, Rajasthan",3540000.0,2025-12-16,2026-01-08,Bidding Closed,6,Not Awarded,,,
+TND-00077,MPLADS-SYN-0077,Tender for Road - MPLADS-SYN-0077,Rural Development Agency,"Dhule, Maharashtra",1310000.0,2026-01-09,2026-02-03,Bidding Closed,4,Not Awarded,,,
+TND-00078,MPLADS-SYN-0078,Tender for School Building - MPLADS-SYN-0078,District Health Office,"Jabalpur, Madhya Pradesh",3420000.0,2026-03-19,2026-04-06,Awarded,6,Awarded,CON-006,3258198.27,2026-04-18
+TND-00079,MPLADS-SYN-0079,Tender for Street Lighting - MPLADS-SYN-0079,Education Department,"Udaipur, Rajasthan",400000.0,2025-12-05,2025-12-17,Completed,4,Awarded,CON-005,366069.61,2026-01-01
+TND-00080,MPLADS-SYN-0080,Tender for Health Facility - MPLADS-SYN-0080,Zilla Parishad,"Lucknow, Uttar Pradesh",1560000.0,2025-12-17,2025-12-29,Completed,3,Awarded,CON-002,1426915.19,2026-01-07
+TND-00081,MPLADS-SYN-0081,Tender for Sports Facility - MPLADS-SYN-0081,Public Works Department,"Prayagraj, Uttar Pradesh",1250000.0,2026-02-03,2026-02-15,Published,5,Not Awarded,,,
+TND-00082,MPLADS-SYN-0082,Tender for Health Facility - MPLADS-SYN-0082,Municipal Council,"Kota, Rajasthan",3420000.0,2025-11-28,2025-12-22,Completed,2,Awarded,CON-004,3115706.04,2026-01-09
+TND-00083,MPLADS-SYN-0083,Tender for Community Hall - MPLADS-SYN-0083,Rural Development Agency,"Varanasi, Uttar Pradesh",930000.0,2026-03-18,2026-03-28,Bidding Closed,6,Not Awarded,,,
+TND-00084,MPLADS-SYN-0084,Tender for Drinking Water - MPLADS-SYN-0084,Zilla Parishad,"Rajkot, Gujarat",1580000.0,2026-06-02,2026-06-12,Bidding Closed,4,Not Awarded,,,
+TND-00085,MPLADS-SYN-0085,Tender for Road - MPLADS-SYN-0085,District Health Office,"Kota, Rajasthan",2780000.0,2026-02-19,2026-03-08,Bidding Closed,3,Not Awarded,,,
+TND-00086,MPLADS-SYN-0086,Tender for Road - MPLADS-SYN-0086,Rural Development Agency,"Solapur, Maharashtra",2190000.0,2025-11-21,2025-12-16,Completed,5,Awarded,CON-001,2037618.56,2026-01-02
+TND-00087,MPLADS-SYN-0087,Tender for Sports Facility - MPLADS-SYN-0087,Zilla Parishad,"Bhopal, Madhya Pradesh",1570000.0,2026-07-17,2026-08-10,Published,6,Not Awarded,,,
+TND-00088,MPLADS-SYN-0088,Tender for Community Hall - MPLADS-SYN-0088,Education Department,"Madurai, Tamil Nadu",1380000.0,2026-07-24,2026-08-15,Under Evaluation,6,Not Awarded,,,
+TND-00089,MPLADS-SYN-0089,Tender for Community Hall - MPLADS-SYN-0089,Rural Development Agency,"Nashik, Maharashtra",3380000.0,2026-07-21,2026-08-02,Published,5,Not Awarded,,,
+TND-00090,MPLADS-SYN-0090,Tender for Library - MPLADS-SYN-0090,Education Department,"Muzaffarpur, Bihar",590000.0,2026-02-16,2026-03-03,Awarded,4,Awarded,CON-003,552750.69,2026-03-14
+TND-00091,MPLADS-SYN-0091,Tender for Community Hall - MPLADS-SYN-0091,Public Works Department,"Sagar, Madhya Pradesh",1450000.0,2026-05-13,2026-06-02,Bidding Closed,5,Not Awarded,,,
+TND-00092,MPLADS-SYN-0092,Tender for Road - MPLADS-SYN-0092,Zilla Parishad,"Dharwad, Karnataka",1830000.0,2026-05-25,2026-06-12,Completed,2,Awarded,CON-004,1739499.23,2026-06-18
+TND-00093,MPLADS-SYN-0093,Tender for Community Hall - MPLADS-SYN-0093,Rural Development Agency,"Dharwad, Karnataka",1180000.0,2026-02-23,2026-03-07,Completed,7,Awarded,CON-001,1045525.69,2026-03-12
+TND-00094,MPLADS-SYN-0094,Tender for Solar Lighting - MPLADS-SYN-0094,Rural Development Agency,"Mysuru, Karnataka",1600000.0,2025-12-08,2025-12-18,Awarded,3,Awarded,CON-003,1465250.79,2026-01-07
+TND-00095,MPLADS-SYN-0095,Tender for Community Hall - MPLADS-SYN-0095,Zilla Parishad,"Lucknow, Uttar Pradesh",920000.0,2026-05-11,2026-05-27,Published,7,Not Awarded,,,
+TND-00096,MPLADS-SYN-0096,Tender for Road - MPLADS-SYN-0096,Education Department,"Prayagraj, Uttar Pradesh",1710000.0,2026-02-26,2026-03-13,Completed,6,Awarded,CON-002,1751997.96,2026-03-21
+TND-00097,MPLADS-SYN-0097,Tender for Library - MPLADS-SYN-0097,District Health Office,"Thane, Maharashtra",1700000.0,2026-01-06,2026-01-19,Awarded,2,Awarded,CON-007,1732866.23,2026-02-05
+TND-00098,MPLADS-SYN-0098,Tender for Solar Lighting - MPLADS-SYN-0098,District Health Office,"Surat, Gujarat",450000.0,2026-01-17,2026-02-02,Bidding Closed,6,Not Awarded,,,
+TND-00099,MPLADS-SYN-0099,Tender for Drinking Water - MPLADS-SYN-0099,District Health Office,"Chennai, Tamil Nadu",1540000.0,2026-03-18,2026-04-04,Published,7,Not Awarded,,,
+TND-00100,MPLADS-SYN-0100,Tender for Community Hall - MPLADS-SYN-0100,Municipal Council,"Thane, Maharashtra",3050000.0,2025-12-21,2026-01-03,Completed,6,Awarded,CON-003,3042055.67,2026-01-19
+TND-00101,MPLADS-SYN-0101,Tender for Community Hall - MPLADS-SYN-0101,District Health Office,"Bhagalpur, Bihar",1920000.0,2026-02-05,2026-02-26,Under Evaluation,6,Not Awarded,,,
+TND-00102,MPLADS-SYN-0102,Tender for Library - MPLADS-SYN-0102,Rural Development Agency,"Kanpur Nagar, Uttar Pradesh",1270000.0,2026-01-09,2026-01-19,Published,5,Not Awarded,,,
+TND-00103,MPLADS-SYN-0103,Tender for Sports Facility - MPLADS-SYN-0103,Rural Development Agency,"Udaipur, Rajasthan",2300000.0,2026-02-19,2026-03-14,Bidding Closed,7,Not Awarded,,,
+TND-00104,MPLADS-SYN-0104,Tender for Solar Lighting - MPLADS-SYN-0104,Rural Development Agency,"Prayagraj, Uttar Pradesh",1580000.0,2025-11-26,2025-12-10,Bidding Closed,3,Not Awarded,,,
+TND-00105,MPLADS-SYN-0105,Tender for Solar Lighting - MPLADS-SYN-0105,Rural Development Agency,"Hubballi, Karnataka",1140000.0,2026-03-21,2026-04-08,Published,6,Not Awarded,,,
+TND-00106,MPLADS-SYN-0106,Tender for Sports Facility - MPLADS-SYN-0106,Municipal Council,"Chennai, Tamil Nadu",750000.0,2026-04-24,2026-05-17,Bidding Closed,7,Not Awarded,,,
+TND-00107,MPLADS-SYN-0107,Tender for Sports Facility - MPLADS-SYN-0107,Education Department,"Bhopal, Madhya Pradesh",2340000.0,2025-12-16,2026-01-05,Under Evaluation,3,Not Awarded,,,
+TND-00108,MPLADS-SYN-0108,Tender for Community Hall - MPLADS-SYN-0108,Education Department,"Jodhpur, Rajasthan",3220000.0,2026-02-10,2026-03-06,Awarded,5,Awarded,CON-007,3108837.38,2026-03-23
+TND-00109,MPLADS-SYN-0109,Tender for Solar Lighting - MPLADS-SYN-0109,Public Works Department,"Ajmer, Rajasthan",1620000.0,2026-04-26,2026-05-21,Completed,4,Awarded,CON-004,1469787.09,2026-06-01
+TND-00110,MPLADS-SYN-0110,Tender for Library - MPLADS-SYN-0110,Municipal Corporation,"Ahmedabad, Gujarat",1700000.0,2026-06-16,2026-07-06,Completed,6,Awarded,CON-001,1674801.86,2026-07-19
+TND-00111,MPLADS-SYN-0111,Tender for Street Lighting - MPLADS-SYN-0111,Zilla Parishad,"Jabalpur, Madhya Pradesh",1400000.0,2026-08-10,2026-08-26,Under Evaluation,3,Not Awarded,,,
+TND-00112,MPLADS-SYN-0112,Tender for Drainage - MPLADS-SYN-0112,Municipal Corporation,"Gaya, Bihar",440000.0,2025-11-26,2025-12-21,Published,3,Not Awarded,,,
+TND-00113,MPLADS-SYN-0113,Tender for Library - MPLADS-SYN-0113,Municipal Corporation,"Aurangabad, Maharashtra",540000.0,2026-03-02,2026-03-27,Published,2,Not Awarded,,,
+TND-00114,MPLADS-SYN-0114,Tender for Drainage - MPLADS-SYN-0114,Municipal Corporation,"Nashik, Maharashtra",2050000.0,2026-01-03,2026-01-20,Awarded,7,Awarded,CON-007,1878816.34,2026-02-05
+TND-00115,MPLADS-SYN-0115,Tender for Drainage - MPLADS-SYN-0115,Public Works Department,"Solapur, Maharashtra",2380000.0,2026-05-05,2026-05-26,Bidding Closed,7,Not Awarded,,,
+TND-00116,MPLADS-SYN-0116,Tender for Drinking Water - MPLADS-SYN-0116,Municipal Corporation,"Ahmedabad, Gujarat",1970000.0,2026-01-10,2026-01-31,Under Evaluation,5,Not Awarded,,,
+TND-00117,MPLADS-SYN-0117,Tender for Drainage - MPLADS-SYN-0117,Municipal Council,"Kutch, Gujarat",2120000.0,2026-05-31,2026-06-18,Completed,2,Awarded,CON-002,2094968.42,2026-07-03
+TND-00118,MPLADS-SYN-0118,Tender for Street Lighting - MPLADS-SYN-0118,Municipal Corporation,"Bengaluru Urban, Karnataka",760000.0,2026-04-13,2026-04-28,Awarded,3,Awarded,CON-002,753000.93,2026-05-11
+TND-00119,MPLADS-SYN-0119,Tender for Health Facility - MPLADS-SYN-0119,District Health Office,"Madurai, Tamil Nadu",2930000.0,2026-01-04,2026-01-23,Published,3,Not Awarded,,,
+TND-00120,MPLADS-SYN-0120,Tender for Health Facility - MPLADS-SYN-0120,Education Department,"Udaipur, Rajasthan",4130000.0,2026-03-10,2026-03-31,Completed,4,Awarded,CON-003,3643164.91,2026-04-09
+TND-00121,MPLADS-SYN-0121,Tender for Health Facility - MPLADS-SYN-0121,Municipal Corporation,"Bhopal, Madhya Pradesh",3780000.0,2025-12-23,2026-01-03,Completed,4,Awarded,CON-001,3721835.66,2026-01-12
+TND-00122,MPLADS-SYN-0122,Tender for Drinking Water - MPLADS-SYN-0122,Education Department,"Madurai, Tamil Nadu",1580000.0,2025-12-06,2025-12-19,Published,2,Not Awarded,,,
+TND-00123,MPLADS-SYN-0123,Tender for School Building - MPLADS-SYN-0123,Municipal Council,"Jabalpur, Madhya Pradesh",3850000.0,2026-01-04,2026-01-29,Under Evaluation,5,Not Awarded,,,
+TND-00124,MPLADS-SYN-0124,Tender for Drinking Water - MPLADS-SYN-0124,Municipal Corporation,"Jodhpur, Rajasthan",460000.0,2026-07-25,2026-08-05,Completed,5,Awarded,CON-004,412672.01,2026-08-12
+TND-00125,MPLADS-SYN-0125,Tender for Sports Facility - MPLADS-SYN-0125,Rural Development Agency,"Patna, Bihar",580000.0,2026-01-26,2026-02-07,Bidding Closed,7,Not Awarded,,,
+TND-00126,MPLADS-SYN-0126,Tender for Library - MPLADS-SYN-0126,Municipal Council,"Bengaluru Urban, Karnataka",1570000.0,2026-01-02,2026-01-16,Published,6,Not Awarded,,,
+TND-00127,MPLADS-SYN-0127,Tender for School Building - MPLADS-SYN-0127,Rural Development Agency,"Chennai, Tamil Nadu",4930000.0,2026-05-24,2026-06-10,Completed,6,Awarded,CON-002,4903705.93,2026-06-22
+TND-00128,MPLADS-SYN-0128,Tender for Solar Lighting - MPLADS-SYN-0128,Rural Development Agency,"Gaya, Bihar",840000.0,2026-02-21,2026-03-17,Under Evaluation,4,Not Awarded,,,
+TND-00129,MPLADS-SYN-0129,Tender for Community Hall - MPLADS-SYN-0129,Zilla Parishad,"Ujjain, Madhya Pradesh",3150000.0,2026-05-04,2026-05-23,Under Evaluation,6,Not Awarded,,,
+TND-00130,MPLADS-SYN-0130,Tender for Sports Facility - MPLADS-SYN-0130,District Health Office,"Rajkot, Gujarat",360000.0,2026-01-12,2026-01-25,Awarded,3,Awarded,CON-006,350577.81,2026-02-07
+TND-00131,MPLADS-SYN-0131,Tender for Sports Facility - MPLADS-SYN-0131,Municipal Council,"Solapur, Maharashtra",1610000.0,2026-05-29,2026-06-13,Published,3,Not Awarded,,,
+TND-00132,MPLADS-SYN-0132,Tender for Community Hall - MPLADS-SYN-0132,District Health Office,"Darbhanga, Bihar",1270000.0,2026-07-16,2026-07-31,Under Evaluation,5,Not Awarded,,,
+TND-00133,MPLADS-SYN-0133,Tender for School Building - MPLADS-SYN-0133,Municipal Corporation,"Bhagalpur, Bihar",2740000.0,2026-05-16,2026-06-10,Bidding Closed,2,Not Awarded,,,
+TND-00134,MPLADS-SYN-0134,Tender for Community Hall - MPLADS-SYN-0134,Municipal Council,"Ahmednagar, Maharashtra",3110000.0,2026-06-17,2026-07-06,Awarded,5,Awarded,CON-006,2770005.36,2026-07-18
+TND-00135,MPLADS-SYN-0135,Tender for Sports Facility - MPLADS-SYN-0135,Education Department,"Indore, Madhya Pradesh",1280000.0,2026-04-20,2026-05-06,Completed,2,Awarded,CON-003,1230955.98,2026-05-15
+TND-00136,MPLADS-SYN-0136,Tender for Sports Facility - MPLADS-SYN-0136,District Health Office,"Dharwad, Karnataka",500000.0,2026-01-15,2026-01-27,Completed,3,Awarded,CON-004,499447.14,2026-02-10
+TND-00137,MPLADS-SYN-0137,Tender for School Building - MPLADS-SYN-0137,District Health Office,"Sagar, Madhya Pradesh",2420000.0,2026-04-17,2026-05-11,Bidding Closed,4,Not Awarded,,,
+TND-00138,MPLADS-SYN-0138,Tender for Health Facility - MPLADS-SYN-0138,Rural Development Agency,"Ujjain, Madhya Pradesh",3230000.0,2026-03-04,2026-03-22,Published,6,Not Awarded,,,
+TND-00139,MPLADS-SYN-0139,Tender for Street Lighting - MPLADS-SYN-0139,Education Department,"Kota, Rajasthan",690000.0,2025-12-21,2026-01-02,Bidding Closed,2,Not Awarded,,,
+TND-00140,MPLADS-SYN-0140,Tender for Health Facility - MPLADS-SYN-0140,Rural Development Agency,"Ajmer, Rajasthan",1710000.0,2026-01-01,2026-01-19,Bidding Closed,2,Not Awarded,,,
+TND-00141,MPLADS-SYN-0141,Tender for Solar Lighting - MPLADS-SYN-0141,Rural Development Agency,"Patna, Bihar",1620000.0,2026-04-14,2026-04-24,Awarded,7,Awarded,CON-003,1625205.36,2026-04-30
+TND-00142,MPLADS-SYN-0142,Tender for Sports Facility - MPLADS-SYN-0142,Municipal Corporation,"Dharwad, Karnataka",2430000.0,2025-11-18,2025-12-12,Awarded,3,Awarded,CON-001,2501786.63,2025-12-30
+TND-00143,MPLADS-SYN-0143,Tender for School Building - MPLADS-SYN-0143,Municipal Corporation,"Ahmedabad, Gujarat",3540000.0,2026-02-16,2026-02-28,Published,4,Not Awarded,,,
+TND-00144,MPLADS-SYN-0144,Tender for Road - MPLADS-SYN-0144,Education Department,"Sagar, Madhya Pradesh",2020000.0,2026-07-15,2026-08-04,Bidding Closed,2,Not Awarded,,,
+TND-00145,MPLADS-SYN-0145,Tender for Road - MPLADS-SYN-0145,Public Works Department,"Indore, Madhya Pradesh",1740000.0,2026-01-03,2026-01-26,Awarded,5,Awarded,CON-005,1606424.84,2026-02-12
+TND-00146,MPLADS-SYN-0146,Tender for Drainage - MPLADS-SYN-0146,Public Works Department,"Kanpur Nagar, Uttar Pradesh",960000.0,2026-03-04,2026-03-28,Under Evaluation,4,Not Awarded,,,
+TND-00147,MPLADS-SYN-0147,Tender for Drinking Water - MPLADS-SYN-0147,Rural Development Agency,"Nandurbar, Maharashtra",630000.0,2026-03-17,2026-03-30,Completed,5,Awarded,CON-001,636134.05,2026-04-04
+TND-00148,MPLADS-SYN-0148,Tender for Drainage - MPLADS-SYN-0148,Municipal Corporation,"Thane, Maharashtra",530000.0,2026-04-27,2026-05-21,Published,2,Not Awarded,,,
+TND-00149,MPLADS-SYN-0149,Tender for School Building - MPLADS-SYN-0149,Municipal Council,"Udaipur, Rajasthan",1410000.0,2026-01-21,2026-02-11,Awarded,5,Awarded,CON-001,1373073.95,2026-02-17
+TND-00150,MPLADS-SYN-0150,Tender for Street Lighting - MPLADS-SYN-0150,Rural Development Agency,"Bhagalpur, Bihar",530000.0,2026-04-04,2026-04-18,Awarded,5,Awarded,CON-007,536427.31,2026-05-08
+TND-00151,MPLADS-SYN-0151,Tender for Library - MPLADS-SYN-0151,Public Works Department,"Nandurbar, Maharashtra",670000.0,2026-05-20,2026-06-06,Awarded,3,Awarded,CON-004,620830.39,2026-06-11
+TND-00152,MPLADS-SYN-0152,Tender for Health Facility - MPLADS-SYN-0152,Municipal Council,"Kutch, Gujarat",1790000.0,2025-12-12,2025-12-24,Under Evaluation,2,Not Awarded,,,
+TND-00153,MPLADS-SYN-0153,Tender for Community Hall - MPLADS-SYN-0153,Rural Development Agency,"Dharwad, Karnataka",3640000.0,2026-02-13,2026-02-27,Bidding Closed,7,Not Awarded,,,
+TND-00154,MPLADS-SYN-0154,Tender for Sports Facility - MPLADS-SYN-0154,Municipal Council,"Vadodara, Gujarat",2170000.0,2026-03-20,2026-04-07,Completed,5,Awarded,CON-001,2228669.63,2026-04-19
+TND-00155,MPLADS-SYN-0155,Tender for Drainage - MPLADS-SYN-0155,Municipal Council,"Bhagalpur, Bihar",810000.0,2026-01-26,2026-02-09,Bidding Closed,3,Not Awarded,,,
+TND-00156,MPLADS-SYN-0156,Tender for Road - MPLADS-SYN-0156,Zilla Parishad,"Ahmedabad, Gujarat",2480000.0,2026-05-16,2026-05-30,Under Evaluation,2,Not Awarded,,,
+TND-00157,MPLADS-SYN-0157,Tender for Drinking Water - MPLADS-SYN-0157,Municipal Council,"Pune, Maharashtra",1590000.0,2026-07-02,2026-07-22,Completed,6,Awarded,CON-005,1462920.68,2026-07-27
+TND-00158,MPLADS-SYN-0158,Tender for Community Hall - MPLADS-SYN-0158,Rural Development Agency,"Muzaffarpur, Bihar",860000.0,2026-07-19,2026-08-13,Completed,3,Awarded,CON-006,814404.61,2026-09-02
+TND-00159,MPLADS-SYN-0159,Tender for Road - MPLADS-SYN-0159,Public Works Department,"Rajkot, Gujarat",2980000.0,2026-04-30,2026-05-22,Completed,4,Awarded,CON-005,3011111.95,2026-06-03
+TND-00160,MPLADS-SYN-0160,Tender for Solar Lighting - MPLADS-SYN-0160,Municipal Council,"Patna, Bihar",1500000.0,2026-07-08,2026-07-25,Under Evaluation,5,Not Awarded,,,
+TND-00161,MPLADS-SYN-0161,Tender for Health Facility - MPLADS-SYN-0161,Rural Development Agency,"Palghar, Maharashtra",3700000.0,2026-06-04,2026-06-29,Awarded,5,Awarded,CON-004,3470273.71,2026-07-08
+TND-00162,MPLADS-SYN-0162,Tender for Drinking Water - MPLADS-SYN-0162,District Health Office,"Bhagalpur, Bihar",1180000.0,2026-04-30,2026-05-14,Bidding Closed,6,Not Awarded,,,
+TND-00163,MPLADS-SYN-0163,Tender for School Building - MPLADS-SYN-0163,Public Works Department,"Kanpur Nagar, Uttar Pradesh",1760000.0,2026-03-20,2026-04-13,Completed,6,Awarded,CON-006,1789156.6,2026-04-18
+TND-00164,MPLADS-SYN-0164,Tender for School Building - MPLADS-SYN-0164,Rural Development Agency,"Dharwad, Karnataka",2210000.0,2026-05-18,2026-06-10,Published,7,Not Awarded,,,
+TND-00165,MPLADS-SYN-0165,Tender for Sports Facility - MPLADS-SYN-0165,Municipal Corporation,"Chennai, Tamil Nadu",900000.0,2026-06-12,2026-07-07,Awarded,4,Awarded,CON-003,837705.77,2026-07-24
+TND-00166,MPLADS-SYN-0166,Tender for Sports Facility - MPLADS-SYN-0166,Education Department,"Indore, Madhya Pradesh",2120000.0,2026-02-28,2026-03-20,Published,7,Not Awarded,,,
+TND-00167,MPLADS-SYN-0167,Tender for School Building - MPLADS-SYN-0167,Rural Development Agency,"Bhagalpur, Bihar",2140000.0,2026-03-01,2026-03-21,Under Evaluation,7,Not Awarded,,,
+TND-00168,MPLADS-SYN-0168,Tender for Solar Lighting - MPLADS-SYN-0168,Municipal Corporation,"Tiruchirappalli, Tamil Nadu",360000.0,2026-05-22,2026-06-02,Bidding Closed,2,Not Awarded,,,
+TND-00169,MPLADS-SYN-0169,Tender for Drinking Water - MPLADS-SYN-0169,Municipal Council,"Patna, Bihar",680000.0,2026-01-06,2026-01-25,Awarded,7,Awarded,CON-003,607618.69,2026-02-02
+TND-00170,MPLADS-SYN-0170,Tender for Street Lighting - MPLADS-SYN-0170,Zilla Parishad,"Chennai, Tamil Nadu",510000.0,2025-12-13,2025-12-26,Published,3,Not Awarded,,,
+TND-00171,MPLADS-SYN-0171,Tender for Street Lighting - MPLADS-SYN-0171,Municipal Corporation,"Bhopal, Madhya Pradesh",1450000.0,2026-04-18,2026-04-28,Published,4,Not Awarded,,,
+TND-00172,MPLADS-SYN-0172,Tender for Health Facility - MPLADS-SYN-0172,Public Works Department,"Ajmer, Rajasthan",2310000.0,2025-12-31,2026-01-21,Awarded,5,Awarded,CON-001,2083239.93,2026-02-08
+TND-00173,MPLADS-SYN-0173,Tender for Community Hall - MPLADS-SYN-0173,Rural Development Agency,"Ahmedabad, Gujarat",3240000.0,2026-05-25,2026-06-09,Under Evaluation,3,Not Awarded,,,
+TND-00174,MPLADS-SYN-0174,Tender for Library - MPLADS-SYN-0174,Education Department,"Bhagalpur, Bihar",350000.0,2026-02-12,2026-03-06,Awarded,7,Awarded,CON-005,320643.56,2026-03-15
+TND-00175,MPLADS-SYN-0175,Tender for Drainage - MPLADS-SYN-0175,District Health Office,"Ajmer, Rajasthan",1940000.0,2026-06-22,2026-07-10,Awarded,4,Awarded,CON-004,1901250.65,2026-07-29
+TND-00176,MPLADS-SYN-0176,Tender for Sports Facility - MPLADS-SYN-0176,Education Department,"Mysuru, Karnataka",1840000.0,2025-11-18,2025-12-03,Completed,5,Awarded,CON-002,1880085.04,2025-12-17
+TND-00177,MPLADS-SYN-0177,Tender for Health Facility - MPLADS-SYN-0177,Education Department,"Sagar, Madhya Pradesh",1960000.0,2026-06-02,2026-06-20,Published,4,Not Awarded,,,
+TND-00178,MPLADS-SYN-0178,Tender for Street Lighting - MPLADS-SYN-0178,Public Works Department,"Kanpur Nagar, Uttar Pradesh",410000.0,2026-05-05,2026-05-30,Awarded,3,Awarded,CON-005,384253.9,2026-06-15
+TND-00179,MPLADS-SYN-0179,Tender for Street Lighting - MPLADS-SYN-0179,District Health Office,"Kota, Rajasthan",920000.0,2026-02-18,2026-03-09,Under Evaluation,7,Not Awarded,,,
+TND-00180,MPLADS-SYN-0180,Tender for Library - MPLADS-SYN-0180,Rural Development Agency,"Udaipur, Rajasthan",380000.0,2026-05-03,2026-05-13,Bidding Closed,7,Not Awarded,,,
+TND-00181,MPLADS-SYN-0181,Tender for Sports Facility - MPLADS-SYN-0181,Education Department,"Indore, Madhya Pradesh",1920000.0,2026-08-04,2026-08-29,Published,4,Not Awarded,,,
+TND-00182,MPLADS-SYN-0182,Tender for Sports Facility - MPLADS-SYN-0182,District Health Office,"Pune, Maharashtra",760000.0,2026-03-15,2026-04-05,Awarded,7,Awarded,CON-002,690475.05,2026-04-18
+TND-00183,MPLADS-SYN-0183,Tender for School Building - MPLADS-SYN-0183,Public Works Department,"Dharwad, Karnataka",1260000.0,2026-02-18,2026-03-04,Published,2,Not Awarded,,,
+TND-00184,MPLADS-SYN-0184,Tender for Library - MPLADS-SYN-0184,Municipal Corporation,"Nashik, Maharashtra",1040000.0,2026-01-04,2026-01-15,Published,5,Not Awarded,,,
+TND-00185,MPLADS-SYN-0185,Tender for Drinking Water - MPLADS-SYN-0185,District Health Office,"Madurai, Tamil Nadu",1470000.0,2026-04-10,2026-05-01,Awarded,3,Awarded,CON-007,1313474.41,2026-05-15
+TND-00186,MPLADS-SYN-0186,Tender for Library - MPLADS-SYN-0186,Municipal Council,"Jodhpur, Rajasthan",1220000.0,2026-07-13,2026-07-28,Completed,3,Awarded,CON-005,1217531.84,2026-08-13
+TND-00187,MPLADS-SYN-0187,Tender for Health Facility - MPLADS-SYN-0187,Education Department,"Salem, Tamil Nadu",2200000.0,2026-06-30,2026-07-18,Under Evaluation,3,Not Awarded,,,
+TND-00188,MPLADS-SYN-0188,Tender for Solar Lighting - MPLADS-SYN-0188,Zilla Parishad,"Kutch, Gujarat",1370000.0,2026-07-05,2026-07-24,Completed,4,Awarded,CON-001,1370869.79,2026-08-12
+TND-00189,MPLADS-SYN-0189,Tender for School Building - MPLADS-SYN-0189,Municipal Council,"Jaipur, Rajasthan",1060000.0,2026-01-26,2026-02-12,Awarded,7,Awarded,CON-005,1047950.46,2026-03-01
+TND-00190,MPLADS-SYN-0190,Tender for Drainage - MPLADS-SYN-0190,Education Department,"Jaipur, Rajasthan",880000.0,2026-07-13,2026-07-25,Under Evaluation,5,Not Awarded,,,
+TND-00191,MPLADS-SYN-0191,Tender for Solar Lighting - MPLADS-SYN-0191,Municipal Council,"Gaya, Bihar",1170000.0,2025-12-07,2025-12-20,Awarded,4,Awarded,CON-003,1147681.38,2026-01-02
+TND-00192,MPLADS-SYN-0192,Tender for Community Hall - MPLADS-SYN-0192,Municipal Corporation,"Ahmedabad, Gujarat",1460000.0,2026-03-10,2026-03-31,Under Evaluation,7,Not Awarded,,,
+TND-00193,MPLADS-SYN-0193,Tender for Drinking Water - MPLADS-SYN-0193,Rural Development Agency,"Aurangabad, Maharashtra",810000.0,2026-02-27,2026-03-09,Awarded,6,Awarded,CON-003,752652.76,2026-03-21
+TND-00194,MPLADS-SYN-0194,Tender for Road - MPLADS-SYN-0194,Municipal Corporation,"Vadodara, Gujarat",1890000.0,2026-04-03,2026-04-27,Published,4,Not Awarded,,,
+TND-00195,MPLADS-SYN-0195,Tender for Library - MPLADS-SYN-0195,Education Department,"Kanpur Nagar, Uttar Pradesh",1450000.0,2025-12-02,2025-12-15,Published,2,Not Awarded,,,
+TND-00196,MPLADS-SYN-0196,Tender for School Building - MPLADS-SYN-0196,Rural Development Agency,"Muzaffarpur, Bihar",1870000.0,2026-01-27,2026-02-21,Awarded,2,Awarded,CON-005,1711461.41,2026-03-02
+TND-00197,MPLADS-SYN-0197,Tender for Drinking Water - MPLADS-SYN-0197,Municipal Council,"Hubballi, Karnataka",1580000.0,2026-06-26,2026-07-17,Bidding Closed,7,Not Awarded,,,
+TND-00198,MPLADS-SYN-0198,Tender for Library - MPLADS-SYN-0198,Zilla Parishad,"Surat, Gujarat",1350000.0,2025-12-25,2026-01-17,Published,7,Not Awarded,,,
+TND-00199,MPLADS-SYN-0199,Tender for Road - MPLADS-SYN-0199,Rural Development Agency,"Indore, Madhya Pradesh",2050000.0,2026-04-10,2026-05-03,Published,2,Not Awarded,,,
+TND-00200,MPLADS-SYN-0200,Tender for School Building - MPLADS-SYN-0200,Zilla Parishad,"Surat, Gujarat",4400000.0,2026-01-07,2026-01-30,Bidding Closed,2,Not Awarded,,,
+TND-00201,MPLADS-SYN-0201,Tender for Community Hall - MPLADS-SYN-0201,Municipal Corporation,"Salem, Tamil Nadu",2500000.0,2026-05-15,2026-05-31,Published,5,Not Awarded,,,
+TND-00202,MPLADS-SYN-0202,Tender for Street Lighting - MPLADS-SYN-0202,Education Department,"Coimbatore, Tamil Nadu",1010000.0,2025-12-10,2025-12-23,Awarded,4,Awarded,CON-004,971286.58,2026-01-08
+TND-00203,MPLADS-SYN-0203,Tender for Community Hall - MPLADS-SYN-0203,Municipal Council,"Udaipur, Rajasthan",3900000.0,2026-04-09,2026-04-27,Awarded,2,Awarded,CON-004,3987171.31,2026-05-16
+TND-00204,MPLADS-SYN-0204,Tender for Drinking Water - MPLADS-SYN-0204,District Health Office,"Ujjain, Madhya Pradesh",690000.0,2025-11-05,2025-11-21,Awarded,7,Awarded,CON-004,669004.61,2025-11-26
+TND-00205,MPLADS-SYN-0205,Tender for Health Facility - MPLADS-SYN-0205,Municipal Council,"Rajkot, Gujarat",4410000.0,2026-01-12,2026-01-29,Awarded,6,Awarded,CON-006,4016543.49,2026-02-09
+TND-00206,MPLADS-SYN-0206,Tender for Drinking Water - MPLADS-SYN-0206,Education Department,"Darbhanga, Bihar",770000.0,2026-02-25,2026-03-14,Under Evaluation,3,Not Awarded,,,
+TND-00207,MPLADS-SYN-0207,Tender for Drainage - MPLADS-SYN-0207,Zilla Parishad,"Coimbatore, Tamil Nadu",2100000.0,2025-12-28,2026-01-15,Under Evaluation,3,Not Awarded,,,
+TND-00208,MPLADS-SYN-0208,Tender for Health Facility - MPLADS-SYN-0208,Education Department,"Patna, Bihar",2300000.0,2026-01-27,2026-02-14,Awarded,3,Awarded,CON-002,2061924.59,2026-02-19
+TND-00209,MPLADS-SYN-0209,Tender for Sports Facility - MPLADS-SYN-0209,Municipal Council,"Surat, Gujarat",1920000.0,2026-02-08,2026-03-01,Awarded,3,Awarded,CON-002,1859189.64,2026-03-06
+TND-00210,MPLADS-SYN-0210,Tender for Drainage - MPLADS-SYN-0210,Public Works Department,"Prayagraj, Uttar Pradesh",2370000.0,2026-02-14,2026-02-25,Awarded,7,Awarded,CON-005,2235251.48,2026-03-05
+TND-00211,MPLADS-SYN-0211,Tender for Drinking Water - MPLADS-SYN-0211,Education Department,"Indore, Madhya Pradesh",430000.0,2026-02-25,2026-03-22,Published,4,Not Awarded,,,
+TND-00212,MPLADS-SYN-0212,Tender for Health Facility - MPLADS-SYN-0212,Rural Development Agency,"Surat, Gujarat",2980000.0,2026-01-09,2026-01-22,Under Evaluation,6,Not Awarded,,,
+TND-00213,MPLADS-SYN-0213,Tender for Community Hall - MPLADS-SYN-0213,Zilla Parishad,"Kutch, Gujarat",2760000.0,2026-05-17,2026-05-28,Awarded,7,Awarded,CON-007,2644680.8,2026-06-16
+TND-00214,MPLADS-SYN-0214,Tender for Sports Facility - MPLADS-SYN-0214,Municipal Council,"Ahmedabad, Gujarat",1060000.0,2026-02-26,2026-03-09,Published,5,Not Awarded,,,
+TND-00215,MPLADS-SYN-0215,Tender for Solar Lighting - MPLADS-SYN-0215,Municipal Council,"Mysuru, Karnataka",1330000.0,2026-03-12,2026-03-25,Bidding Closed,7,Not Awarded,,,
+TND-00216,MPLADS-SYN-0216,Tender for Drinking Water - MPLADS-SYN-0216,Education Department,"Mysuru, Karnataka",1000000.0,2026-06-19,2026-07-01,Bidding Closed,6,Not Awarded,,,
+TND-00217,MPLADS-SYN-0217,Tender for Sports Facility - MPLADS-SYN-0217,District Health Office,"Salem, Tamil Nadu",1030000.0,2026-06-28,2026-07-12,Awarded,6,Awarded,CON-003,1004210.35,2026-07-27
+TND-00218,MPLADS-SYN-0218,Tender for Sports Facility - MPLADS-SYN-0218,District Health Office,"Nandurbar, Maharashtra",2210000.0,2025-11-28,2025-12-17,Bidding Closed,6,Not Awarded,,,
+TND-00219,MPLADS-SYN-0219,Tender for Library - MPLADS-SYN-0219,Zilla Parishad,"Darbhanga, Bihar",440000.0,2026-06-30,2026-07-13,Under Evaluation,7,Not Awarded,,,
+TND-00220,MPLADS-SYN-0220,Tender for Drainage - MPLADS-SYN-0220,Rural Development Agency,"Lucknow, Uttar Pradesh",2210000.0,2026-02-13,2026-03-01,Awarded,5,Awarded,CON-007,2239202.17,2026-03-19
+TND-00221,MPLADS-SYN-0221,Tender for Street Lighting - MPLADS-SYN-0221,Rural Development Agency,"Indore, Madhya Pradesh",490000.0,2026-03-09,2026-03-31,Completed,7,Awarded,CON-007,438188.81,2026-04-18
+TND-00222,MPLADS-SYN-0222,Tender for School Building - MPLADS-SYN-0222,Municipal Corporation,"Dhule, Maharashtra",2370000.0,2026-04-27,2026-05-15,Completed,3,Awarded,CON-007,2329764.88,2026-06-04
+TND-00223,MPLADS-SYN-0223,Tender for Health Facility - MPLADS-SYN-0223,Zilla Parishad,"Ajmer, Rajasthan",1240000.0,2026-03-01,2026-03-13,Awarded,5,Awarded,CON-001,1109160.98,2026-03-29
+TND-00224,MPLADS-SYN-0224,Tender for Solar Lighting - MPLADS-SYN-0224,Zilla Parishad,"Ahmednagar, Maharashtra",950000.0,2026-01-19,2026-01-30,Awarded,6,Awarded,CON-005,916039.88,2026-02-07
+TND-00225,MPLADS-SYN-0225,Tender for Street Lighting - MPLADS-SYN-0225,Zilla Parishad,"Mysuru, Karnataka",330000.0,2026-03-01,2026-03-24,Bidding Closed,7,Not Awarded,,,
+TND-00226,MPLADS-SYN-0226,Tender for Community Hall - MPLADS-SYN-0226,District Health Office,"Rajkot, Gujarat",3150000.0,2026-02-02,2026-02-21,Awarded,2,Awarded,CON-006,3045066.5,2026-03-04
+TND-00227,MPLADS-SYN-0227,Tender for Sports Facility - MPLADS-SYN-0227,Education Department,"Pune, Maharashtra",2180000.0,2025-12-12,2026-01-06,Awarded,2,Awarded,CON-006,2032887.28,2026-01-22
+TND-00228,MPLADS-SYN-0228,Tender for Street Lighting - MPLADS-SYN-0228,Zilla Parishad,"Jaipur, Rajasthan",1110000.0,2026-05-03,2026-05-20,Awarded,5,Awarded,CON-001,1117518.33,2026-05-25
+TND-00229,MPLADS-SYN-0229,Tender for Community Hall - MPLADS-SYN-0229,Rural Development Agency,"Vadodara, Gujarat",1730000.0,2026-04-15,2026-05-03,Under Evaluation,3,Not Awarded,,,
+TND-00230,MPLADS-SYN-0230,Tender for Drinking Water - MPLADS-SYN-0230,Municipal Council,"Kanpur Nagar, Uttar Pradesh",870000.0,2026-01-04,2026-01-23,Completed,4,Awarded,CON-004,766396.81,2026-02-01
+TND-00231,MPLADS-SYN-0231,Tender for Community Hall - MPLADS-SYN-0231,Public Works Department,"Solapur, Maharashtra",3370000.0,2026-05-18,2026-06-09,Under Evaluation,3,Not Awarded,,,
+TND-00232,MPLADS-SYN-0232,Tender for Street Lighting - MPLADS-SYN-0232,Municipal Council,"Kanpur Nagar, Uttar Pradesh",470000.0,2026-04-26,2026-05-06,Published,7,Not Awarded,,,
+TND-00233,MPLADS-SYN-0233,Tender for Road - MPLADS-SYN-0233,District Health Office,"Darbhanga, Bihar",1240000.0,2026-07-06,2026-07-28,Under Evaluation,5,Not Awarded,,,
+TND-00234,MPLADS-SYN-0234,Tender for Library - MPLADS-SYN-0234,Municipal Council,"Surat, Gujarat",960000.0,2026-04-30,2026-05-21,Completed,7,Awarded,CON-004,891511.14,2026-05-28
+TND-00235,MPLADS-SYN-0235,Tender for School Building - MPLADS-SYN-0235,Rural Development Agency,"Patna, Bihar",1920000.0,2026-07-01,2026-07-16,Awarded,6,Awarded,CON-007,1703931.6,2026-07-23
+TND-00236,MPLADS-SYN-0236,Tender for Sports Facility - MPLADS-SYN-0236,Rural Development Agency,"Bhagalpur, Bihar",840000.0,2026-03-24,2026-04-16,Completed,6,Awarded,CON-001,794897.57,2026-04-29
+TND-00237,MPLADS-SYN-0237,Tender for School Building - MPLADS-SYN-0237,Education Department,"Darbhanga, Bihar",1180000.0,2026-02-26,2026-03-11,Awarded,5,Awarded,CON-005,1058027.49,2026-03-31
+TND-00238,MPLADS-SYN-0238,Tender for School Building - MPLADS-SYN-0238,Education Department,"Ahmedabad, Gujarat",1450000.0,2026-05-08,2026-05-27,Under Evaluation,3,Not Awarded,,,
+TND-00239,MPLADS-SYN-0239,Tender for Solar Lighting - MPLADS-SYN-0239,Municipal Council,"Tiruchirappalli, Tamil Nadu",1060000.0,2026-05-16,2026-05-27,Bidding Closed,3,Not Awarded,,,
+TND-00240,MPLADS-SYN-0240,Tender for Sports Facility - MPLADS-SYN-0240,District Health Office,"Solapur, Maharashtra",500000.0,2025-12-27,2026-01-10,Completed,4,Awarded,CON-006,461708.53,2026-01-18
+TND-00241,MPLADS-SYN-0241,Tender for Road - MPLADS-SYN-0241,Rural Development Agency,"Rajkot, Gujarat",1550000.0,2025-12-23,2026-01-15,Awarded,3,Awarded,CON-006,1452398.23,2026-01-27
+TND-00242,MPLADS-SYN-0242,Tender for Sports Facility - MPLADS-SYN-0242,Municipal Council,"Vadodara, Gujarat",1960000.0,2026-06-25,2026-07-16,Under Evaluation,5,Not Awarded,,,
+TND-00243,MPLADS-SYN-0243,Tender for School Building - MPLADS-SYN-0243,Zilla Parishad,"Lucknow, Uttar Pradesh",1920000.0,2026-06-19,2026-07-12,Published,5,Not Awarded,,,
+TND-00244,MPLADS-SYN-0244,Tender for Library - MPLADS-SYN-0244,Municipal Corporation,"Ahmedabad, Gujarat",730000.0,2026-06-03,2026-06-26,Awarded,5,Awarded,CON-001,720090.14,2026-07-14
+TND-00245,MPLADS-SYN-0245,Tender for School Building - MPLADS-SYN-0245,Education Department,"Bhagalpur, Bihar",2910000.0,2026-01-10,2026-02-01,Completed,4,Awarded,CON-001,2635822.64,2026-02-20
+TND-00246,MPLADS-SYN-0246,Tender for Library - MPLADS-SYN-0246,Zilla Parishad,"Ajmer, Rajasthan",1550000.0,2026-05-18,2026-05-30,Published,2,Not Awarded,,,
+TND-00247,MPLADS-SYN-0247,Tender for Drinking Water - MPLADS-SYN-0247,Public Works Department,"Udaipur, Rajasthan",470000.0,2026-02-08,2026-03-02,Awarded,2,Awarded,CON-002,441501.55,2026-03-16
+TND-00248,MPLADS-SYN-0248,Tender for Road - MPLADS-SYN-0248,Zilla Parishad,"Lucknow, Uttar Pradesh",2150000.0,2026-01-03,2026-01-20,Published,3,Not Awarded,,,
+TND-00249,MPLADS-SYN-0249,Tender for Drainage - MPLADS-SYN-0249,Education Department,"Bhagalpur, Bihar",450000.0,2026-03-17,2026-03-30,Awarded,6,Awarded,CON-004,409088.5,2026-04-15
+TND-00250,MPLADS-SYN-0250,Tender for Street Lighting - MPLADS-SYN-0250,Municipal Corporation,"Patna, Bihar",250000.0,2026-05-13,2026-05-27,Completed,2,Awarded,CON-007,225491.66,2026-06-07
+TND-00251,MPLADS-SYN-0251,Tender for Community Hall - MPLADS-SYN-0251,Zilla Parishad,"Ujjain, Madhya Pradesh",3470000.0,2026-01-16,2026-01-30,Awarded,7,Awarded,CON-003,3092821.38,2026-02-19
+TND-00252,MPLADS-SYN-0252,Tender for Street Lighting - MPLADS-SYN-0252,Public Works Department,"Vadodara, Gujarat",990000.0,2026-06-01,2026-06-25,Bidding Closed,6,Not Awarded,,,
+TND-00253,MPLADS-SYN-0253,Tender for Sports Facility - MPLADS-SYN-0253,Rural Development Agency,"Ajmer, Rajasthan",1250000.0,2026-03-08,2026-03-28,Published,7,Not Awarded,,,
+TND-00254,MPLADS-SYN-0254,Tender for Road - MPLADS-SYN-0254,Rural Development Agency,"Rajkot, Gujarat",2630000.0,2026-06-08,2026-07-02,Completed,5,Awarded,CON-003,2488851.08,2026-07-16
+TND-00255,MPLADS-SYN-0255,Tender for Solar Lighting - MPLADS-SYN-0255,Rural Development Agency,"Lucknow, Uttar Pradesh",1020000.0,2026-06-11,2026-06-22,Completed,6,Awarded,CON-007,908951.17,2026-07-11
+TND-00256,MPLADS-SYN-0256,Tender for Solar Lighting - MPLADS-SYN-0256,Zilla Parishad,"Tiruchirappalli, Tamil Nadu",1280000.0,2026-01-07,2026-01-18,Bidding Closed,4,Not Awarded,,,
+TND-00257,MPLADS-SYN-0257,Tender for Street Lighting - MPLADS-SYN-0257,Municipal Council,"Jodhpur, Rajasthan",1450000.0,2026-03-13,2026-03-25,Awarded,6,Awarded,CON-004,1386287.25,2026-04-13
+TND-00258,MPLADS-SYN-0258,Tender for Street Lighting - MPLADS-SYN-0258,Public Works Department,"Kota, Rajasthan",1190000.0,2025-12-18,2025-12-29,Under Evaluation,6,Not Awarded,,,
+TND-00259,MPLADS-SYN-0259,Tender for Street Lighting - MPLADS-SYN-0259,Public Works Department,"Prayagraj, Uttar Pradesh",780000.0,2025-12-05,2025-12-25,Published,5,Not Awarded,,,
+TND-00260,MPLADS-SYN-0260,Tender for Road - MPLADS-SYN-0260,Municipal Corporation,"Aurangabad, Maharashtra",690000.0,2026-07-13,2026-07-24,Under Evaluation,2,Not Awarded,,,
+TND-00261,MPLADS-SYN-0261,Tender for Sports Facility - MPLADS-SYN-0261,Rural Development Agency,"Kota, Rajasthan",830000.0,2026-01-01,2026-01-13,Completed,7,Awarded,CON-004,751883.58,2026-01-25
+TND-00262,MPLADS-SYN-0262,Tender for School Building - MPLADS-SYN-0262,Public Works Department,"Lucknow, Uttar Pradesh",3830000.0,2026-04-05,2026-04-29,Published,6,Not Awarded,,,
+TND-00263,MPLADS-SYN-0263,Tender for School Building - MPLADS-SYN-0263,Municipal Corporation,"Solapur, Maharashtra",2410000.0,2026-05-09,2026-05-30,Under Evaluation,4,Not Awarded,,,
+TND-00264,MPLADS-SYN-0264,Tender for Road - MPLADS-SYN-0264,Municipal Corporation,"Mysuru, Karnataka",1330000.0,2026-05-01,2026-05-21,Bidding Closed,6,Not Awarded,,,
+TND-00265,MPLADS-SYN-0265,Tender for Library - MPLADS-SYN-0265,District Health Office,"Coimbatore, Tamil Nadu",1100000.0,2025-12-30,2026-01-19,Awarded,4,Awarded,CON-006,983593.48,2026-02-05
+TND-00266,MPLADS-SYN-0266,Tender for Library - MPLADS-SYN-0266,Municipal Council,"Hubballi, Karnataka",550000.0,2025-12-14,2025-12-28,Completed,2,Awarded,CON-004,532076.01,2026-01-06
+TND-00267,MPLADS-SYN-0267,Tender for Solar Lighting - MPLADS-SYN-0267,Municipal Council,"Solapur, Maharashtra",1190000.0,2026-07-10,2026-08-01,Completed,6,Awarded,CON-006,1173726.87,2026-08-08
+TND-00268,MPLADS-SYN-0268,Tender for Drinking Water - MPLADS-SYN-0268,Public Works Department,"Bhopal, Madhya Pradesh",1710000.0,2026-01-10,2026-02-01,Completed,4,Awarded,CON-001,1713381.9,2026-02-08
+TND-00269,MPLADS-SYN-0269,Tender for School Building - MPLADS-SYN-0269,Education Department,"Nandurbar, Maharashtra",4610000.0,2026-04-11,2026-05-04,Published,4,Not Awarded,,,
+TND-00270,MPLADS-SYN-0270,Tender for Sports Facility - MPLADS-SYN-0270,Rural Development Agency,"Salem, Tamil Nadu",1980000.0,2026-03-31,2026-04-19,Awarded,3,Awarded,CON-004,1843894.51,2026-05-09
+TND-00271,MPLADS-SYN-0271,Tender for Health Facility - MPLADS-SYN-0271,District Health Office,"Salem, Tamil Nadu",3060000.0,2026-04-03,2026-04-17,Awarded,2,Awarded,CON-006,2828568.57,2026-04-25
+TND-00272,MPLADS-SYN-0272,Tender for Health Facility - MPLADS-SYN-0272,Municipal Council,"Sagar, Madhya Pradesh",4470000.0,2026-01-22,2026-02-02,Under Evaluation,4,Not Awarded,,,
+TND-00273,MPLADS-SYN-0273,Tender for Sports Facility - MPLADS-SYN-0273,Municipal Corporation,"Salem, Tamil Nadu",2200000.0,2026-04-22,2026-05-14,Under Evaluation,3,Not Awarded,,,
+TND-00274,MPLADS-SYN-0274,Tender for Drinking Water - MPLADS-SYN-0274,Municipal Council,"Darbhanga, Bihar",510000.0,2026-06-19,2026-07-04,Awarded,5,Awarded,CON-002,452142.47,2026-07-20
+TND-00275,MPLADS-SYN-0275,Tender for Library - MPLADS-SYN-0275,Rural Development Agency,"Nandurbar, Maharashtra",730000.0,2026-07-06,2026-07-30,Published,4,Not Awarded,,,
+TND-00276,MPLADS-SYN-0276,Tender for School Building - MPLADS-SYN-0276,Public Works Department,"Jodhpur, Rajasthan",3750000.0,2025-12-21,2026-01-07,Published,3,Not Awarded,,,
+TND-00277,MPLADS-SYN-0277,Tender for Library - MPLADS-SYN-0277,Public Works Department,"Hubballi, Karnataka",830000.0,2026-02-21,2026-03-09,Completed,7,Awarded,CON-002,848317.71,2026-03-28
+TND-00278,MPLADS-SYN-0278,Tender for Health Facility - MPLADS-SYN-0278,District Health Office,"Kutch, Gujarat",4130000.0,2025-12-10,2026-01-01,Bidding Closed,6,Not Awarded,,,
+TND-00279,MPLADS-SYN-0279,Tender for Community Hall - MPLADS-SYN-0279,Public Works Department,"Bhagalpur, Bihar",3220000.0,2026-01-08,2026-01-24,Bidding Closed,6,Not Awarded,,,
+TND-00280,MPLADS-SYN-0280,Tender for Road - MPLADS-SYN-0280,Public Works Department,"Kanpur Nagar, Uttar Pradesh",1290000.0,2026-05-04,2026-05-15,Awarded,5,Awarded,CON-006,1304341.63,2026-05-23
+TND-00281,MPLADS-SYN-0281,Tender for Sports Facility - MPLADS-SYN-0281,Municipal Council,"Madurai, Tamil Nadu",1450000.0,2026-01-13,2026-01-26,Published,2,Not Awarded,,,
+TND-00282,MPLADS-SYN-0282,Tender for Road - MPLADS-SYN-0282,Municipal Council,"Vadodara, Gujarat",900000.0,2026-05-10,2026-06-03,Awarded,3,Awarded,CON-001,904191.31,2026-06-10
+TND-00283,MPLADS-SYN-0283,Tender for Community Hall - MPLADS-SYN-0283,Municipal Council,"Vadodara, Gujarat",2570000.0,2026-01-31,2026-02-21,Awarded,5,Awarded,CON-004,2282130.53,2026-03-09
+TND-00284,MPLADS-SYN-0284,Tender for Community Hall - MPLADS-SYN-0284,Rural Development Agency,"Jabalpur, Madhya Pradesh",2840000.0,2026-04-13,2026-04-25,Awarded,3,Awarded,CON-005,2511207.89,2026-05-03
+TND-00285,MPLADS-SYN-0285,Tender for Community Hall - MPLADS-SYN-0285,District Health Office,"Kanpur Nagar, Uttar Pradesh",2830000.0,2025-12-21,2026-01-10,Published,3,Not Awarded,,,
+TND-00286,MPLADS-SYN-0286,Tender for Sports Facility - MPLADS-SYN-0286,Municipal Corporation,"Mysuru, Karnataka",2380000.0,2026-07-28,2026-08-16,Awarded,5,Awarded,CON-006,2342897.7,2026-08-25
+TND-00287,MPLADS-SYN-0287,Tender for Drinking Water - MPLADS-SYN-0287,Zilla Parishad,"Darbhanga, Bihar",1640000.0,2025-11-19,2025-12-13,Published,2,Not Awarded,,,
+TND-00288,MPLADS-SYN-0288,Tender for Sports Facility - MPLADS-SYN-0288,Municipal Corporation,"Jabalpur, Madhya Pradesh",2010000.0,2026-06-20,2026-07-08,Awarded,3,Awarded,CON-003,1934264.48,2026-07-26
+TND-00289,MPLADS-SYN-0289,Tender for Sports Facility - MPLADS-SYN-0289,Municipal Corporation,"Rajkot, Gujarat",1180000.0,2026-05-08,2026-05-25,Awarded,2,Awarded,CON-002,1046851.65,2026-06-12
+TND-00290,MPLADS-SYN-0290,Tender for Sports Facility - MPLADS-SYN-0290,Education Department,"Tiruchirappalli, Tamil Nadu",1660000.0,2026-05-23,2026-06-16,Published,2,Not Awarded,,,
+TND-00291,MPLADS-SYN-0291,Tender for Library - MPLADS-SYN-0291,Municipal Council,"Jodhpur, Rajasthan",1240000.0,2026-02-12,2026-02-22,Bidding Closed,6,Not Awarded,,,
+TND-00292,MPLADS-SYN-0292,Tender for Health Facility - MPLADS-SYN-0292,Municipal Council,"Jalgaon, Maharashtra",4460000.0,2026-07-15,2026-07-29,Under Evaluation,5,Not Awarded,,,
+TND-00293,MPLADS-SYN-0293,Tender for Sports Facility - MPLADS-SYN-0293,Municipal Corporation,"Indore, Madhya Pradesh",1030000.0,2026-04-26,2026-05-17,Awarded,6,Awarded,CON-004,970759.69,2026-05-24
+TND-00294,MPLADS-SYN-0294,Tender for Road - MPLADS-SYN-0294,Municipal Council,"Bhagalpur, Bihar",2210000.0,2026-05-01,2026-05-13,Under Evaluation,6,Not Awarded,,,
+TND-00295,MPLADS-SYN-0295,Tender for Library - MPLADS-SYN-0295,District Health Office,"Jodhpur, Rajasthan",750000.0,2026-04-01,2026-04-11,Under Evaluation,5,Not Awarded,,,
+TND-00296,MPLADS-SYN-0296,Tender for Drinking Water - MPLADS-SYN-0296,Rural Development Agency,"Rajkot, Gujarat",1800000.0,2026-06-07,2026-06-29,Awarded,4,Awarded,CON-002,1785775.48,2026-07-15
+TND-00297,MPLADS-SYN-0297,Tender for Street Lighting - MPLADS-SYN-0297,Public Works Department,"Hubballi, Karnataka",1010000.0,2026-06-28,2026-07-15,Awarded,7,Awarded,CON-003,983980.93,2026-07-30
+TND-00298,MPLADS-SYN-0298,Tender for Road - MPLADS-SYN-0298,District Health Office,"Belagavi, Karnataka",1320000.0,2026-06-24,2026-07-15,Awarded,4,Awarded,CON-005,1322674.76,2026-07-25
+TND-00299,MPLADS-SYN-0299,Tender for Street Lighting - MPLADS-SYN-0299,Public Works Department,"Sagar, Madhya Pradesh",710000.0,2026-06-25,2026-07-20,Published,3,Not Awarded,,,
+TND-00300,MPLADS-SYN-0300,Tender for Drainage - MPLADS-SYN-0300,Zilla Parishad,"Thane, Maharashtra",2420000.0,2026-04-30,2026-05-24,Awarded,4,Awarded,CON-004,2202777.53,2026-06-04
+TND-00301,MPLADS-SYN-0301,Tender for Community Hall - MPLADS-SYN-0301,Zilla Parishad,"Tiruchirappalli, Tamil Nadu",1760000.0,2026-03-06,2026-03-25,Awarded,5,Awarded,CON-001,1809928.39,2026-04-14
+TND-00302,MPLADS-SYN-0302,Tender for Solar Lighting - MPLADS-SYN-0302,Public Works Department,"Udaipur, Rajasthan",560000.0,2026-02-28,2026-03-16,Completed,4,Awarded,CON-004,565219.64,2026-03-22
+TND-00303,MPLADS-SYN-0303,Tender for School Building - MPLADS-SYN-0303,District Health Office,"Mysuru, Karnataka",4330000.0,2026-06-10,2026-06-28,Published,4,Not Awarded,,,
+TND-00304,MPLADS-SYN-0304,Tender for Road - MPLADS-SYN-0304,Rural Development Agency,"Jalgaon, Maharashtra",2770000.0,2026-02-02,2026-02-26,Bidding Closed,4,Not Awarded,,,
+TND-00305,MPLADS-SYN-0305,Tender for Drinking Water - MPLADS-SYN-0305,District Health Office,"Jodhpur, Rajasthan",1610000.0,2026-01-21,2026-02-15,Awarded,6,Awarded,CON-001,1481213.05,2026-02-22
+TND-00306,MPLADS-SYN-0306,Tender for Drinking Water - MPLADS-SYN-0306,Public Works Department,"Muzaffarpur, Bihar",1900000.0,2026-06-03,2026-06-15,Published,6,Not Awarded,,,
+TND-00307,MPLADS-SYN-0307,Tender for Drinking Water - MPLADS-SYN-0307,Municipal Council,"Jodhpur, Rajasthan",340000.0,2026-04-29,2026-05-18,Awarded,2,Awarded,CON-002,303283.51,2026-06-01
+TND-00308,MPLADS-SYN-0308,Tender for Community Hall - MPLADS-SYN-0308,Municipal Council,"Udaipur, Rajasthan",2940000.0,2026-02-24,2026-03-19,Completed,7,Awarded,CON-001,2782963.6,2026-04-07
+TND-00309,MPLADS-SYN-0309,Tender for Health Facility - MPLADS-SYN-0309,Public Works Department,"Rajkot, Gujarat",3790000.0,2026-07-19,2026-08-11,Awarded,7,Awarded,CON-007,3892345.51,2026-08-17
+TND-00310,MPLADS-SYN-0310,Tender for Sports Facility - MPLADS-SYN-0310,Public Works Department,"Agra, Uttar Pradesh",2000000.0,2025-12-24,2026-01-15,Awarded,6,Awarded,CON-001,2000328.79,2026-01-25
+TND-00311,MPLADS-SYN-0311,Tender for Drinking Water - MPLADS-SYN-0311,Municipal Corporation,"Mysuru, Karnataka",1720000.0,2026-05-31,2026-06-24,Awarded,3,Awarded,CON-002,1530946.21,2026-07-10
+TND-00312,MPLADS-SYN-0312,Tender for Solar Lighting - MPLADS-SYN-0312,Rural Development Agency,"Ujjain, Madhya Pradesh",440000.0,2026-01-15,2026-01-26,Completed,3,Awarded,CON-004,432018.1,2026-02-11
+TND-00313,MPLADS-SYN-0313,Tender for Sports Facility - MPLADS-SYN-0313,Public Works Department,"Bhagalpur, Bihar",1710000.0,2026-03-02,2026-03-14,Completed,3,Awarded,CON-002,1640606.46,2026-03-31
+TND-00314,MPLADS-SYN-0314,Tender for Street Lighting - MPLADS-SYN-0314,Zilla Parishad,"Udaipur, Rajasthan",330000.0,2026-06-21,2026-07-09,Completed,2,Awarded,CON-006,291682.71,2026-07-19
+TND-00315,MPLADS-SYN-0315,Tender for Sports Facility - MPLADS-SYN-0315,Education Department,"Kanpur Nagar, Uttar Pradesh",2040000.0,2025-12-03,2025-12-25,Bidding Closed,2,Not Awarded,,,
+TND-00316,MPLADS-SYN-0316,Tender for Drinking Water - MPLADS-SYN-0316,Zilla Parishad,"Kanpur Nagar, Uttar Pradesh",1190000.0,2026-01-11,2026-02-04,Completed,6,Awarded,CON-002,1098175.47,2026-02-24
+TND-00317,MPLADS-SYN-0317,Tender for Solar Lighting - MPLADS-SYN-0317,Municipal Corporation,"Patna, Bihar",340000.0,2026-01-19,2026-02-02,Awarded,2,Awarded,CON-001,322254.18,2026-02-21
+TND-00318,MPLADS-SYN-0318,Tender for Drinking Water - MPLADS-SYN-0318,District Health Office,"Agra, Uttar Pradesh",1020000.0,2026-06-28,2026-07-18,Awarded,4,Awarded,CON-003,1006159.69,2026-08-01
+TND-00319,MPLADS-SYN-0319,Tender for Drainage - MPLADS-SYN-0319,Municipal Council,"Sagar, Madhya Pradesh",2140000.0,2026-03-10,2026-03-25,Completed,4,Awarded,CON-007,2046510.59,2026-04-02
+TND-00320,MPLADS-SYN-0320,Tender for Solar Lighting - MPLADS-SYN-0320,Rural Development Agency,"Muzaffarpur, Bihar",270000.0,2026-06-09,2026-06-26,Awarded,5,Awarded,CON-002,238664.5,2026-07-12
+TND-00321,MPLADS-SYN-0321,Tender for School Building - MPLADS-SYN-0321,Municipal Corporation,"Kanpur Nagar, Uttar Pradesh",4900000.0,2025-12-20,2026-01-03,Bidding Closed,2,Not Awarded,,,
+TND-00322,MPLADS-SYN-0322,Tender for Health Facility - MPLADS-SYN-0322,Zilla Parishad,"Ahmedabad, Gujarat",3450000.0,2026-02-18,2026-03-12,Awarded,7,Awarded,CON-003,3283709.19,2026-03-30
+TND-00323,MPLADS-SYN-0323,Tender for Street Lighting - MPLADS-SYN-0323,Municipal Council,"Nandurbar, Maharashtra",560000.0,2026-06-02,2026-06-14,Bidding Closed,4,Not Awarded,,,
+TND-00324,MPLADS-SYN-0324,Tender for Drinking Water - MPLADS-SYN-0324,Rural Development Agency,"Lucknow, Uttar Pradesh",850000.0,2026-03-03,2026-03-27,Published,7,Not Awarded,,,
+TND-00325,MPLADS-SYN-0325,Tender for Community Hall - MPLADS-SYN-0325,Public Works Department,"Coimbatore, Tamil Nadu",1890000.0,2026-01-06,2026-01-20,Under Evaluation,6,Not Awarded,,,
+TND-00326,MPLADS-SYN-0326,Tender for Road - MPLADS-SYN-0326,Zilla Parishad,"Ujjain, Madhya Pradesh",2980000.0,2026-04-20,2026-05-05,Published,3,Not Awarded,,,
+TND-00327,MPLADS-SYN-0327,Tender for Solar Lighting - MPLADS-SYN-0327,Rural Development Agency,"Ahmednagar, Maharashtra",270000.0,2025-11-24,2025-12-05,Bidding Closed,2,Not Awarded,,,
+TND-00328,MPLADS-SYN-0328,Tender for Solar Lighting - MPLADS-SYN-0328,District Health Office,"Jalgaon, Maharashtra",430000.0,2026-07-28,2026-08-16,Under Evaluation,3,Not Awarded,,,
+TND-00329,MPLADS-SYN-0329,Tender for School Building - MPLADS-SYN-0329,Rural Development Agency,"Jaipur, Rajasthan",1960000.0,2026-04-26,2026-05-13,Completed,6,Awarded,CON-007,1987908.22,2026-05-20
+TND-00330,MPLADS-SYN-0330,Tender for Solar Lighting - MPLADS-SYN-0330,Education Department,"Vadodara, Gujarat",1170000.0,2026-01-23,2026-02-10,Completed,7,Awarded,CON-004,1082745.72,2026-02-17
+TND-00331,MPLADS-SYN-0331,Tender for Solar Lighting - MPLADS-SYN-0331,Municipal Corporation,"Indore, Madhya Pradesh",720000.0,2025-11-18,2025-12-03,Under Evaluation,6,Not Awarded,,,
+TND-00332,MPLADS-SYN-0332,Tender for Solar Lighting - MPLADS-SYN-0332,District Health Office,"Madurai, Tamil Nadu",1340000.0,2026-02-20,2026-03-12,Awarded,6,Awarded,CON-003,1187480.06,2026-03-17
+TND-00333,MPLADS-SYN-0333,Tender for Sports Facility - MPLADS-SYN-0333,Education Department,"Chennai, Tamil Nadu",1550000.0,2026-04-16,2026-05-04,Awarded,3,Awarded,CON-006,1542317.97,2026-05-22
+TND-00334,MPLADS-SYN-0334,Tender for Street Lighting - MPLADS-SYN-0334,Education Department,"Dhule, Maharashtra",720000.0,2025-11-07,2025-11-17,Under Evaluation,7,Not Awarded,,,
+TND-00335,MPLADS-SYN-0335,Tender for Drainage - MPLADS-SYN-0335,District Health Office,"Dhule, Maharashtra",1840000.0,2025-12-15,2026-01-03,Under Evaluation,3,Not Awarded,,,
+TND-00336,MPLADS-SYN-0336,Tender for Community Hall - MPLADS-SYN-0336,Rural Development Agency,"Jodhpur, Rajasthan",3360000.0,2026-06-15,2026-07-04,Published,2,Not Awarded,,,
+TND-00337,MPLADS-SYN-0337,Tender for Drinking Water - MPLADS-SYN-0337,Zilla Parishad,"Kanpur Nagar, Uttar Pradesh",1850000.0,2026-03-24,2026-04-08,Published,5,Not Awarded,,,
+TND-00338,MPLADS-SYN-0338,Tender for Library - MPLADS-SYN-0338,Public Works Department,"Varanasi, Uttar Pradesh",1300000.0,2026-01-31,2026-02-16,Bidding Closed,6,Not Awarded,,,
+TND-00339,MPLADS-SYN-0339,Tender for Road - MPLADS-SYN-0339,Public Works Department,"Gaya, Bihar",780000.0,2026-03-11,2026-03-31,Awarded,4,Awarded,CON-004,800518.77,2026-04-09
+TND-00340,MPLADS-SYN-0340,Tender for Library - MPLADS-SYN-0340,District Health Office,"Jodhpur, Rajasthan",300000.0,2025-12-03,2025-12-16,Completed,3,Awarded,CON-005,284991.27,2025-12-29
+TND-00341,MPLADS-SYN-0341,Tender for Community Hall - MPLADS-SYN-0341,District Health Office,"Darbhanga, Bihar",1010000.0,2026-02-18,2026-03-04,Bidding Closed,2,Not Awarded,,,
+TND-00342,MPLADS-SYN-0342,Tender for Community Hall - MPLADS-SYN-0342,District Health Office,"Udaipur, Rajasthan",1760000.0,2026-01-08,2026-01-31,Completed,3,Awarded,CON-001,1763558.15,2026-02-15
+TND-00343,MPLADS-SYN-0343,Tender for Solar Lighting - MPLADS-SYN-0343,Zilla Parishad,"Darbhanga, Bihar",350000.0,2025-12-22,2026-01-16,Awarded,5,Awarded,CON-003,334184.88,2026-01-30
+TND-00344,MPLADS-SYN-0344,Tender for Street Lighting - MPLADS-SYN-0344,District Health Office,"Ujjain, Madhya Pradesh",1190000.0,2025-12-24,2026-01-05,Bidding Closed,6,Not Awarded,,,
+TND-00345,MPLADS-SYN-0345,Tender for Library - MPLADS-SYN-0345,Municipal Corporation,"Palghar, Maharashtra",1230000.0,2026-06-01,2026-06-17,Bidding Closed,4,Not Awarded,,,
+TND-00346,MPLADS-SYN-0346,Tender for Drinking Water - MPLADS-SYN-0346,Public Works Department,"Aurangabad, Maharashtra",670000.0,2026-06-13,2026-07-02,Awarded,6,Awarded,CON-001,678275.12,2026-07-22
+TND-00347,MPLADS-SYN-0347,Tender for Health Facility - MPLADS-SYN-0347,Municipal Council,"Kota, Rajasthan",1100000.0,2025-11-23,2025-12-03,Completed,2,Awarded,CON-001,1039103.08,2025-12-16
+TND-00348,MPLADS-SYN-0348,Tender for Sports Facility - MPLADS-SYN-0348,Rural Development Agency,"Madurai, Tamil Nadu",1840000.0,2026-04-08,2026-04-30,Published,2,Not Awarded,,,
+TND-00349,MPLADS-SYN-0349,Tender for Drinking Water - MPLADS-SYN-0349,Public Works Department,"Jabalpur, Madhya Pradesh",1220000.0,2026-05-20,2026-06-05,Bidding Closed,6,Not Awarded,,,
+TND-00350,MPLADS-SYN-0350,Tender for School Building - MPLADS-SYN-0350,Zilla Parishad,"Darbhanga, Bihar",3430000.0,2026-05-16,2026-06-07,Completed,5,Awarded,CON-007,3411685.92,2026-06-20
+TND-00351,MPLADS-SYN-0351,Tender for Sports Facility - MPLADS-SYN-0351,Public Works Department,"Kanpur Nagar, Uttar Pradesh",1870000.0,2026-01-04,2026-01-17,Under Evaluation,2,Not Awarded,,,
+TND-00352,MPLADS-SYN-0352,Tender for Library - MPLADS-SYN-0352,Public Works Department,"Mysuru, Karnataka",1410000.0,2026-05-04,2026-05-24,Bidding Closed,4,Not Awarded,,,
+TND-00353,MPLADS-SYN-0353,Tender for Street Lighting - MPLADS-SYN-0353,Municipal Council,"Rajkot, Gujarat",1090000.0,2026-05-13,2026-06-04,Awarded,2,Awarded,CON-007,966607.1,2026-06-13
+TND-00354,MPLADS-SYN-0354,Tender for School Building - MPLADS-SYN-0354,Rural Development Agency,"Surat, Gujarat",4170000.0,2026-02-02,2026-02-27,Published,5,Not Awarded,,,
+TND-00355,MPLADS-SYN-0355,Tender for Drinking Water - MPLADS-SYN-0355,District Health Office,"Dharwad, Karnataka",1460000.0,2026-01-01,2026-01-15,Awarded,6,Awarded,CON-007,1354558.08,2026-02-01
+TND-00356,MPLADS-SYN-0356,Tender for Community Hall - MPLADS-SYN-0356,Municipal Council,"Udaipur, Rajasthan",3100000.0,2026-02-15,2026-03-07,Under Evaluation,6,Not Awarded,,,
+TND-00357,MPLADS-SYN-0357,Tender for Community Hall - MPLADS-SYN-0357,Zilla Parishad,"Hubballi, Karnataka",850000.0,2026-02-06,2026-02-25,Under Evaluation,2,Not Awarded,,,
+TND-00358,MPLADS-SYN-0358,Tender for Drinking Water - MPLADS-SYN-0358,Public Works Department,"Ahmednagar, Maharashtra",1370000.0,2026-05-30,2026-06-12,Completed,6,Awarded,CON-005,1268827.79,2026-06-17
+TND-00359,MPLADS-SYN-0359,Tender for Solar Lighting - MPLADS-SYN-0359,Municipal Council,"Lucknow, Uttar Pradesh",1010000.0,2026-03-20,2026-04-07,Under Evaluation,6,Not Awarded,,,
+TND-00360,MPLADS-SYN-0360,Tender for Health Facility - MPLADS-SYN-0360,Municipal Corporation,"Udaipur, Rajasthan",2000000.0,2026-02-10,2026-02-21,Under Evaluation,5,Not Awarded,,,
+TND-00361,MPLADS-SYN-0361,Tender for Health Facility - MPLADS-SYN-0361,Education Department,"Jodhpur, Rajasthan",3310000.0,2026-04-02,2026-04-24,Awarded,7,Awarded,CON-001,3033050.59,2026-05-02
+TND-00362,MPLADS-SYN-0362,Tender for School Building - MPLADS-SYN-0362,Rural Development Agency,"Indore, Madhya Pradesh",2440000.0,2026-06-03,2026-06-27,Awarded,5,Awarded,CON-004,2202623.84,2026-07-08
+TND-00363,MPLADS-SYN-0363,Tender for Drainage - MPLADS-SYN-0363,Rural Development Agency,"Salem, Tamil Nadu",2320000.0,2026-01-13,2026-02-07,Bidding Closed,7,Not Awarded,,,
+TND-00364,MPLADS-SYN-0364,Tender for Solar Lighting - MPLADS-SYN-0364,Zilla Parishad,"Palghar, Maharashtra",1650000.0,2026-07-15,2026-07-29,Published,3,Not Awarded,,,
+TND-00365,MPLADS-SYN-0365,Tender for Sports Facility - MPLADS-SYN-0365,Municipal Corporation,"Ajmer, Rajasthan",1030000.0,2026-03-09,2026-04-03,Under Evaluation,5,Not Awarded,,,
+TND-00366,MPLADS-SYN-0366,Tender for School Building - MPLADS-SYN-0366,Zilla Parishad,"Darbhanga, Bihar",3460000.0,2026-04-07,2026-05-01,Completed,4,Awarded,CON-002,3328315.8,2026-05-14
+TND-00367,MPLADS-SYN-0367,Tender for Library - MPLADS-SYN-0367,District Health Office,"Nashik, Maharashtra",780000.0,2026-04-17,2026-05-03,Under Evaluation,4,Not Awarded,,,
+TND-00368,MPLADS-SYN-0368,Tender for Drainage - MPLADS-SYN-0368,District Health Office,"Jabalpur, Madhya Pradesh",1450000.0,2026-04-30,2026-05-17,Under Evaluation,4,Not Awarded,,,
+TND-00369,MPLADS-SYN-0369,Tender for School Building - MPLADS-SYN-0369,Municipal Corporation,"Bhopal, Madhya Pradesh",4010000.0,2026-07-05,2026-07-30,Published,5,Not Awarded,,,
+TND-00370,MPLADS-SYN-0370,Tender for Street Lighting - MPLADS-SYN-0370,District Health Office,"Rajkot, Gujarat",1470000.0,2025-12-25,2026-01-12,Completed,2,Awarded,CON-007,1420051.64,2026-01-29
+TND-00371,MPLADS-SYN-0371,Tender for Health Facility - MPLADS-SYN-0371,Education Department,"Madurai, Tamil Nadu",2730000.0,2026-04-08,2026-04-22,Bidding Closed,2,Not Awarded,,,
+TND-00372,MPLADS-SYN-0372,Tender for Library - MPLADS-SYN-0372,Education Department,"Kutch, Gujarat",1190000.0,2026-02-14,2026-02-26,Completed,5,Awarded,CON-004,1164291.01,2026-03-18
+TND-00373,MPLADS-SYN-0373,Tender for Solar Lighting - MPLADS-SYN-0373,Zilla Parishad,"Ajmer, Rajasthan",1720000.0,2026-02-22,2026-03-12,Awarded,7,Awarded,CON-005,1583678.34,2026-03-20
+TND-00374,MPLADS-SYN-0374,Tender for Health Facility - MPLADS-SYN-0374,District Health Office,"Indore, Madhya Pradesh",1020000.0,2026-05-27,2026-06-13,Under Evaluation,2,Not Awarded,,,
+TND-00375,MPLADS-SYN-0375,Tender for Health Facility - MPLADS-SYN-0375,District Health Office,"Bengaluru Urban, Karnataka",4360000.0,2026-05-08,2026-05-25,Published,3,Not Awarded,,,
+TND-00376,MPLADS-SYN-0376,Tender for School Building - MPLADS-SYN-0376,Zilla Parishad,"Ujjain, Madhya Pradesh",1430000.0,2026-03-13,2026-04-05,Awarded,7,Awarded,CON-006,1359730.64,2026-04-14
+TND-00377,MPLADS-SYN-0377,Tender for Sports Facility - MPLADS-SYN-0377,Public Works Department,"Bhopal, Madhya Pradesh",760000.0,2026-02-14,2026-03-01,Awarded,7,Awarded,CON-001,775393.66,2026-03-21
+TND-00378,MPLADS-SYN-0378,Tender for Road - MPLADS-SYN-0378,Rural Development Agency,"Nashik, Maharashtra",710000.0,2025-12-09,2025-12-25,Bidding Closed,4,Not Awarded,,,
+TND-00379,MPLADS-SYN-0379,Tender for Solar Lighting - MPLADS-SYN-0379,District Health Office,"Nashik, Maharashtra",370000.0,2026-04-05,2026-04-16,Completed,2,Awarded,CON-003,361802.58,2026-04-28
+TND-00380,MPLADS-SYN-0380,Tender for Sports Facility - MPLADS-SYN-0380,Education Department,"Solapur, Maharashtra",770000.0,2025-12-23,2026-01-07,Under Evaluation,3,Not Awarded,,,
+TND-00381,MPLADS-SYN-0381,Tender for Community Hall - MPLADS-SYN-0381,Education Department,"Udaipur, Rajasthan",2680000.0,2026-05-28,2026-06-22,Awarded,7,Awarded,CON-003,2745176.81,2026-07-06
+TND-00382,MPLADS-SYN-0382,Tender for Drainage - MPLADS-SYN-0382,District Health Office,"Jabalpur, Madhya Pradesh",2250000.0,2026-08-05,2026-08-24,Awarded,6,Awarded,CON-001,2016213.98,2026-09-08
+TND-00383,MPLADS-SYN-0383,Tender for Drinking Water - MPLADS-SYN-0383,Education Department,"Udaipur, Rajasthan",640000.0,2026-04-25,2026-05-20,Completed,6,Awarded,CON-006,608129.99,2026-05-31
+TND-00384,MPLADS-SYN-0384,Tender for Health Facility - MPLADS-SYN-0384,Public Works Department,"Aurangabad, Maharashtra",2500000.0,2026-07-04,2026-07-19,Awarded,5,Awarded,CON-002,2443107.0,2026-07-29
+TND-00385,MPLADS-SYN-0385,Tender for Street Lighting - MPLADS-SYN-0385,District Health Office,"Udaipur, Rajasthan",1050000.0,2025-12-29,2026-01-17,Awarded,7,Awarded,CON-001,1043272.03,2026-01-27
+TND-00386,MPLADS-SYN-0386,Tender for Health Facility - MPLADS-SYN-0386,Municipal Council,"Kota, Rajasthan",2830000.0,2026-01-01,2026-01-23,Under Evaluation,5,Not Awarded,,,
+TND-00387,MPLADS-SYN-0387,Tender for Drinking Water - MPLADS-SYN-0387,Municipal Corporation,"Aurangabad, Maharashtra",1950000.0,2025-12-29,2026-01-10,Under Evaluation,7,Not Awarded,,,
+TND-00388,MPLADS-SYN-0388,Tender for Drainage - MPLADS-SYN-0388,Public Works Department,"Jodhpur, Rajasthan",1840000.0,2025-12-30,2026-01-13,Awarded,4,Awarded,CON-003,1877487.81,2026-01-18
+TND-00389,MPLADS-SYN-0389,Tender for Health Facility - MPLADS-SYN-0389,Rural Development Agency,"Jalgaon, Maharashtra",4190000.0,2026-02-12,2026-03-01,Completed,4,Awarded,CON-005,4286810.89,2026-03-15
+TND-00390,MPLADS-SYN-0390,Tender for Library - MPLADS-SYN-0390,Zilla Parishad,"Ahmednagar, Maharashtra",870000.0,2026-05-30,2026-06-09,Under Evaluation,7,Not Awarded,,,
+TND-00391,MPLADS-SYN-0391,Tender for Drinking Water - MPLADS-SYN-0391,Public Works Department,"Jalgaon, Maharashtra",1930000.0,2025-11-18,2025-12-05,Completed,7,Awarded,CON-006,1732626.09,2025-12-19
+TND-00392,MPLADS-SYN-0392,Tender for Drainage - MPLADS-SYN-0392,Zilla Parishad,"Surat, Gujarat",1310000.0,2026-01-26,2026-02-14,Awarded,2,Awarded,CON-006,1278306.78,2026-02-28
+TND-00393,MPLADS-SYN-0393,Tender for Health Facility - MPLADS-SYN-0393,District Health Office,"Pune, Maharashtra",2210000.0,2025-11-15,2025-12-02,Completed,3,Awarded,CON-007,2103317.3,2025-12-21
+TND-00394,MPLADS-SYN-0394,Tender for Drinking Water - MPLADS-SYN-0394,Rural Development Agency,"Ajmer, Rajasthan",590000.0,2026-01-24,2026-02-14,Published,7,Not Awarded,,,
+TND-00395,MPLADS-SYN-0395,Tender for Health Facility - MPLADS-SYN-0395,Municipal Council,"Vadodara, Gujarat",3710000.0,2026-01-03,2026-01-19,Under Evaluation,3,Not Awarded,,,
+TND-00396,MPLADS-SYN-0396,Tender for Street Lighting - MPLADS-SYN-0396,Public Works Department,"Hubballi, Karnataka",530000.0,2026-05-02,2026-05-14,Published,5,Not Awarded,,,
+TND-00397,MPLADS-SYN-0397,Tender for Drainage - MPLADS-SYN-0397,District Health Office,"Indore, Madhya Pradesh",1720000.0,2026-06-25,2026-07-16,Under Evaluation,6,Not Awarded,,,
+TND-00398,MPLADS-SYN-0398,Tender for Solar Lighting - MPLADS-SYN-0398,Public Works Department,"Jabalpur, Madhya Pradesh",1000000.0,2026-04-03,2026-04-19,Awarded,6,Awarded,CON-004,902477.86,2026-05-04
+TND-00399,MPLADS-SYN-0399,Tender for Sports Facility - MPLADS-SYN-0399,District Health Office,"Dharwad, Karnataka",1130000.0,2026-05-13,2026-05-26,Under Evaluation,3,Not Awarded,,,
+TND-00400,MPLADS-SYN-0400,Tender for Sports Facility - MPLADS-SYN-0400,Zilla Parishad,"Prayagraj, Uttar Pradesh",540000.0,2026-05-24,2026-06-18,Published,6,Not Awarded,,,
+TND-00401,MPLADS-SYN-0401,Tender for Drainage - MPLADS-SYN-0401,Municipal Council,"Hubballi, Karnataka",2270000.0,2026-05-24,2026-06-17,Bidding Closed,6,Not Awarded,,,
+TND-00402,MPLADS-SYN-0402,Tender for Community Hall - MPLADS-SYN-0402,Rural Development Agency,"Agra, Uttar Pradesh",1310000.0,2026-04-03,2026-04-14,Bidding Closed,5,Not Awarded,,,
+TND-00403,MPLADS-SYN-0403,Tender for Drinking Water - MPLADS-SYN-0403,Municipal Corporation,"Surat, Gujarat",460000.0,2026-02-15,2026-02-25,Published,4,Not Awarded,,,
+TND-00404,MPLADS-SYN-0404,Tender for Community Hall - MPLADS-SYN-0404,Public Works Department,"Ujjain, Madhya Pradesh",3720000.0,2026-05-08,2026-05-20,Awarded,5,Awarded,CON-001,3465847.11,2026-05-27
+TND-00405,MPLADS-SYN-0405,Tender for Community Hall - MPLADS-SYN-0405,Municipal Corporation,"Indore, Madhya Pradesh",2460000.0,2026-04-01,2026-04-13,Under Evaluation,2,Not Awarded,,,
+TND-00406,MPLADS-SYN-0406,Tender for Solar Lighting - MPLADS-SYN-0406,Education Department,"Coimbatore, Tamil Nadu",1670000.0,2026-02-23,2026-03-10,Completed,3,Awarded,CON-001,1661439.83,2026-03-28
+TND-00407,MPLADS-SYN-0407,Tender for Library - MPLADS-SYN-0407,Zilla Parishad,"Chennai, Tamil Nadu",470000.0,2026-01-27,2026-02-20,Completed,5,Awarded,CON-002,440083.01,2026-03-01
+TND-00408,MPLADS-SYN-0408,Tender for Library - MPLADS-SYN-0408,Education Department,"Bhopal, Madhya Pradesh",1340000.0,2026-01-24,2026-02-06,Published,6,Not Awarded,,,
+TND-00409,MPLADS-SYN-0409,Tender for School Building - MPLADS-SYN-0409,Municipal Corporation,"Mysuru, Karnataka",1460000.0,2026-06-03,2026-06-17,Bidding Closed,3,Not Awarded,,,
+TND-00410,MPLADS-SYN-0410,Tender for Drainage - MPLADS-SYN-0410,Education Department,"Tiruchirappalli, Tamil Nadu",1780000.0,2026-05-09,2026-05-28,Awarded,7,Awarded,CON-007,1758398.09,2026-06-15
+TND-00411,MPLADS-SYN-0411,Tender for Drainage - MPLADS-SYN-0411,Municipal Corporation,"Solapur, Maharashtra",1430000.0,2026-07-04,2026-07-21,Under Evaluation,5,Not Awarded,,,
+TND-00412,MPLADS-SYN-0412,Tender for School Building - MPLADS-SYN-0412,Rural Development Agency,"Salem, Tamil Nadu",1750000.0,2026-01-18,2026-02-05,Completed,7,Awarded,CON-001,1740941.11,2026-02-11
+TND-00413,MPLADS-SYN-0413,Tender for Road - MPLADS-SYN-0413,Education Department,"Dharwad, Karnataka",1020000.0,2025-12-01,2025-12-11,Published,3,Not Awarded,,,
+TND-00414,MPLADS-SYN-0414,Tender for School Building - MPLADS-SYN-0414,Education Department,"Bhagalpur, Bihar",2290000.0,2026-04-28,2026-05-09,Awarded,6,Awarded,CON-005,2246040.12,2026-05-15
+TND-00415,MPLADS-SYN-0415,Tender for Sports Facility - MPLADS-SYN-0415,Municipal Council,"Agra, Uttar Pradesh",2210000.0,2026-06-26,2026-07-18,Awarded,3,Awarded,CON-007,2123730.38,2026-07-24
+TND-00416,MPLADS-SYN-0416,Tender for Drainage - MPLADS-SYN-0416,Rural Development Agency,"Surat, Gujarat",2150000.0,2026-06-19,2026-07-08,Awarded,7,Awarded,CON-001,2077795.58,2026-07-23
+TND-00417,MPLADS-SYN-0417,Tender for Solar Lighting - MPLADS-SYN-0417,District Health Office,"Vadodara, Gujarat",1280000.0,2026-01-03,2026-01-17,Awarded,6,Awarded,CON-006,1168840.21,2026-01-31
+TND-00418,MPLADS-SYN-0418,Tender for Health Facility - MPLADS-SYN-0418,District Health Office,"Kota, Rajasthan",2610000.0,2026-08-01,2026-08-16,Completed,7,Awarded,CON-004,2464049.03,2026-09-05
+TND-00419,MPLADS-SYN-0419,Tender for Health Facility - MPLADS-SYN-0419,Municipal Council,"Hubballi, Karnataka",3520000.0,2026-03-14,2026-04-05,Awarded,6,Awarded,CON-006,3265891.79,2026-04-23
+TND-00420,MPLADS-SYN-0420,Tender for Drainage - MPLADS-SYN-0420,Municipal Council,"Dhule, Maharashtra",1820000.0,2026-06-17,2026-07-06,Bidding Closed,3,Not Awarded,,,
+TND-00421,MPLADS-SYN-0421,Tender for Community Hall - MPLADS-SYN-0421,District Health Office,"Tiruchirappalli, Tamil Nadu",2810000.0,2026-04-03,2026-04-20,Under Evaluation,3,Not Awarded,,,
+TND-00422,MPLADS-SYN-0422,Tender for Sports Facility - MPLADS-SYN-0422,Municipal Council,"Ajmer, Rajasthan",2220000.0,2026-05-08,2026-05-22,Completed,5,Awarded,CON-003,2258208.81,2026-06-09
+TND-00423,MPLADS-SYN-0423,Tender for Sports Facility - MPLADS-SYN-0423,Municipal Council,"Muzaffarpur, Bihar",370000.0,2026-04-05,2026-04-19,Bidding Closed,3,Not Awarded,,,
+TND-00424,MPLADS-SYN-0424,Tender for Health Facility - MPLADS-SYN-0424,Zilla Parishad,"Muzaffarpur, Bihar",1480000.0,2026-01-16,2026-02-05,Completed,2,Awarded,CON-001,1507134.2,2026-02-21
+TND-00425,MPLADS-SYN-0425,Tender for Community Hall - MPLADS-SYN-0425,Municipal Council,"Lucknow, Uttar Pradesh",1360000.0,2025-11-19,2025-12-05,Awarded,4,Awarded,CON-003,1273742.27,2025-12-11
+TND-00426,MPLADS-SYN-0426,Tender for Street Lighting - MPLADS-SYN-0426,Rural Development Agency,"Ujjain, Madhya Pradesh",1450000.0,2026-01-19,2026-02-04,Awarded,3,Awarded,CON-002,1465110.56,2026-02-19
+TND-00427,MPLADS-SYN-0427,Tender for School Building - MPLADS-SYN-0427,Public Works Department,"Kutch, Gujarat",4660000.0,2026-08-01,2026-08-17,Completed,7,Awarded,CON-003,4182804.02,2026-09-06
+TND-00428,MPLADS-SYN-0428,Tender for Sports Facility - MPLADS-SYN-0428,Public Works Department,"Agra, Uttar Pradesh",1610000.0,2025-11-12,2025-11-28,Awarded,3,Awarded,CON-006,1550127.15,2025-12-12
+TND-00429,MPLADS-SYN-0429,Tender for Community Hall - MPLADS-SYN-0429,Public Works Department,"Ahmedabad, Gujarat",1970000.0,2025-11-18,2025-12-09,Bidding Closed,4,Not Awarded,,,
+TND-00430,MPLADS-SYN-0430,Tender for Drainage - MPLADS-SYN-0430,Zilla Parishad,"Indore, Madhya Pradesh",1190000.0,2026-05-06,2026-05-31,Completed,2,Awarded,CON-001,1190502.77,2026-06-20
+TND-00431,MPLADS-SYN-0431,Tender for Library - MPLADS-SYN-0431,Municipal Council,"Hubballi, Karnataka",400000.0,2025-12-15,2026-01-05,Completed,5,Awarded,CON-002,354742.93,2026-01-17
+TND-00432,MPLADS-SYN-0432,Tender for Road - MPLADS-SYN-0432,Rural Development Agency,"Bhagalpur, Bihar",2270000.0,2026-02-05,2026-02-15,Published,6,Not Awarded,,,
+TND-00433,MPLADS-SYN-0433,Tender for Health Facility - MPLADS-SYN-0433,Public Works Department,"Kanpur Nagar, Uttar Pradesh",2160000.0,2026-01-27,2026-02-19,Under Evaluation,3,Not Awarded,,,
+TND-00434,MPLADS-SYN-0434,Tender for Drinking Water - MPLADS-SYN-0434,Public Works Department,"Gaya, Bihar",640000.0,2026-07-01,2026-07-18,Awarded,6,Awarded,CON-007,643202.82,2026-08-07
+TND-00435,MPLADS-SYN-0435,Tender for Community Hall - MPLADS-SYN-0435,Municipal Council,"Solapur, Maharashtra",3170000.0,2025-12-28,2026-01-17,Under Evaluation,5,Not Awarded,,,
+TND-00436,MPLADS-SYN-0436,Tender for Solar Lighting - MPLADS-SYN-0436,Education Department,"Coimbatore, Tamil Nadu",900000.0,2026-06-30,2026-07-25,Published,3,Not Awarded,,,
+TND-00437,MPLADS-SYN-0437,Tender for Solar Lighting - MPLADS-SYN-0437,Municipal Council,"Gaya, Bihar",1650000.0,2026-04-03,2026-04-18,Published,7,Not Awarded,,,
+TND-00438,MPLADS-SYN-0438,Tender for Street Lighting - MPLADS-SYN-0438,Zilla Parishad,"Palghar, Maharashtra",270000.0,2025-12-24,2026-01-08,Under Evaluation,7,Not Awarded,,,
+TND-00439,MPLADS-SYN-0439,Tender for Drainage - MPLADS-SYN-0439,Zilla Parishad,"Tiruchirappalli, Tamil Nadu",550000.0,2026-06-07,2026-06-18,Awarded,2,Awarded,CON-001,561978.02,2026-06-24
+TND-00440,MPLADS-SYN-0440,Tender for Street Lighting - MPLADS-SYN-0440,Public Works Department,"Ahmedabad, Gujarat",1090000.0,2025-11-27,2025-12-11,Awarded,7,Awarded,CON-001,997039.36,2025-12-20
+TND-00441,MPLADS-SYN-0441,Tender for Sports Facility - MPLADS-SYN-0441,Municipal Council,"Udaipur, Rajasthan",980000.0,2026-02-23,2026-03-19,Awarded,2,Awarded,CON-004,953221.78,2026-04-08
+TND-00442,MPLADS-SYN-0442,Tender for Drinking Water - MPLADS-SYN-0442,Education Department,"Indore, Madhya Pradesh",1080000.0,2025-12-19,2025-12-29,Published,6,Not Awarded,,,
+TND-00443,MPLADS-SYN-0443,Tender for Solar Lighting - MPLADS-SYN-0443,Zilla Parishad,"Muzaffarpur, Bihar",720000.0,2026-05-30,2026-06-09,Under Evaluation,6,Not Awarded,,,
+TND-00444,MPLADS-SYN-0444,Tender for Solar Lighting - MPLADS-SYN-0444,District Health Office,"Bhopal, Madhya Pradesh",680000.0,2026-01-16,2026-02-04,Published,6,Not Awarded,,,
+TND-00445,MPLADS-SYN-0445,Tender for School Building - MPLADS-SYN-0445,Municipal Council,"Bengaluru Urban, Karnataka",3630000.0,2026-06-09,2026-07-02,Published,3,Not Awarded,,,
+TND-00446,MPLADS-SYN-0446,Tender for Drinking Water - MPLADS-SYN-0446,Municipal Council,"Mysuru, Karnataka",630000.0,2026-07-26,2026-08-09,Awarded,3,Awarded,CON-002,612969.29,2026-08-22
+TND-00447,MPLADS-SYN-0447,Tender for Solar Lighting - MPLADS-SYN-0447,Education Department,"Ahmednagar, Maharashtra",470000.0,2026-01-15,2026-02-06,Completed,4,Awarded,CON-006,481230.49,2026-02-25
+TND-00448,MPLADS-SYN-0448,Tender for Drinking Water - MPLADS-SYN-0448,Rural Development Agency,"Nandurbar, Maharashtra",1300000.0,2026-01-20,2026-02-06,Under Evaluation,7,Not Awarded,,,
+TND-00449,MPLADS-SYN-0449,Tender for Community Hall - MPLADS-SYN-0449,District Health Office,"Madurai, Tamil Nadu",1310000.0,2025-11-23,2025-12-04,Awarded,5,Awarded,CON-005,1227325.38,2025-12-24
+TND-00450,MPLADS-SYN-0450,Tender for Street Lighting - MPLADS-SYN-0450,District Health Office,"Agra, Uttar Pradesh",1470000.0,2026-06-19,2026-06-29,Awarded,3,Awarded,CON-004,1311832.29,2026-07-17
+TND-00451,MPLADS-SYN-0451,Tender for School Building - MPLADS-SYN-0451,Education Department,"Gaya, Bihar",2220000.0,2026-03-30,2026-04-12,Published,2,Not Awarded,,,
+TND-00452,MPLADS-SYN-0452,Tender for Community Hall - MPLADS-SYN-0452,Municipal Corporation,"Coimbatore, Tamil Nadu",1410000.0,2026-07-06,2026-07-31,Awarded,2,Awarded,CON-003,1436259.68,2026-08-13
+TND-00453,MPLADS-SYN-0453,Tender for Library - MPLADS-SYN-0453,District Health Office,"Coimbatore, Tamil Nadu",1670000.0,2026-04-21,2026-05-02,Under Evaluation,4,Not Awarded,,,
+TND-00454,MPLADS-SYN-0454,Tender for Road - MPLADS-SYN-0454,District Health Office,"Kanpur Nagar, Uttar Pradesh",2030000.0,2026-07-11,2026-07-25,Awarded,7,Awarded,CON-007,2036364.78,2026-08-01
+TND-00455,MPLADS-SYN-0455,Tender for Solar Lighting - MPLADS-SYN-0455,Municipal Council,"Ujjain, Madhya Pradesh",1520000.0,2026-01-31,2026-02-17,Completed,5,Awarded,CON-002,1491963.97,2026-03-04
+TND-00456,MPLADS-SYN-0456,Tender for Community Hall - MPLADS-SYN-0456,Public Works Department,"Jodhpur, Rajasthan",1620000.0,2025-12-29,2026-01-10,Bidding Closed,7,Not Awarded,,,
+TND-00457,MPLADS-SYN-0457,Tender for Drainage - MPLADS-SYN-0457,Public Works Department,"Palghar, Maharashtra",980000.0,2026-05-07,2026-05-20,Completed,3,Awarded,CON-004,985685.17,2026-06-04
+TND-00458,MPLADS-SYN-0458,Tender for School Building - MPLADS-SYN-0458,Zilla Parishad,"Varanasi, Uttar Pradesh",1390000.0,2026-04-18,2026-05-10,Under Evaluation,4,Not Awarded,,,
+TND-00459,MPLADS-SYN-0459,Tender for Drinking Water - MPLADS-SYN-0459,District Health Office,"Ajmer, Rajasthan",1400000.0,2026-05-21,2026-06-08,Awarded,5,Awarded,CON-005,1335026.73,2026-06-24
+TND-00460,MPLADS-SYN-0460,Tender for School Building - MPLADS-SYN-0460,Education Department,"Indore, Madhya Pradesh",1740000.0,2026-01-11,2026-02-03,Under Evaluation,7,Not Awarded,,,
+TND-00461,MPLADS-SYN-0461,Tender for Library - MPLADS-SYN-0461,Rural Development Agency,"Ujjain, Madhya Pradesh",500000.0,2026-04-09,2026-05-01,Under Evaluation,6,Not Awarded,,,
+TND-00462,MPLADS-SYN-0462,Tender for Drinking Water - MPLADS-SYN-0462,Rural Development Agency,"Belagavi, Karnataka",1080000.0,2026-01-11,2026-01-23,Completed,4,Awarded,CON-001,975383.8,2026-02-01
+TND-00463,MPLADS-SYN-0463,Tender for Community Hall - MPLADS-SYN-0463,Municipal Council,"Surat, Gujarat",1330000.0,2026-06-27,2026-07-17,Published,2,Not Awarded,,,
+TND-00464,MPLADS-SYN-0464,Tender for School Building - MPLADS-SYN-0464,Education Department,"Jabalpur, Madhya Pradesh",1690000.0,2026-04-09,2026-04-28,Awarded,4,Awarded,CON-003,1680201.34,2026-05-06
+TND-00465,MPLADS-SYN-0465,Tender for School Building - MPLADS-SYN-0465,Public Works Department,"Kanpur Nagar, Uttar Pradesh",1090000.0,2026-08-03,2026-08-18,Awarded,5,Awarded,CON-006,1050267.05,2026-09-05
+TND-00466,MPLADS-SYN-0466,Tender for Community Hall - MPLADS-SYN-0466,Municipal Council,"Chennai, Tamil Nadu",1620000.0,2026-04-28,2026-05-10,Awarded,6,Awarded,CON-003,1448214.62,2026-05-25
+TND-00467,MPLADS-SYN-0467,Tender for School Building - MPLADS-SYN-0467,Zilla Parishad,"Jaipur, Rajasthan",1880000.0,2026-05-01,2026-05-20,Bidding Closed,5,Not Awarded,,,
+TND-00468,MPLADS-SYN-0468,Tender for Drinking Water - MPLADS-SYN-0468,District Health Office,"Tiruchirappalli, Tamil Nadu",1670000.0,2026-06-16,2026-07-03,Awarded,6,Awarded,CON-006,1512080.52,2026-07-20
+TND-00469,MPLADS-SYN-0469,Tender for Road - MPLADS-SYN-0469,Education Department,"Agra, Uttar Pradesh",2210000.0,2026-01-23,2026-02-10,Awarded,4,Awarded,CON-002,2108270.59,2026-02-17
+TND-00470,MPLADS-SYN-0470,Tender for Solar Lighting - MPLADS-SYN-0470,Public Works Department,"Madurai, Tamil Nadu",1220000.0,2026-02-24,2026-03-14,Awarded,4,Awarded,CON-004,1162214.33,2026-03-21
+TND-00471,MPLADS-SYN-0471,Tender for Drinking Water - MPLADS-SYN-0471,Municipal Council,"Salem, Tamil Nadu",980000.0,2026-07-16,2026-08-02,Completed,7,Awarded,CON-002,935282.96,2026-08-13
+TND-00472,MPLADS-SYN-0472,Tender for Health Facility - MPLADS-SYN-0472,District Health Office,"Nandurbar, Maharashtra",1180000.0,2026-04-29,2026-05-13,Bidding Closed,2,Not Awarded,,,
+TND-00473,MPLADS-SYN-0473,Tender for Health Facility - MPLADS-SYN-0473,Education Department,"Agra, Uttar Pradesh",3540000.0,2026-06-04,2026-06-26,Bidding Closed,4,Not Awarded,,,
+TND-00474,MPLADS-SYN-0474,Tender for Drinking Water - MPLADS-SYN-0474,Public Works Department,"Bhopal, Madhya Pradesh",760000.0,2025-12-28,2026-01-20,Bidding Closed,7,Not Awarded,,,
+TND-00475,MPLADS-SYN-0475,Tender for Drainage - MPLADS-SYN-0475,District Health Office,"Sagar, Madhya Pradesh",890000.0,2026-03-12,2026-03-31,Under Evaluation,6,Not Awarded,,,
+TND-00476,MPLADS-SYN-0476,Tender for Health Facility - MPLADS-SYN-0476,Zilla Parishad,"Kanpur Nagar, Uttar Pradesh",3120000.0,2026-06-21,2026-07-16,Published,3,Not Awarded,,,
+TND-00477,MPLADS-SYN-0477,Tender for Solar Lighting - MPLADS-SYN-0477,Municipal Corporation,"Vadodara, Gujarat",1320000.0,2026-03-14,2026-04-02,Bidding Closed,7,Not Awarded,,,
+TND-00478,MPLADS-SYN-0478,Tender for Health Facility - MPLADS-SYN-0478,Public Works Department,"Sagar, Madhya Pradesh",2960000.0,2026-03-18,2026-04-04,Published,5,Not Awarded,,,
+TND-00479,MPLADS-SYN-0479,Tender for Drainage - MPLADS-SYN-0479,Rural Development Agency,"Lucknow, Uttar Pradesh",830000.0,2025-11-27,2025-12-18,Completed,6,Awarded,CON-007,755275.11,2025-12-28
+TND-00480,MPLADS-SYN-0480,Tender for Road - MPLADS-SYN-0480,Rural Development Agency,"Muzaffarpur, Bihar",620000.0,2025-12-03,2025-12-13,Published,5,Not Awarded,,,
+TND-00481,MPLADS-SYN-0481,Tender for Street Lighting - MPLADS-SYN-0481,District Health Office,"Belagavi, Karnataka",530000.0,2025-12-16,2026-01-09,Published,4,Not Awarded,,,
+TND-00482,MPLADS-SYN-0482,Tender for Community Hall - MPLADS-SYN-0482,Zilla Parishad,"Varanasi, Uttar Pradesh",1290000.0,2026-03-30,2026-04-22,Published,5,Not Awarded,,,
+TND-00483,MPLADS-SYN-0483,Tender for Community Hall - MPLADS-SYN-0483,Municipal Corporation,"Jabalpur, Madhya Pradesh",2400000.0,2025-12-24,2026-01-12,Awarded,4,Awarded,CON-006,2349118.67,2026-01-30
+TND-00484,MPLADS-SYN-0484,Tender for Drinking Water - MPLADS-SYN-0484,Municipal Council,"Aurangabad, Maharashtra",610000.0,2026-06-14,2026-07-08,Bidding Closed,5,Not Awarded,,,
+TND-00485,MPLADS-SYN-0485,Tender for Street Lighting - MPLADS-SYN-0485,Public Works Department,"Kota, Rajasthan",1170000.0,2026-07-06,2026-07-29,Under Evaluation,2,Not Awarded,,,
+TND-00486,MPLADS-SYN-0486,Tender for Street Lighting - MPLADS-SYN-0486,Public Works Department,"Agra, Uttar Pradesh",930000.0,2026-03-15,2026-03-27,Completed,3,Awarded,CON-004,910135.43,2026-04-12
+TND-00487,MPLADS-SYN-0487,Tender for Library - MPLADS-SYN-0487,Zilla Parishad,"Patna, Bihar",330000.0,2026-03-14,2026-03-25,Awarded,7,Awarded,CON-002,323934.86,2026-04-11
+TND-00488,MPLADS-SYN-0488,Tender for Drinking Water - MPLADS-SYN-0488,District Health Office,"Agra, Uttar Pradesh",860000.0,2026-04-22,2026-05-05,Completed,2,Awarded,CON-002,790177.25,2026-05-17
+TND-00489,MPLADS-SYN-0489,Tender for Street Lighting - MPLADS-SYN-0489,Rural Development Agency,"Ahmedabad, Gujarat",1030000.0,2026-01-31,2026-02-22,Bidding Closed,7,Not Awarded,,,
+TND-00490,MPLADS-SYN-0490,Tender for Solar Lighting - MPLADS-SYN-0490,Rural Development Agency,"Kanpur Nagar, Uttar Pradesh",1490000.0,2026-04-14,2026-04-28,Under Evaluation,2,Not Awarded,,,
+TND-00491,MPLADS-SYN-0491,Tender for Street Lighting - MPLADS-SYN-0491,Public Works Department,"Dharwad, Karnataka",300000.0,2026-01-12,2026-01-31,Bidding Closed,2,Not Awarded,,,
+TND-00492,MPLADS-SYN-0492,Tender for Sports Facility - MPLADS-SYN-0492,Education Department,"Hubballi, Karnataka",1460000.0,2026-06-01,2026-06-22,Awarded,4,Awarded,CON-001,1384517.85,2026-07-03
+TND-00493,MPLADS-SYN-0493,Tender for Library - MPLADS-SYN-0493,Zilla Parishad,"Varanasi, Uttar Pradesh",1450000.0,2026-03-20,2026-04-10,Under Evaluation,2,Not Awarded,,,
+TND-00494,MPLADS-SYN-0494,Tender for Road - MPLADS-SYN-0494,Municipal Council,"Ahmedabad, Gujarat",2310000.0,2026-03-06,2026-03-30,Bidding Closed,2,Not Awarded,,,
+TND-00495,MPLADS-SYN-0495,Tender for Solar Lighting - MPLADS-SYN-0495,Zilla Parishad,"Kutch, Gujarat",380000.0,2026-04-26,2026-05-09,Completed,4,Awarded,CON-006,371334.29,2026-05-19
+TND-00496,MPLADS-SYN-0496,Tender for Library - MPLADS-SYN-0496,Rural Development Agency,"Nashik, Maharashtra",850000.0,2026-01-08,2026-01-23,Published,3,Not Awarded,,,
+TND-00497,MPLADS-SYN-0497,Tender for Community Hall - MPLADS-SYN-0497,Municipal Council,"Mysuru, Karnataka",2640000.0,2026-05-12,2026-06-04,Completed,3,Awarded,CON-003,2639111.29,2026-06-14
+TND-00498,MPLADS-SYN-0498,Tender for Road - MPLADS-SYN-0498,Education Department,"Rajkot, Gujarat",830000.0,2025-12-18,2026-01-10,Awarded,2,Awarded,CON-005,822204.85,2026-01-21
+TND-00499,MPLADS-SYN-0499,Tender for Solar Lighting - MPLADS-SYN-0499,District Health Office,"Nandurbar, Maharashtra",1600000.0,2026-02-20,2026-03-15,Bidding Closed,2,Not Awarded,,,
+TND-00500,MPLADS-SYN-0500,Tender for Road - MPLADS-SYN-0500,District Health Office,"Jaipur, Rajasthan",550000.0,2026-06-10,2026-06-26,Published,7,Not Awarded,,,
+TND-00501,MPLADS-SYN-0501,Tender for Street Lighting - MPLADS-SYN-0501,Education Department,"Prayagraj, Uttar Pradesh",1190000.0,2025-11-11,2025-11-24,Awarded,6,Awarded,CON-002,1080572.33,2025-12-09
+TND-00502,MPLADS-SYN-0502,Tender for Health Facility - MPLADS-SYN-0502,Municipal Council,"Dharwad, Karnataka",3060000.0,2025-11-21,2025-12-04,Awarded,7,Awarded,CON-005,3088750.18,2025-12-19
+TND-00503,MPLADS-SYN-0503,Tender for Drainage - MPLADS-SYN-0503,Rural Development Agency,"Jabalpur, Madhya Pradesh",1840000.0,2026-05-26,2026-06-17,Under Evaluation,2,Not Awarded,,,
+TND-00504,MPLADS-SYN-0504,Tender for Drainage - MPLADS-SYN-0504,Zilla Parishad,"Prayagraj, Uttar Pradesh",970000.0,2026-04-03,2026-04-27,Completed,3,Awarded,CON-004,971998.92,2026-05-11
+TND-00505,MPLADS-SYN-0505,Tender for Health Facility - MPLADS-SYN-0505,Zilla Parishad,"Prayagraj, Uttar Pradesh",2590000.0,2026-05-14,2026-05-26,Under Evaluation,3,Not Awarded,,,
+TND-00506,MPLADS-SYN-0506,Tender for Health Facility - MPLADS-SYN-0506,Education Department,"Dharwad, Karnataka",3600000.0,2026-01-14,2026-01-31,Completed,2,Awarded,CON-003,3266844.04,2026-02-09
+TND-00507,MPLADS-SYN-0507,Tender for Road - MPLADS-SYN-0507,Municipal Council,"Varanasi, Uttar Pradesh",1380000.0,2025-12-25,2026-01-17,Under Evaluation,3,Not Awarded,,,
+TND-00508,MPLADS-SYN-0508,Tender for School Building - MPLADS-SYN-0508,Education Department,"Pune, Maharashtra",2410000.0,2025-11-29,2025-12-22,Under Evaluation,5,Not Awarded,,,
+TND-00509,MPLADS-SYN-0509,Tender for Library - MPLADS-SYN-0509,Municipal Council,"Ahmedabad, Gujarat",720000.0,2026-06-29,2026-07-14,Published,3,Not Awarded,,,
+TND-00510,MPLADS-SYN-0510,Tender for Street Lighting - MPLADS-SYN-0510,Public Works Department,"Ahmednagar, Maharashtra",230000.0,2026-05-10,2026-05-24,Bidding Closed,4,Not Awarded,,,
+TND-00511,MPLADS-SYN-0511,Tender for School Building - MPLADS-SYN-0511,Zilla Parishad,"Ujjain, Madhya Pradesh",1020000.0,2025-11-14,2025-11-25,Bidding Closed,4,Not Awarded,,,
+TND-00512,MPLADS-SYN-0512,Tender for Street Lighting - MPLADS-SYN-0512,Municipal Corporation,"Coimbatore, Tamil Nadu",430000.0,2026-04-16,2026-04-30,Awarded,5,Awarded,CON-002,440566.98,2026-05-20
+TND-00513,MPLADS-SYN-0513,Tender for Drinking Water - MPLADS-SYN-0513,District Health Office,"Gaya, Bihar",1280000.0,2026-03-13,2026-04-07,Bidding Closed,7,Not Awarded,,,
+TND-00514,MPLADS-SYN-0514,Tender for Health Facility - MPLADS-SYN-0514,Education Department,"Gaya, Bihar",1050000.0,2026-01-24,2026-02-08,Bidding Closed,6,Not Awarded,,,
+TND-00515,MPLADS-SYN-0515,Tender for Community Hall - MPLADS-SYN-0515,Rural Development Agency,"Tiruchirappalli, Tamil Nadu",1910000.0,2026-06-25,2026-07-14,Awarded,4,Awarded,CON-002,1745217.64,2026-07-28
+TND-00516,MPLADS-SYN-0516,Tender for Drinking Water - MPLADS-SYN-0516,Rural Development Agency,"Jalgaon, Maharashtra",1970000.0,2026-06-01,2026-06-26,Awarded,6,Awarded,CON-004,1767053.85,2026-07-04
+TND-00517,MPLADS-SYN-0517,Tender for Solar Lighting - MPLADS-SYN-0517,Public Works Department,"Mysuru, Karnataka",1640000.0,2026-03-21,2026-04-11,Completed,2,Awarded,CON-006,1630161.02,2026-04-30
+TND-00518,MPLADS-SYN-0518,Tender for School Building - MPLADS-SYN-0518,District Health Office,"Aurangabad, Maharashtra",3040000.0,2026-07-28,2026-08-20,Under Evaluation,7,Not Awarded,,,
+TND-00519,MPLADS-SYN-0519,Tender for Library - MPLADS-SYN-0519,Zilla Parishad,"Jodhpur, Rajasthan",700000.0,2026-07-07,2026-07-26,Published,2,Not Awarded,,,
+TND-00520,MPLADS-SYN-0520,Tender for Road - MPLADS-SYN-0520,Zilla Parishad,"Ahmednagar, Maharashtra",1890000.0,2026-01-19,2026-02-09,Bidding Closed,2,Not Awarded,,,
+TND-00521,MPLADS-SYN-0521,Tender for Solar Lighting - MPLADS-SYN-0521,Education Department,"Mysuru, Karnataka",740000.0,2026-03-16,2026-04-02,Bidding Closed,7,Not Awarded,,,
+TND-00522,MPLADS-SYN-0522,Tender for Drainage - MPLADS-SYN-0522,Education Department,"Hubballi, Karnataka",1110000.0,2025-11-15,2025-12-06,Under Evaluation,7,Not Awarded,,,
+TND-00523,MPLADS-SYN-0523,Tender for Road - MPLADS-SYN-0523,Zilla Parishad,"Jaipur, Rajasthan",1960000.0,2026-03-17,2026-04-09,Under Evaluation,6,Not Awarded,,,
+TND-00524,MPLADS-SYN-0524,Tender for Community Hall - MPLADS-SYN-0524,Education Department,"Mysuru, Karnataka",1270000.0,2026-03-26,2026-04-11,Awarded,2,Awarded,CON-004,1226199.16,2026-04-24
+TND-00525,MPLADS-SYN-0525,Tender for Road - MPLADS-SYN-0525,Municipal Council,"Varanasi, Uttar Pradesh",2760000.0,2026-05-06,2026-05-21,Under Evaluation,7,Not Awarded,,,
+TND-00526,MPLADS-SYN-0526,Tender for Street Lighting - MPLADS-SYN-0526,Municipal Corporation,"Ajmer, Rajasthan",660000.0,2026-01-04,2026-01-22,Completed,6,Awarded,CON-007,678363.34,2026-01-30
+TND-00527,MPLADS-SYN-0527,Tender for School Building - MPLADS-SYN-0527,Zilla Parishad,"Dharwad, Karnataka",1440000.0,2026-03-03,2026-03-14,Awarded,7,Awarded,CON-004,1294607.84,2026-03-23
+TND-00528,MPLADS-SYN-0528,Tender for School Building - MPLADS-SYN-0528,Municipal Corporation,"Belagavi, Karnataka",3220000.0,2026-03-30,2026-04-19,Awarded,3,Awarded,CON-006,3201391.74,2026-05-06
+TND-00529,MPLADS-SYN-0529,Tender for Solar Lighting - MPLADS-SYN-0529,Municipal Council,"Darbhanga, Bihar",1690000.0,2026-04-29,2026-05-17,Bidding Closed,5,Not Awarded,,,
+TND-00530,MPLADS-SYN-0530,Tender for Solar Lighting - MPLADS-SYN-0530,District Health Office,"Nashik, Maharashtra",1110000.0,2026-05-09,2026-05-21,Bidding Closed,2,Not Awarded,,,
+TND-00531,MPLADS-SYN-0531,Tender for Sports Facility - MPLADS-SYN-0531,District Health Office,"Udaipur, Rajasthan",2370000.0,2025-12-27,2026-01-14,Bidding Closed,4,Not Awarded,,,
+TND-00532,MPLADS-SYN-0532,Tender for Street Lighting - MPLADS-SYN-0532,Rural Development Agency,"Udaipur, Rajasthan",1280000.0,2026-02-20,2026-03-12,Bidding Closed,2,Not Awarded,,,
+TND-00533,MPLADS-SYN-0533,Tender for Street Lighting - MPLADS-SYN-0533,Education Department,"Kanpur Nagar, Uttar Pradesh",630000.0,2026-07-24,2026-08-17,Published,7,Not Awarded,,,
+TND-00534,MPLADS-SYN-0534,Tender for Drinking Water - MPLADS-SYN-0534,Public Works Department,"Palghar, Maharashtra",1780000.0,2026-01-16,2026-01-28,Published,6,Not Awarded,,,
+TND-00535,MPLADS-SYN-0535,Tender for Road - MPLADS-SYN-0535,Public Works Department,"Prayagraj, Uttar Pradesh",1470000.0,2026-01-23,2026-02-15,Bidding Closed,3,Not Awarded,,,
+TND-00536,MPLADS-SYN-0536,Tender for Health Facility - MPLADS-SYN-0536,Municipal Corporation,"Pune, Maharashtra",4130000.0,2026-02-17,2026-03-09,Bidding Closed,4,Not Awarded,,,
+TND-00537,MPLADS-SYN-0537,Tender for Library - MPLADS-SYN-0537,District Health Office,"Nashik, Maharashtra",670000.0,2026-04-30,2026-05-14,Completed,5,Awarded,CON-004,668824.52,2026-05-20
+TND-00538,MPLADS-SYN-0538,Tender for Street Lighting - MPLADS-SYN-0538,District Health Office,"Belagavi, Karnataka",750000.0,2026-06-30,2026-07-24,Awarded,2,Awarded,CON-007,764561.2,2026-08-03
+TND-00539,MPLADS-SYN-0539,Tender for Community Hall - MPLADS-SYN-0539,Rural Development Agency,"Varanasi, Uttar Pradesh",2370000.0,2026-04-25,2026-05-05,Bidding Closed,3,Not Awarded,,,
+TND-00540,MPLADS-SYN-0540,Tender for Library - MPLADS-SYN-0540,Public Works Department,"Hubballi, Karnataka",740000.0,2025-12-17,2026-01-05,Published,4,Not Awarded,,,
+TND-00541,MPLADS-SYN-0541,Tender for Sports Facility - MPLADS-SYN-0541,Municipal Corporation,"Kota, Rajasthan",740000.0,2026-03-25,2026-04-15,Awarded,2,Awarded,CON-001,692474.66,2026-04-25
+TND-00542,MPLADS-SYN-0542,Tender for Road - MPLADS-SYN-0542,District Health Office,"Gaya, Bihar",2010000.0,2026-06-11,2026-06-30,Awarded,7,Awarded,CON-002,1996502.5,2026-07-18
+TND-00543,MPLADS-SYN-0543,Tender for Street Lighting - MPLADS-SYN-0543,District Health Office,"Bengaluru Urban, Karnataka",830000.0,2026-04-26,2026-05-09,Published,3,Not Awarded,,,
+TND-00544,MPLADS-SYN-0544,Tender for Drinking Water - MPLADS-SYN-0544,Municipal Corporation,"Gaya, Bihar",1470000.0,2026-05-05,2026-05-19,Bidding Closed,3,Not Awarded,,,
+TND-00545,MPLADS-SYN-0545,Tender for Solar Lighting - MPLADS-SYN-0545,Zilla Parishad,"Sagar, Madhya Pradesh",1130000.0,2026-04-16,2026-05-10,Under Evaluation,2,Not Awarded,,,
+TND-00546,MPLADS-SYN-0546,Tender for Solar Lighting - MPLADS-SYN-0546,Public Works Department,"Aurangabad, Maharashtra",1220000.0,2026-02-17,2026-03-02,Published,5,Not Awarded,,,
+TND-00547,MPLADS-SYN-0547,Tender for Library - MPLADS-SYN-0547,Zilla Parishad,"Nandurbar, Maharashtra",400000.0,2026-07-10,2026-08-04,Published,3,Not Awarded,,,
+TND-00548,MPLADS-SYN-0548,Tender for Road - MPLADS-SYN-0548,Rural Development Agency,"Indore, Madhya Pradesh",1300000.0,2026-08-02,2026-08-15,Bidding Closed,4,Not Awarded,,,
+TND-00549,MPLADS-SYN-0549,Tender for Drinking Water - MPLADS-SYN-0549,Zilla Parishad,"Kanpur Nagar, Uttar Pradesh",1130000.0,2026-05-28,2026-06-11,Completed,3,Awarded,CON-007,1103147.16,2026-06-20
+TND-00550,MPLADS-SYN-0550,Tender for Sports Facility - MPLADS-SYN-0550,Zilla Parishad,"Solapur, Maharashtra",1800000.0,2026-03-02,2026-03-12,Awarded,7,Awarded,CON-005,1628311.47,2026-03-28
+TND-00551,MPLADS-SYN-0551,Tender for Drainage - MPLADS-SYN-0551,Public Works Department,"Belagavi, Karnataka",970000.0,2026-01-21,2026-02-04,Published,6,Not Awarded,,,
+TND-00552,MPLADS-SYN-0552,Tender for Drainage - MPLADS-SYN-0552,Rural Development Agency,"Tiruchirappalli, Tamil Nadu",460000.0,2026-03-10,2026-03-26,Published,2,Not Awarded,,,
+TND-00553,MPLADS-SYN-0553,Tender for Solar Lighting - MPLADS-SYN-0553,District Health Office,"Patna, Bihar",450000.0,2026-06-22,2026-07-14,Awarded,5,Awarded,CON-002,417229.0,2026-07-23
+TND-00554,MPLADS-SYN-0554,Tender for Library - MPLADS-SYN-0554,Rural Development Agency,"Sagar, Madhya Pradesh",840000.0,2026-02-03,2026-02-15,Awarded,6,Awarded,CON-002,814925.88,2026-03-01
+TND-00555,MPLADS-SYN-0555,Tender for Street Lighting - MPLADS-SYN-0555,Public Works Department,"Sagar, Madhya Pradesh",950000.0,2026-04-30,2026-05-19,Published,6,Not Awarded,,,
+TND-00556,MPLADS-SYN-0556,Tender for Library - MPLADS-SYN-0556,Zilla Parishad,"Bhagalpur, Bihar",850000.0,2025-12-29,2026-01-14,Under Evaluation,5,Not Awarded,,,
+TND-00557,MPLADS-SYN-0557,Tender for Library - MPLADS-SYN-0557,Education Department,"Ujjain, Madhya Pradesh",1370000.0,2025-11-19,2025-11-30,Completed,3,Awarded,CON-001,1307299.43,2025-12-08
+TND-00558,MPLADS-SYN-0558,Tender for Street Lighting - MPLADS-SYN-0558,District Health Office,"Ajmer, Rajasthan",1170000.0,2025-12-22,2026-01-03,Awarded,2,Awarded,CON-005,1202797.88,2026-01-18
+TND-00559,MPLADS-SYN-0559,Tender for Library - MPLADS-SYN-0559,Public Works Department,"Indore, Madhya Pradesh",1640000.0,2026-06-24,2026-07-17,Awarded,6,Awarded,CON-004,1611203.74,2026-08-06
+TND-00560,MPLADS-SYN-0560,Tender for Drinking Water - MPLADS-SYN-0560,Municipal Council,"Gaya, Bihar",1310000.0,2026-01-02,2026-01-14,Awarded,4,Awarded,CON-005,1195193.49,2026-01-20
+TND-00561,MPLADS-SYN-0561,Tender for Drainage - MPLADS-SYN-0561,Municipal Council,"Bengaluru Urban, Karnataka",580000.0,2026-04-23,2026-05-12,Bidding Closed,7,Not Awarded,,,
+TND-00562,MPLADS-SYN-0562,Tender for Drinking Water - MPLADS-SYN-0562,District Health Office,"Mysuru, Karnataka",1610000.0,2025-11-26,2025-12-19,Under Evaluation,5,Not Awarded,,,
+TND-00563,MPLADS-SYN-0563,Tender for Sports Facility - MPLADS-SYN-0563,Public Works Department,"Muzaffarpur, Bihar",330000.0,2026-06-27,2026-07-11,Awarded,2,Awarded,CON-007,305740.39,2026-07-22
+TND-00564,MPLADS-SYN-0564,Tender for Library - MPLADS-SYN-0564,Zilla Parishad,"Bhagalpur, Bihar",1030000.0,2026-06-24,2026-07-14,Awarded,6,Awarded,CON-003,1004398.46,2026-07-21
+TND-00565,MPLADS-SYN-0565,Tender for Road - MPLADS-SYN-0565,Zilla Parishad,"Gaya, Bihar",1480000.0,2026-02-22,2026-03-17,Completed,3,Awarded,CON-004,1315255.12,2026-03-24
+TND-00566,MPLADS-SYN-0566,Tender for Drinking Water - MPLADS-SYN-0566,Education Department,"Indore, Madhya Pradesh",1500000.0,2025-12-11,2026-01-04,Bidding Closed,6,Not Awarded,,,
+TND-00567,MPLADS-SYN-0567,Tender for Health Facility - MPLADS-SYN-0567,Rural Development Agency,"Kanpur Nagar, Uttar Pradesh",3610000.0,2026-04-14,2026-04-29,Awarded,2,Awarded,CON-006,3560128.18,2026-05-04
+TND-00568,MPLADS-SYN-0568,Tender for Street Lighting - MPLADS-SYN-0568,Rural Development Agency,"Jodhpur, Rajasthan",1500000.0,2026-06-06,2026-06-27,Awarded,6,Awarded,CON-005,1496172.1,2026-07-10
+TND-00569,MPLADS-SYN-0569,Tender for Road - MPLADS-SYN-0569,Zilla Parishad,"Belagavi, Karnataka",1290000.0,2026-02-25,2026-03-11,Awarded,4,Awarded,CON-003,1277023.08,2026-03-19
+TND-00570,MPLADS-SYN-0570,Tender for Health Facility - MPLADS-SYN-0570,Public Works Department,"Udaipur, Rajasthan",2320000.0,2026-01-09,2026-02-01,Awarded,6,Awarded,CON-007,2063827.45,2026-02-08
+TND-00571,MPLADS-SYN-0571,Tender for Drinking Water - MPLADS-SYN-0571,Municipal Corporation,"Hubballi, Karnataka",1790000.0,2026-05-18,2026-06-08,Bidding Closed,5,Not Awarded,,,
+TND-00572,MPLADS-SYN-0572,Tender for Drinking Water - MPLADS-SYN-0572,District Health Office,"Bengaluru Urban, Karnataka",1060000.0,2026-07-19,2026-08-09,Under Evaluation,4,Not Awarded,,,
+TND-00573,MPLADS-SYN-0573,Tender for Community Hall - MPLADS-SYN-0573,Zilla Parishad,"Ahmedabad, Gujarat",2400000.0,2026-02-17,2026-03-02,Awarded,7,Awarded,CON-002,2295176.96,2026-03-08
+TND-00574,MPLADS-SYN-0574,Tender for School Building - MPLADS-SYN-0574,Municipal Council,"Lucknow, Uttar Pradesh",3810000.0,2026-07-26,2026-08-06,Awarded,4,Awarded,CON-006,3571672.77,2026-08-15
+TND-00575,MPLADS-SYN-0575,Tender for Sports Facility - MPLADS-SYN-0575,Municipal Council,"Indore, Madhya Pradesh",1670000.0,2025-12-24,2026-01-16,Awarded,4,Awarded,CON-002,1531789.93,2026-01-31
+TND-00576,MPLADS-SYN-0576,Tender for Solar Lighting - MPLADS-SYN-0576,Rural Development Agency,"Mysuru, Karnataka",460000.0,2026-01-21,2026-02-11,Completed,6,Awarded,CON-006,451259.47,2026-02-17
+TND-00577,MPLADS-SYN-0577,Tender for Community Hall - MPLADS-SYN-0577,District Health Office,"Jaipur, Rajasthan",3370000.0,2026-05-23,2026-06-03,Awarded,2,Awarded,CON-003,3408919.07,2026-06-17
+TND-00578,MPLADS-SYN-0578,Tender for Road - MPLADS-SYN-0578,Municipal Council,"Kanpur Nagar, Uttar Pradesh",740000.0,2025-11-29,2025-12-11,Completed,5,Awarded,CON-002,652084.58,2025-12-22
+TND-00579,MPLADS-SYN-0579,Tender for Drainage - MPLADS-SYN-0579,District Health Office,"Solapur, Maharashtra",1030000.0,2026-07-01,2026-07-20,Completed,6,Awarded,CON-006,943879.23,2026-08-05
+TND-00580,MPLADS-SYN-0580,Tender for Street Lighting - MPLADS-SYN-0580,District Health Office,"Coimbatore, Tamil Nadu",1330000.0,2026-04-09,2026-04-25,Under Evaluation,6,Not Awarded,,,
+TND-00581,MPLADS-SYN-0581,Tender for Road - MPLADS-SYN-0581,Municipal Corporation,"Ajmer, Rajasthan",1550000.0,2026-06-30,2026-07-10,Awarded,2,Awarded,CON-007,1418171.97,2026-07-26
+TND-00582,MPLADS-SYN-0582,Tender for Sports Facility - MPLADS-SYN-0582,Municipal Council,"Prayagraj, Uttar Pradesh",2120000.0,2026-01-13,2026-01-23,Published,2,Not Awarded,,,
+TND-00583,MPLADS-SYN-0583,Tender for Community Hall - MPLADS-SYN-0583,Rural Development Agency,"Ahmedabad, Gujarat",2910000.0,2026-06-14,2026-07-03,Published,3,Not Awarded,,,
+TND-00584,MPLADS-SYN-0584,Tender for Road - MPLADS-SYN-0584,Education Department,"Vadodara, Gujarat",2610000.0,2026-04-03,2026-04-26,Under Evaluation,2,Not Awarded,,,
+TND-00585,MPLADS-SYN-0585,Tender for Sports Facility - MPLADS-SYN-0585,Zilla Parishad,"Madurai, Tamil Nadu",960000.0,2025-11-08,2025-11-26,Awarded,2,Awarded,CON-007,977463.51,2025-12-14
+TND-00586,MPLADS-SYN-0586,Tender for Sports Facility - MPLADS-SYN-0586,Municipal Council,"Ahmednagar, Maharashtra",1720000.0,2026-01-03,2026-01-27,Published,2,Not Awarded,,,
+TND-00587,MPLADS-SYN-0587,Tender for Drinking Water - MPLADS-SYN-0587,Public Works Department,"Pune, Maharashtra",510000.0,2026-03-21,2026-04-04,Under Evaluation,5,Not Awarded,,,
+TND-00588,MPLADS-SYN-0588,Tender for Drainage - MPLADS-SYN-0588,Education Department,"Kutch, Gujarat",1500000.0,2026-05-16,2026-05-27,Awarded,7,Awarded,CON-003,1536949.11,2026-06-08
+TND-00589,MPLADS-SYN-0589,Tender for Road - MPLADS-SYN-0589,Zilla Parishad,"Patna, Bihar",500000.0,2026-06-13,2026-07-03,Completed,5,Awarded,CON-005,492554.42,2026-07-18
+TND-00590,MPLADS-SYN-0590,Tender for Road - MPLADS-SYN-0590,Zilla Parishad,"Bengaluru Urban, Karnataka",1190000.0,2026-04-02,2026-04-20,Completed,2,Awarded,CON-002,1215624.51,2026-04-29
+TND-00591,MPLADS-SYN-0591,Tender for Drainage - MPLADS-SYN-0591,Rural Development Agency,"Kutch, Gujarat",2340000.0,2026-01-31,2026-02-14,Under Evaluation,3,Not Awarded,,,
+TND-00592,MPLADS-SYN-0592,Tender for Solar Lighting - MPLADS-SYN-0592,Rural Development Agency,"Udaipur, Rajasthan",1720000.0,2026-05-05,2026-05-25,Bidding Closed,2,Not Awarded,,,
+TND-00593,MPLADS-SYN-0593,Tender for Drainage - MPLADS-SYN-0593,Rural Development Agency,"Ahmednagar, Maharashtra",960000.0,2026-03-31,2026-04-16,Under Evaluation,4,Not Awarded,,,
+TND-00594,MPLADS-SYN-0594,Tender for Sports Facility - MPLADS-SYN-0594,Municipal Council,"Vadodara, Gujarat",1160000.0,2026-04-18,2026-05-01,Bidding Closed,3,Not Awarded,,,
+TND-00595,MPLADS-SYN-0595,Tender for Community Hall - MPLADS-SYN-0595,Municipal Council,"Rajkot, Gujarat",1300000.0,2026-02-14,2026-02-25,Published,4,Not Awarded,,,
+TND-00596,MPLADS-SYN-0596,Tender for Drinking Water - MPLADS-SYN-0596,Public Works Department,"Kutch, Gujarat",1940000.0,2026-05-31,2026-06-17,Awarded,5,Awarded,CON-006,1856616.77,2026-07-01
+TND-00597,MPLADS-SYN-0597,Tender for Drainage - MPLADS-SYN-0597,Education Department,"Vadodara, Gujarat",1360000.0,2026-04-12,2026-04-22,Completed,5,Awarded,CON-001,1310214.57,2026-05-04
+TND-00598,MPLADS-SYN-0598,Tender for Drinking Water - MPLADS-SYN-0598,Zilla Parishad,"Bhagalpur, Bihar",1150000.0,2026-01-22,2026-02-04,Awarded,3,Awarded,CON-006,1032950.69,2026-02-10
+TND-00599,MPLADS-SYN-0599,Tender for Solar Lighting - MPLADS-SYN-0599,Municipal Corporation,"Prayagraj, Uttar Pradesh",780000.0,2026-08-02,2026-08-18,Awarded,5,Awarded,CON-004,729952.05,2026-08-25
+TND-00600,MPLADS-SYN-0600,Tender for Community Hall - MPLADS-SYN-0600,Education Department,"Ujjain, Madhya Pradesh",2230000.0,2026-04-17,2026-05-05,Under Evaluation,2,Not Awarded,,,
+TND-00601,MPLADS-SYN-0601,Tender for Library - MPLADS-SYN-0601,Municipal Corporation,"Kanpur Nagar, Uttar Pradesh",1360000.0,2026-03-01,2026-03-17,Awarded,5,Awarded,CON-004,1361896.93,2026-03-24
+TND-00602,MPLADS-SYN-0602,Tender for Library - MPLADS-SYN-0602,Public Works Department,"Bengaluru Urban, Karnataka",360000.0,2026-02-09,2026-02-20,Completed,2,Awarded,CON-006,325871.42,2026-03-10
+TND-00603,MPLADS-SYN-0603,Tender for Sports Facility - MPLADS-SYN-0603,Public Works Department,"Varanasi, Uttar Pradesh",820000.0,2026-03-05,2026-03-30,Published,5,Not Awarded,,,
+TND-00604,MPLADS-SYN-0604,Tender for School Building - MPLADS-SYN-0604,Public Works Department,"Pune, Maharashtra",2690000.0,2026-01-05,2026-01-20,Published,3,Not Awarded,,,
+TND-00605,MPLADS-SYN-0605,Tender for Drainage - MPLADS-SYN-0605,Zilla Parishad,"Dharwad, Karnataka",1300000.0,2026-03-01,2026-03-19,Awarded,3,Awarded,CON-004,1150756.64,2026-03-31
+TND-00606,MPLADS-SYN-0606,Tender for Drainage - MPLADS-SYN-0606,Municipal Corporation,"Patna, Bihar",470000.0,2026-03-10,2026-04-04,Published,6,Not Awarded,,,
+TND-00607,MPLADS-SYN-0607,Tender for Community Hall - MPLADS-SYN-0607,Education Department,"Coimbatore, Tamil Nadu",3160000.0,2026-06-26,2026-07-08,Bidding Closed,5,Not Awarded,,,
+TND-00608,MPLADS-SYN-0608,Tender for Sports Facility - MPLADS-SYN-0608,Municipal Council,"Ujjain, Madhya Pradesh",1290000.0,2025-11-21,2025-12-07,Awarded,6,Awarded,CON-001,1183410.09,2025-12-12
+TND-00609,MPLADS-SYN-0609,Tender for Solar Lighting - MPLADS-SYN-0609,Municipal Corporation,"Bengaluru Urban, Karnataka",1210000.0,2026-02-06,2026-02-27,Bidding Closed,6,Not Awarded,,,
+TND-00610,MPLADS-SYN-0610,Tender for School Building - MPLADS-SYN-0610,Public Works Department,"Chennai, Tamil Nadu",1220000.0,2026-02-05,2026-02-25,Bidding Closed,4,Not Awarded,,,
+TND-00611,MPLADS-SYN-0611,Tender for Drinking Water - MPLADS-SYN-0611,Municipal Council,"Varanasi, Uttar Pradesh",690000.0,2026-03-18,2026-04-07,Awarded,3,Awarded,CON-004,610232.91,2026-04-20
+TND-00612,MPLADS-SYN-0612,Tender for Drinking Water - MPLADS-SYN-0612,District Health Office,"Madurai, Tamil Nadu",660000.0,2025-12-30,2026-01-20,Awarded,6,Awarded,CON-007,679760.97,2026-01-30
+TND-00613,MPLADS-SYN-0613,Tender for Sports Facility - MPLADS-SYN-0613,Municipal Corporation,"Vadodara, Gujarat",1830000.0,2025-12-21,2026-01-07,Awarded,6,Awarded,CON-001,1834470.28,2026-01-13
+TND-00614,MPLADS-SYN-0614,Tender for School Building - MPLADS-SYN-0614,District Health Office,"Mysuru, Karnataka",3850000.0,2026-01-04,2026-01-26,Awarded,3,Awarded,CON-007,3489697.96,2026-02-10
+TND-00615,MPLADS-SYN-0615,Tender for Community Hall - MPLADS-SYN-0615,Public Works Department,"Varanasi, Uttar Pradesh",1750000.0,2025-11-17,2025-12-08,Published,2,Not Awarded,,,
+TND-00616,MPLADS-SYN-0616,Tender for Library - MPLADS-SYN-0616,Municipal Corporation,"Varanasi, Uttar Pradesh",1710000.0,2025-12-08,2025-12-29,Published,6,Not Awarded,,,
+TND-00617,MPLADS-SYN-0617,Tender for Drainage - MPLADS-SYN-0617,Municipal Corporation,"Surat, Gujarat",2020000.0,2026-05-31,2026-06-16,Awarded,5,Awarded,CON-006,1941863.75,2026-06-26
+TND-00618,MPLADS-SYN-0618,Tender for Street Lighting - MPLADS-SYN-0618,Zilla Parishad,"Kanpur Nagar, Uttar Pradesh",1350000.0,2026-08-07,2026-08-19,Bidding Closed,3,Not Awarded,,,
+TND-00619,MPLADS-SYN-0619,Tender for Sports Facility - MPLADS-SYN-0619,Rural Development Agency,"Kota, Rajasthan",1390000.0,2026-06-17,2026-06-27,Under Evaluation,5,Not Awarded,,,
+TND-00620,MPLADS-SYN-0620,Tender for Community Hall - MPLADS-SYN-0620,Rural Development Agency,"Solapur, Maharashtra",3520000.0,2026-07-01,2026-07-17,Awarded,3,Awarded,CON-001,3277520.78,2026-07-27
+TND-00621,MPLADS-SYN-0621,Tender for Solar Lighting - MPLADS-SYN-0621,Education Department,"Ujjain, Madhya Pradesh",920000.0,2026-03-21,2026-03-31,Completed,6,Awarded,CON-005,906848.1,2026-04-09
+TND-00622,MPLADS-SYN-0622,Tender for Health Facility - MPLADS-SYN-0622,Zilla Parishad,"Vadodara, Gujarat",1000000.0,2026-01-02,2026-01-23,Awarded,4,Awarded,CON-003,985680.7,2026-02-09
+TND-00623,MPLADS-SYN-0623,Tender for School Building - MPLADS-SYN-0623,Zilla Parishad,"Varanasi, Uttar Pradesh",1880000.0,2025-12-27,2026-01-16,Under Evaluation,4,Not Awarded,,,
+TND-00624,MPLADS-SYN-0624,Tender for Sports Facility - MPLADS-SYN-0624,Municipal Council,"Dhule, Maharashtra",1180000.0,2026-01-28,2026-02-20,Awarded,7,Awarded,CON-004,1208437.19,2026-03-07
+TND-00625,MPLADS-SYN-0625,Tender for School Building - MPLADS-SYN-0625,District Health Office,"Bhagalpur, Bihar",4470000.0,2026-04-02,2026-04-23,Awarded,7,Awarded,CON-007,4328491.08,2026-05-03
+TND-00626,MPLADS-SYN-0626,Tender for Sports Facility - MPLADS-SYN-0626,Municipal Corporation,"Sagar, Madhya Pradesh",2040000.0,2025-12-12,2025-12-31,Bidding Closed,3,Not Awarded,,,
+TND-00627,MPLADS-SYN-0627,Tender for Drainage - MPLADS-SYN-0627,Public Works Department,"Prayagraj, Uttar Pradesh",1160000.0,2026-02-21,2026-03-15,Published,6,Not Awarded,,,
+TND-00628,MPLADS-SYN-0628,Tender for Health Facility - MPLADS-SYN-0628,Zilla Parishad,"Jaipur, Rajasthan",3470000.0,2026-06-12,2026-07-02,Awarded,6,Awarded,CON-002,3168575.98,2026-07-10
+TND-00629,MPLADS-SYN-0629,Tender for Library - MPLADS-SYN-0629,Public Works Department,"Indore, Madhya Pradesh",310000.0,2026-02-01,2026-02-21,Bidding Closed,2,Not Awarded,,,
+TND-00630,MPLADS-SYN-0630,Tender for Library - MPLADS-SYN-0630,Zilla Parishad,"Gaya, Bihar",550000.0,2026-07-18,2026-08-07,Awarded,7,Awarded,CON-002,557038.92,2026-08-14
+TND-00631,MPLADS-SYN-0631,Tender for Solar Lighting - MPLADS-SYN-0631,Rural Development Agency,"Jaipur, Rajasthan",1260000.0,2026-05-11,2026-05-31,Published,2,Not Awarded,,,
+TND-00632,MPLADS-SYN-0632,Tender for Health Facility - MPLADS-SYN-0632,Zilla Parishad,"Patna, Bihar",2480000.0,2026-04-05,2026-04-22,Completed,2,Awarded,CON-003,2312778.99,2026-04-30
+TND-00633,MPLADS-SYN-0633,Tender for Solar Lighting - MPLADS-SYN-0633,Municipal Council,"Hubballi, Karnataka",1390000.0,2025-12-27,2026-01-07,Published,5,Not Awarded,,,
+TND-00634,MPLADS-SYN-0634,Tender for Solar Lighting - MPLADS-SYN-0634,District Health Office,"Ahmedabad, Gujarat",790000.0,2025-12-03,2025-12-18,Published,5,Not Awarded,,,
+TND-00635,MPLADS-SYN-0635,Tender for Solar Lighting - MPLADS-SYN-0635,Municipal Council,"Gaya, Bihar",1160000.0,2026-05-11,2026-06-02,Bidding Closed,5,Not Awarded,,,
+TND-00636,MPLADS-SYN-0636,Tender for Road - MPLADS-SYN-0636,District Health Office,"Kanpur Nagar, Uttar Pradesh",2040000.0,2026-06-25,2026-07-12,Under Evaluation,5,Not Awarded,,,
+TND-00637,MPLADS-SYN-0637,Tender for Community Hall - MPLADS-SYN-0637,District Health Office,"Palghar, Maharashtra",1410000.0,2026-04-06,2026-04-25,Awarded,4,Awarded,CON-001,1296028.51,2026-05-03
+TND-00638,MPLADS-SYN-0638,Tender for Street Lighting - MPLADS-SYN-0638,Municipal Corporation,"Ahmednagar, Maharashtra",820000.0,2026-04-26,2026-05-11,Awarded,3,Awarded,CON-005,811634.17,2026-05-18
+TND-00639,MPLADS-SYN-0639,Tender for Community Hall - MPLADS-SYN-0639,Rural Development Agency,"Bhopal, Madhya Pradesh",2030000.0,2026-05-22,2026-06-16,Completed,2,Awarded,CON-004,1917737.96,2026-06-26
+TND-00640,MPLADS-SYN-0640,Tender for Street Lighting - MPLADS-SYN-0640,Rural Development Agency,"Jodhpur, Rajasthan",730000.0,2026-01-13,2026-01-28,Under Evaluation,2,Not Awarded,,,
+TND-00641,MPLADS-SYN-0641,Tender for Drainage - MPLADS-SYN-0641,Zilla Parishad,"Varanasi, Uttar Pradesh",930000.0,2026-01-19,2026-02-04,Completed,7,Awarded,CON-003,895698.68,2026-02-17
+TND-00642,MPLADS-SYN-0642,Tender for School Building - MPLADS-SYN-0642,Municipal Corporation,"Dharwad, Karnataka",2720000.0,2026-05-12,2026-05-31,Published,2,Not Awarded,,,
+TND-00643,MPLADS-SYN-0643,Tender for Drainage - MPLADS-SYN-0643,Zilla Parishad,"Udaipur, Rajasthan",1190000.0,2026-03-27,2026-04-21,Awarded,2,Awarded,CON-006,1111607.96,2026-05-09
+TND-00644,MPLADS-SYN-0644,Tender for School Building - MPLADS-SYN-0644,Education Department,"Ahmedabad, Gujarat",4910000.0,2026-06-17,2026-07-12,Awarded,2,Awarded,CON-001,4339754.34,2026-07-22
+TND-00645,MPLADS-SYN-0645,Tender for Drinking Water - MPLADS-SYN-0645,Rural Development Agency,"Palghar, Maharashtra",610000.0,2026-04-06,2026-04-18,Published,2,Not Awarded,,,
+TND-00646,MPLADS-SYN-0646,Tender for Library - MPLADS-SYN-0646,Municipal Council,"Bhagalpur, Bihar",1370000.0,2026-03-22,2026-04-16,Completed,7,Awarded,CON-002,1260058.4,2026-05-03
+TND-00647,MPLADS-SYN-0647,Tender for Drainage - MPLADS-SYN-0647,Municipal Corporation,"Belagavi, Karnataka",1020000.0,2026-05-14,2026-06-05,Awarded,3,Awarded,CON-006,965803.62,2026-06-18
+TND-00648,MPLADS-SYN-0648,Tender for Sports Facility - MPLADS-SYN-0648,Zilla Parishad,"Vadodara, Gujarat",850000.0,2026-06-26,2026-07-14,Bidding Closed,4,Not Awarded,,,
+TND-00649,MPLADS-SYN-0649,Tender for Street Lighting - MPLADS-SYN-0649,Municipal Corporation,"Jalgaon, Maharashtra",1430000.0,2026-06-18,2026-07-02,Under Evaluation,7,Not Awarded,,,
+TND-00650,MPLADS-SYN-0650,Tender for Drainage - MPLADS-SYN-0650,Education Department,"Gaya, Bihar",610000.0,2026-06-23,2026-07-05,Published,4,Not Awarded,,,
+TND-00651,MPLADS-SYN-0651,Tender for Sports Facility - MPLADS-SYN-0651,Education Department,"Surat, Gujarat",1260000.0,2026-01-03,2026-01-20,Under Evaluation,2,Not Awarded,,,
+TND-00652,MPLADS-SYN-0652,Tender for School Building - MPLADS-SYN-0652,Municipal Council,"Dharwad, Karnataka",2000000.0,2026-05-04,2026-05-27,Bidding Closed,7,Not Awarded,,,
+TND-00653,MPLADS-SYN-0653,Tender for Community Hall - MPLADS-SYN-0653,Rural Development Agency,"Belagavi, Karnataka",1080000.0,2025-12-31,2026-01-17,Bidding Closed,4,Not Awarded,,,
+TND-00654,MPLADS-SYN-0654,Tender for Library - MPLADS-SYN-0654,Municipal Corporation,"Kota, Rajasthan",1760000.0,2026-01-15,2026-01-26,Awarded,6,Awarded,CON-001,1786520.14,2026-02-04
+TND-00655,MPLADS-SYN-0655,Tender for Sports Facility - MPLADS-SYN-0655,Zilla Parishad,"Jalgaon, Maharashtra",2350000.0,2026-02-06,2026-02-21,Awarded,3,Awarded,CON-006,2352982.4,2026-03-02
+TND-00656,MPLADS-SYN-0656,Tender for Drinking Water - MPLADS-SYN-0656,Rural Development Agency,"Kanpur Nagar, Uttar Pradesh",1610000.0,2026-07-13,2026-07-25,Awarded,5,Awarded,CON-003,1465563.51,2026-08-03
+TND-00657,MPLADS-SYN-0657,Tender for Sports Facility - MPLADS-SYN-0657,District Health Office,"Coimbatore, Tamil Nadu",730000.0,2026-04-09,2026-04-29,Under Evaluation,2,Not Awarded,,,
+TND-00658,MPLADS-SYN-0658,Tender for Sports Facility - MPLADS-SYN-0658,Public Works Department,"Pune, Maharashtra",850000.0,2026-04-29,2026-05-21,Awarded,4,Awarded,CON-006,857219.58,2026-06-09
+TND-00659,MPLADS-SYN-0659,Tender for School Building - MPLADS-SYN-0659,Rural Development Agency,"Bengaluru Urban, Karnataka",4610000.0,2026-05-24,2026-06-16,Awarded,5,Awarded,CON-006,4160277.66,2026-06-24
+TND-00660,MPLADS-SYN-0660,Tender for School Building - MPLADS-SYN-0660,Rural Development Agency,"Bhopal, Madhya Pradesh",3020000.0,2025-11-13,2025-11-26,Awarded,4,Awarded,CON-005,3050566.3,2025-12-12
+TND-00661,MPLADS-SYN-0661,Tender for Road - MPLADS-SYN-0661,Rural Development Agency,"Dharwad, Karnataka",1380000.0,2026-02-10,2026-03-04,Bidding Closed,5,Not Awarded,,,
+TND-00662,MPLADS-SYN-0662,Tender for Drainage - MPLADS-SYN-0662,Rural Development Agency,"Bhagalpur, Bihar",1210000.0,2025-12-15,2026-01-09,Under Evaluation,3,Not Awarded,,,
+TND-00663,MPLADS-SYN-0663,Tender for Drinking Water - MPLADS-SYN-0663,Public Works Department,"Jabalpur, Madhya Pradesh",550000.0,2026-04-10,2026-04-24,Completed,6,Awarded,CON-007,540167.06,2026-05-11
+TND-00664,MPLADS-SYN-0664,Tender for Solar Lighting - MPLADS-SYN-0664,Public Works Department,"Salem, Tamil Nadu",690000.0,2025-12-10,2025-12-30,Awarded,3,Awarded,CON-002,612301.62,2026-01-19
+TND-00665,MPLADS-SYN-0665,Tender for Library - MPLADS-SYN-0665,Rural Development Agency,"Hubballi, Karnataka",640000.0,2026-05-08,2026-05-18,Completed,4,Awarded,CON-003,593051.13,2026-06-07
+TND-00666,MPLADS-SYN-0666,Tender for Drinking Water - MPLADS-SYN-0666,District Health Office,"Bengaluru Urban, Karnataka",1350000.0,2026-02-25,2026-03-10,Published,3,Not Awarded,,,
+TND-00667,MPLADS-SYN-0667,Tender for Road - MPLADS-SYN-0667,Public Works Department,"Rajkot, Gujarat",2900000.0,2026-04-15,2026-05-09,Awarded,4,Awarded,CON-006,2669197.69,2026-05-27
+TND-00668,MPLADS-SYN-0668,Tender for Road - MPLADS-SYN-0668,Municipal Corporation,"Ajmer, Rajasthan",690000.0,2025-11-25,2025-12-07,Under Evaluation,5,Not Awarded,,,
+TND-00669,MPLADS-SYN-0669,Tender for Community Hall - MPLADS-SYN-0669,Zilla Parishad,"Bengaluru Urban, Karnataka",3390000.0,2026-06-03,2026-06-28,Awarded,6,Awarded,CON-001,3424165.59,2026-07-04
+TND-00670,MPLADS-SYN-0670,Tender for Drinking Water - MPLADS-SYN-0670,Municipal Corporation,"Chennai, Tamil Nadu",1270000.0,2026-03-23,2026-04-04,Under Evaluation,7,Not Awarded,,,
+TND-00671,MPLADS-SYN-0671,Tender for Library - MPLADS-SYN-0671,Rural Development Agency,"Varanasi, Uttar Pradesh",1530000.0,2025-12-05,2025-12-19,Under Evaluation,6,Not Awarded,,,
+TND-00672,MPLADS-SYN-0672,Tender for Road - MPLADS-SYN-0672,Rural Development Agency,"Rajkot, Gujarat",1320000.0,2026-04-04,2026-04-19,Under Evaluation,3,Not Awarded,,,
+TND-00673,MPLADS-SYN-0673,Tender for Drainage - MPLADS-SYN-0673,Rural Development Agency,"Kanpur Nagar, Uttar Pradesh",830000.0,2025-12-06,2025-12-17,Awarded,2,Awarded,CON-001,844694.87,2025-12-28
+TND-00674,MPLADS-SYN-0674,Tender for Street Lighting - MPLADS-SYN-0674,Municipal Council,"Bhopal, Madhya Pradesh",320000.0,2025-12-29,2026-01-22,Completed,5,Awarded,CON-007,312099.67,2026-01-30
+TND-00675,MPLADS-SYN-0675,Tender for Sports Facility - MPLADS-SYN-0675,Rural Development Agency,"Varanasi, Uttar Pradesh",2370000.0,2026-05-22,2026-06-08,Published,5,Not Awarded,,,
+TND-00676,MPLADS-SYN-0676,Tender for Drainage - MPLADS-SYN-0676,Education Department,"Muzaffarpur, Bihar",690000.0,2026-04-05,2026-04-20,Under Evaluation,5,Not Awarded,,,
+TND-00677,MPLADS-SYN-0677,Tender for Drinking Water - MPLADS-SYN-0677,Municipal Council,"Agra, Uttar Pradesh",1050000.0,2026-04-02,2026-04-23,Under Evaluation,3,Not Awarded,,,
+TND-00678,MPLADS-SYN-0678,Tender for Health Facility - MPLADS-SYN-0678,District Health Office,"Kanpur Nagar, Uttar Pradesh",1940000.0,2026-01-24,2026-02-05,Completed,2,Awarded,CON-001,1819690.61,2026-02-15
+TND-00679,MPLADS-SYN-0679,Tender for Health Facility - MPLADS-SYN-0679,Public Works Department,"Jaipur, Rajasthan",3930000.0,2026-02-07,2026-02-24,Under Evaluation,3,Not Awarded,,,
+TND-00680,MPLADS-SYN-0680,Tender for Drainage - MPLADS-SYN-0680,Rural Development Agency,"Jabalpur, Madhya Pradesh",2440000.0,2026-06-20,2026-07-08,Published,5,Not Awarded,,,
+TND-00681,MPLADS-SYN-0681,Tender for Street Lighting - MPLADS-SYN-0681,Public Works Department,"Varanasi, Uttar Pradesh",490000.0,2026-03-22,2026-04-01,Under Evaluation,3,Not Awarded,,,
+TND-00682,MPLADS-SYN-0682,Tender for Street Lighting - MPLADS-SYN-0682,Zilla Parishad,"Ahmedabad, Gujarat",1230000.0,2026-07-16,2026-07-26,Published,4,Not Awarded,,,
+TND-00683,MPLADS-SYN-0683,Tender for Community Hall - MPLADS-SYN-0683,District Health Office,"Darbhanga, Bihar",1970000.0,2026-06-30,2026-07-18,Under Evaluation,5,Not Awarded,,,
+TND-00684,MPLADS-SYN-0684,Tender for Solar Lighting - MPLADS-SYN-0684,Municipal Corporation,"Udaipur, Rajasthan",1120000.0,2025-12-29,2026-01-16,Completed,5,Awarded,CON-004,1036360.38,2026-02-02
+TND-00685,MPLADS-SYN-0685,Tender for Community Hall - MPLADS-SYN-0685,Education Department,"Jaipur, Rajasthan",2330000.0,2026-08-03,2026-08-13,Under Evaluation,7,Not Awarded,,,
+TND-00686,MPLADS-SYN-0686,Tender for Solar Lighting - MPLADS-SYN-0686,Rural Development Agency,"Bengaluru Urban, Karnataka",410000.0,2026-04-27,2026-05-16,Completed,7,Awarded,CON-006,367448.43,2026-05-23
+TND-00687,MPLADS-SYN-0687,Tender for School Building - MPLADS-SYN-0687,Zilla Parishad,"Varanasi, Uttar Pradesh",2320000.0,2026-05-13,2026-06-02,Completed,4,Awarded,CON-002,2132479.12,2026-06-16
+TND-00688,MPLADS-SYN-0688,Tender for Street Lighting - MPLADS-SYN-0688,Zilla Parishad,"Kanpur Nagar, Uttar Pradesh",1390000.0,2026-03-20,2026-04-06,Awarded,6,Awarded,CON-001,1307454.52,2026-04-21
+TND-00689,MPLADS-SYN-0689,Tender for Health Facility - MPLADS-SYN-0689,Education Department,"Ajmer, Rajasthan",3800000.0,2026-05-15,2026-05-25,Published,5,Not Awarded,,,
+TND-00690,MPLADS-SYN-0690,Tender for Drinking Water - MPLADS-SYN-0690,Municipal Council,"Bhopal, Madhya Pradesh",880000.0,2026-05-03,2026-05-26,Completed,5,Awarded,CON-001,871648.64,2026-06-06
+TND-00691,MPLADS-SYN-0691,Tender for School Building - MPLADS-SYN-0691,Municipal Corporation,"Darbhanga, Bihar",4000000.0,2026-02-23,2026-03-12,Completed,6,Awarded,CON-001,3902988.15,2026-04-01
+TND-00692,MPLADS-SYN-0692,Tender for Street Lighting - MPLADS-SYN-0692,District Health Office,"Chennai, Tamil Nadu",590000.0,2026-06-10,2026-06-29,Published,3,Not Awarded,,,
+TND-00693,MPLADS-SYN-0693,Tender for Road - MPLADS-SYN-0693,Education Department,"Jalgaon, Maharashtra",2190000.0,2026-04-24,2026-05-09,Published,2,Not Awarded,,,
+TND-00694,MPLADS-SYN-0694,Tender for Street Lighting - MPLADS-SYN-0694,Municipal Corporation,"Chennai, Tamil Nadu",1080000.0,2026-03-22,2026-04-09,Bidding Closed,6,Not Awarded,,,
+TND-00695,MPLADS-SYN-0695,Tender for Drainage - MPLADS-SYN-0695,Rural Development Agency,"Tiruchirappalli, Tamil Nadu",1490000.0,2026-02-09,2026-03-01,Awarded,2,Awarded,CON-004,1360873.66,2026-03-13
+TND-00696,MPLADS-SYN-0696,Tender for Solar Lighting - MPLADS-SYN-0696,Municipal Council,"Solapur, Maharashtra",1650000.0,2026-07-10,2026-08-02,Published,4,Not Awarded,,,
+TND-00697,MPLADS-SYN-0697,Tender for Sports Facility - MPLADS-SYN-0697,Public Works Department,"Kanpur Nagar, Uttar Pradesh",1880000.0,2026-03-12,2026-03-31,Completed,2,Awarded,CON-005,1787091.31,2026-04-07
+TND-00698,MPLADS-SYN-0698,Tender for Sports Facility - MPLADS-SYN-0698,Rural Development Agency,"Lucknow, Uttar Pradesh",2350000.0,2026-02-08,2026-02-21,Bidding Closed,7,Not Awarded,,,
+TND-00699,MPLADS-SYN-0699,Tender for Road - MPLADS-SYN-0699,Zilla Parishad,"Kutch, Gujarat",2280000.0,2026-06-03,2026-06-22,Bidding Closed,2,Not Awarded,,,
+TND-00700,MPLADS-SYN-0700,Tender for Sports Facility - MPLADS-SYN-0700,District Health Office,"Ahmedabad, Gujarat",1920000.0,2025-12-19,2026-01-04,Awarded,5,Awarded,CON-004,1973911.18,2026-01-23
+TND-00701,MPLADS-SYN-0701,Tender for Road - MPLADS-SYN-0701,District Health Office,"Muzaffarpur, Bihar",1060000.0,2026-07-05,2026-07-20,Awarded,2,Awarded,CON-005,1010325.35,2026-07-30
+TND-00702,MPLADS-SYN-0702,Tender for Drinking Water - MPLADS-SYN-0702,Public Works Department,"Bhagalpur, Bihar",520000.0,2025-11-09,2025-11-20,Completed,5,Awarded,CON-005,478935.17,2025-11-30
+TND-00703,MPLADS-SYN-0703,Tender for Road - MPLADS-SYN-0703,Public Works Department,"Jodhpur, Rajasthan",1630000.0,2026-01-09,2026-02-03,Under Evaluation,2,Not Awarded,,,
+TND-00704,MPLADS-SYN-0704,Tender for Solar Lighting - MPLADS-SYN-0704,Municipal Council,"Dhule, Maharashtra",1740000.0,2026-05-28,2026-06-20,Awarded,5,Awarded,CON-003,1636485.7,2026-07-10
+TND-00705,MPLADS-SYN-0705,Tender for Road - MPLADS-SYN-0705,Municipal Corporation,"Nandurbar, Maharashtra",1430000.0,2026-02-01,2026-02-12,Bidding Closed,3,Not Awarded,,,
+TND-00706,MPLADS-SYN-0706,Tender for Road - MPLADS-SYN-0706,District Health Office,"Ujjain, Madhya Pradesh",510000.0,2025-12-28,2026-01-07,Published,6,Not Awarded,,,
+TND-00707,MPLADS-SYN-0707,Tender for Community Hall - MPLADS-SYN-0707,District Health Office,"Prayagraj, Uttar Pradesh",1800000.0,2026-03-18,2026-03-28,Awarded,7,Awarded,CON-003,1651182.24,2026-04-13
+TND-00708,MPLADS-SYN-0708,Tender for School Building - MPLADS-SYN-0708,Municipal Corporation,"Varanasi, Uttar Pradesh",4530000.0,2026-03-22,2026-04-04,Completed,6,Awarded,CON-007,4386401.73,2026-04-14
+TND-00709,MPLADS-SYN-0709,Tender for Community Hall - MPLADS-SYN-0709,Public Works Department,"Jabalpur, Madhya Pradesh",3940000.0,2026-04-22,2026-05-11,Awarded,5,Awarded,CON-004,3897348.66,2026-05-26
+TND-00710,MPLADS-SYN-0710,Tender for Library - MPLADS-SYN-0710,District Health Office,"Kanpur Nagar, Uttar Pradesh",730000.0,2026-01-25,2026-02-08,Bidding Closed,5,Not Awarded,,,
+TND-00711,MPLADS-SYN-0711,Tender for Sports Facility - MPLADS-SYN-0711,Education Department,"Jabalpur, Madhya Pradesh",1040000.0,2026-02-08,2026-02-23,Completed,5,Awarded,CON-001,918183.46,2026-03-07
+TND-00712,MPLADS-SYN-0712,Tender for Road - MPLADS-SYN-0712,Zilla Parishad,"Indore, Madhya Pradesh",1700000.0,2026-01-28,2026-02-13,Published,2,Not Awarded,,,
+TND-00713,MPLADS-SYN-0713,Tender for Community Hall - MPLADS-SYN-0713,Municipal Council,"Gaya, Bihar",2030000.0,2026-02-05,2026-02-20,Under Evaluation,4,Not Awarded,,,
+TND-00714,MPLADS-SYN-0714,Tender for Drinking Water - MPLADS-SYN-0714,Rural Development Agency,"Aurangabad, Maharashtra",300000.0,2026-03-14,2026-03-25,Published,7,Not Awarded,,,
+TND-00715,MPLADS-SYN-0715,Tender for Drainage - MPLADS-SYN-0715,District Health Office,"Jaipur, Rajasthan",810000.0,2026-04-18,2026-04-29,Completed,2,Awarded,CON-007,793229.34,2026-05-04
+TND-00716,MPLADS-SYN-0716,Tender for Road - MPLADS-SYN-0716,Zilla Parishad,"Ujjain, Madhya Pradesh",1060000.0,2026-06-11,2026-06-24,Awarded,5,Awarded,CON-005,993260.35,2026-07-07
+TND-00717,MPLADS-SYN-0717,Tender for Sports Facility - MPLADS-SYN-0717,Rural Development Agency,"Darbhanga, Bihar",870000.0,2026-03-27,2026-04-10,Bidding Closed,7,Not Awarded,,,
+TND-00718,MPLADS-SYN-0718,Tender for Library - MPLADS-SYN-0718,Municipal Council,"Jaipur, Rajasthan",1010000.0,2025-12-31,2026-01-10,Published,5,Not Awarded,,,
+TND-00719,MPLADS-SYN-0719,Tender for Drainage - MPLADS-SYN-0719,Education Department,"Belagavi, Karnataka",1580000.0,2026-04-19,2026-05-07,Published,6,Not Awarded,,,
+TND-00720,MPLADS-SYN-0720,Tender for School Building - MPLADS-SYN-0720,Zilla Parishad,"Agra, Uttar Pradesh",2930000.0,2026-04-14,2026-05-07,Published,2,Not Awarded,,,
+TND-00721,MPLADS-SYN-0721,Tender for Drinking Water - MPLADS-SYN-0721,Municipal Council,"Ahmednagar, Maharashtra",520000.0,2026-01-27,2026-02-09,Under Evaluation,2,Not Awarded,,,
+TND-00722,MPLADS-SYN-0722,Tender for Community Hall - MPLADS-SYN-0722,District Health Office,"Lucknow, Uttar Pradesh",1350000.0,2026-03-07,2026-03-23,Awarded,3,Awarded,CON-001,1345536.68,2026-04-03
+TND-00723,MPLADS-SYN-0723,Tender for Library - MPLADS-SYN-0723,Municipal Council,"Palghar, Maharashtra",1540000.0,2026-03-08,2026-03-31,Completed,3,Awarded,CON-004,1364302.72,2026-04-20
+TND-00724,MPLADS-SYN-0724,Tender for Library - MPLADS-SYN-0724,Municipal Council,"Nandurbar, Maharashtra",360000.0,2025-12-14,2026-01-08,Awarded,3,Awarded,CON-001,316947.85,2026-01-15
+TND-00725,MPLADS-SYN-0725,Tender for Health Facility - MPLADS-SYN-0725,District Health Office,"Indore, Madhya Pradesh",1010000.0,2026-01-13,2026-02-07,Awarded,2,Awarded,CON-007,1006898.22,2026-02-14
+TND-00726,MPLADS-SYN-0726,Tender for Health Facility - MPLADS-SYN-0726,Rural Development Agency,"Dharwad, Karnataka",860000.0,2026-07-02,2026-07-20,Published,3,Not Awarded,,,
+TND-00727,MPLADS-SYN-0727,Tender for Community Hall - MPLADS-SYN-0727,Zilla Parishad,"Solapur, Maharashtra",3420000.0,2026-02-08,2026-02-26,Bidding Closed,2,Not Awarded,,,
+TND-00728,MPLADS-SYN-0728,Tender for Street Lighting - MPLADS-SYN-0728,Zilla Parishad,"Kota, Rajasthan",410000.0,2025-12-08,2025-12-19,Awarded,4,Awarded,CON-005,382953.2,2026-01-03
+TND-00729,MPLADS-SYN-0729,Tender for Health Facility - MPLADS-SYN-0729,Zilla Parishad,"Darbhanga, Bihar",3110000.0,2026-04-22,2026-05-05,Bidding Closed,2,Not Awarded,,,
+TND-00730,MPLADS-SYN-0730,Tender for Solar Lighting - MPLADS-SYN-0730,District Health Office,"Tiruchirappalli, Tamil Nadu",1460000.0,2026-07-30,2026-08-14,Awarded,4,Awarded,CON-004,1480701.55,2026-08-27
+TND-00731,MPLADS-SYN-0731,Tender for Solar Lighting - MPLADS-SYN-0731,Education Department,"Agra, Uttar Pradesh",1390000.0,2026-02-04,2026-02-25,Published,4,Not Awarded,,,
+TND-00732,MPLADS-SYN-0732,Tender for Street Lighting - MPLADS-SYN-0732,Municipal Corporation,"Salem, Tamil Nadu",870000.0,2026-06-15,2026-07-07,Awarded,5,Awarded,CON-003,801074.22,2026-07-24
+TND-00733,MPLADS-SYN-0733,Tender for Library - MPLADS-SYN-0733,Municipal Council,"Tiruchirappalli, Tamil Nadu",640000.0,2026-04-26,2026-05-19,Published,3,Not Awarded,,,
+TND-00734,MPLADS-SYN-0734,Tender for Library - MPLADS-SYN-0734,Rural Development Agency,"Ujjain, Madhya Pradesh",1390000.0,2026-07-27,2026-08-07,Awarded,3,Awarded,CON-005,1244824.18,2026-08-27
+TND-00735,MPLADS-SYN-0735,Tender for Community Hall - MPLADS-SYN-0735,Municipal Council,"Pune, Maharashtra",2220000.0,2026-03-13,2026-04-06,Under Evaluation,6,Not Awarded,,,
+TND-00736,MPLADS-SYN-0736,Tender for Health Facility - MPLADS-SYN-0736,Education Department,"Kutch, Gujarat",4050000.0,2026-04-03,2026-04-13,Bidding Closed,7,Not Awarded,,,
+TND-00737,MPLADS-SYN-0737,Tender for Sports Facility - MPLADS-SYN-0737,Municipal Council,"Bengaluru Urban, Karnataka",370000.0,2026-02-16,2026-03-13,Published,2,Not Awarded,,,
+TND-00738,MPLADS-SYN-0738,Tender for Library - MPLADS-SYN-0738,District Health Office,"Mysuru, Karnataka",1530000.0,2026-01-30,2026-02-10,Bidding Closed,4,Not Awarded,,,
+TND-00739,MPLADS-SYN-0739,Tender for Community Hall - MPLADS-SYN-0739,District Health Office,"Salem, Tamil Nadu",1780000.0,2026-02-08,2026-02-18,Published,7,Not Awarded,,,
+TND-00740,MPLADS-SYN-0740,Tender for Road - MPLADS-SYN-0740,Education Department,"Bhagalpur, Bihar",1250000.0,2026-05-26,2026-06-12,Under Evaluation,4,Not Awarded,,,
+TND-00741,MPLADS-SYN-0741,Tender for Drinking Water - MPLADS-SYN-0741,Education Department,"Kanpur Nagar, Uttar Pradesh",1870000.0,2026-05-02,2026-05-15,Under Evaluation,7,Not Awarded,,,
+TND-00742,MPLADS-SYN-0742,Tender for Sports Facility - MPLADS-SYN-0742,Rural Development Agency,"Ahmedabad, Gujarat",2020000.0,2026-01-13,2026-02-07,Published,7,Not Awarded,,,
+TND-00743,MPLADS-SYN-0743,Tender for School Building - MPLADS-SYN-0743,Public Works Department,"Rajkot, Gujarat",2530000.0,2026-03-08,2026-03-30,Published,6,Not Awarded,,,
+TND-00744,MPLADS-SYN-0744,Tender for Drinking Water - MPLADS-SYN-0744,Education Department,"Dharwad, Karnataka",360000.0,2026-02-20,2026-03-02,Under Evaluation,3,Not Awarded,,,
+TND-00745,MPLADS-SYN-0745,Tender for Street Lighting - MPLADS-SYN-0745,Rural Development Agency,"Darbhanga, Bihar",420000.0,2026-02-19,2026-03-16,Under Evaluation,3,Not Awarded,,,
+TND-00746,MPLADS-SYN-0746,Tender for Road - MPLADS-SYN-0746,Public Works Department,"Hubballi, Karnataka",910000.0,2025-12-03,2025-12-23,Awarded,4,Awarded,CON-004,933224.8,2025-12-29
+TND-00747,MPLADS-SYN-0747,Tender for Drinking Water - MPLADS-SYN-0747,Zilla Parishad,"Bhopal, Madhya Pradesh",990000.0,2026-04-20,2026-05-12,Under Evaluation,3,Not Awarded,,,
+TND-00748,MPLADS-SYN-0748,Tender for Solar Lighting - MPLADS-SYN-0748,Education Department,"Ajmer, Rajasthan",1220000.0,2026-02-17,2026-03-13,Awarded,6,Awarded,CON-006,1155602.04,2026-04-02
+TND-00749,MPLADS-SYN-0749,Tender for Street Lighting - MPLADS-SYN-0749,Public Works Department,"Muzaffarpur, Bihar",690000.0,2026-02-01,2026-02-14,Bidding Closed,7,Not Awarded,,,
+TND-00750,MPLADS-SYN-0750,Tender for Library - MPLADS-SYN-0750,Zilla Parishad,"Ajmer, Rajasthan",800000.0,2026-03-20,2026-04-02,Published,5,Not Awarded,,,
+TND-00751,MPLADS-SYN-0751,Tender for Sports Facility - MPLADS-SYN-0751,Rural Development Agency,"Bengaluru Urban, Karnataka",560000.0,2026-03-20,2026-03-30,Awarded,2,Awarded,CON-003,559309.8,2026-04-13
+TND-00752,MPLADS-SYN-0752,Tender for Sports Facility - MPLADS-SYN-0752,Municipal Corporation,"Udaipur, Rajasthan",2220000.0,2026-02-25,2026-03-13,Under Evaluation,7,Not Awarded,,,
+TND-00753,MPLADS-SYN-0753,Tender for Health Facility - MPLADS-SYN-0753,Municipal Corporation,"Gaya, Bihar",3510000.0,2026-05-17,2026-06-07,Bidding Closed,2,Not Awarded,,,
+TND-00754,MPLADS-SYN-0754,Tender for Health Facility - MPLADS-SYN-0754,Education Department,"Hubballi, Karnataka",2990000.0,2026-03-22,2026-04-11,Awarded,6,Awarded,CON-004,2900278.09,2026-04-27
+TND-00755,MPLADS-SYN-0755,Tender for School Building - MPLADS-SYN-0755,Public Works Department,"Nashik, Maharashtra",3270000.0,2025-12-24,2026-01-06,Published,7,Not Awarded,,,
+TND-00756,MPLADS-SYN-0756,Tender for Road - MPLADS-SYN-0756,Rural Development Agency,"Surat, Gujarat",2850000.0,2026-05-29,2026-06-18,Awarded,7,Awarded,CON-004,2920295.4,2026-07-02
+TND-00757,MPLADS-SYN-0757,Tender for Street Lighting - MPLADS-SYN-0757,Education Department,"Muzaffarpur, Bihar",640000.0,2026-03-29,2026-04-19,Under Evaluation,2,Not Awarded,,,
+TND-00758,MPLADS-SYN-0758,Tender for Community Hall - MPLADS-SYN-0758,Rural Development Agency,"Thane, Maharashtra",1640000.0,2025-12-26,2026-01-20,Awarded,7,Awarded,CON-004,1625857.68,2026-02-07
+TND-00759,MPLADS-SYN-0759,Tender for Solar Lighting - MPLADS-SYN-0759,Public Works Department,"Prayagraj, Uttar Pradesh",820000.0,2026-07-25,2026-08-10,Awarded,2,Awarded,CON-001,836016.6,2026-08-27
+TND-00760,MPLADS-SYN-0760,Tender for Sports Facility - MPLADS-SYN-0760,Rural Development Agency,"Kutch, Gujarat",710000.0,2026-07-06,2026-07-22,Awarded,4,Awarded,CON-006,636277.05,2026-08-09
+TND-00761,MPLADS-SYN-0761,Tender for Drinking Water - MPLADS-SYN-0761,Municipal Corporation,"Nandurbar, Maharashtra",1150000.0,2026-04-11,2026-04-24,Awarded,5,Awarded,CON-007,1090899.41,2026-05-03
+TND-00762,MPLADS-SYN-0762,Tender for Community Hall - MPLADS-SYN-0762,Education Department,"Udaipur, Rajasthan",1750000.0,2026-03-20,2026-03-31,Bidding Closed,5,Not Awarded,,,
+TND-00763,MPLADS-SYN-0763,Tender for Library - MPLADS-SYN-0763,District Health Office,"Chennai, Tamil Nadu",1370000.0,2026-06-03,2026-06-18,Under Evaluation,6,Not Awarded,,,
+TND-00764,MPLADS-SYN-0764,Tender for Sports Facility - MPLADS-SYN-0764,Public Works Department,"Sagar, Madhya Pradesh",840000.0,2025-12-16,2025-12-29,Awarded,7,Awarded,CON-006,814868.8,2026-01-13
+TND-00765,MPLADS-SYN-0765,Tender for Solar Lighting - MPLADS-SYN-0765,Public Works Department,"Sagar, Madhya Pradesh",1160000.0,2026-01-16,2026-02-08,Under Evaluation,7,Not Awarded,,,
+TND-00766,MPLADS-SYN-0766,Tender for Health Facility - MPLADS-SYN-0766,Education Department,"Gaya, Bihar",4230000.0,2026-02-08,2026-03-02,Awarded,4,Awarded,CON-004,4009730.6,2026-03-11
+TND-00767,MPLADS-SYN-0767,Tender for Library - MPLADS-SYN-0767,Zilla Parishad,"Bengaluru Urban, Karnataka",1400000.0,2025-12-10,2025-12-29,Awarded,7,Awarded,CON-006,1347039.25,2026-01-13
+TND-00768,MPLADS-SYN-0768,Tender for Street Lighting - MPLADS-SYN-0768,Rural Development Agency,"Udaipur, Rajasthan",820000.0,2026-04-13,2026-04-29,Published,3,Not Awarded,,,
+TND-00769,MPLADS-SYN-0769,Tender for Drainage - MPLADS-SYN-0769,Municipal Corporation,"Aurangabad, Maharashtra",1190000.0,2026-03-14,2026-04-02,Under Evaluation,4,Not Awarded,,,
+TND-00770,MPLADS-SYN-0770,Tender for Drainage - MPLADS-SYN-0770,Zilla Parishad,"Jodhpur, Rajasthan",730000.0,2026-06-30,2026-07-15,Published,6,Not Awarded,,,
+TND-00771,MPLADS-SYN-0771,Tender for Drainage - MPLADS-SYN-0771,District Health Office,"Udaipur, Rajasthan",490000.0,2026-04-10,2026-04-30,Published,2,Not Awarded,,,
+TND-00772,MPLADS-SYN-0772,Tender for Community Hall - MPLADS-SYN-0772,Education Department,"Coimbatore, Tamil Nadu",1010000.0,2026-03-13,2026-04-07,Completed,6,Awarded,CON-001,1031615.06,2026-04-25
+TND-00773,MPLADS-SYN-0773,Tender for Drainage - MPLADS-SYN-0773,Rural Development Agency,"Rajkot, Gujarat",1650000.0,2026-01-14,2026-02-02,Published,5,Not Awarded,,,
+TND-00774,MPLADS-SYN-0774,Tender for Solar Lighting - MPLADS-SYN-0774,Municipal Corporation,"Lucknow, Uttar Pradesh",1280000.0,2025-11-23,2025-12-06,Awarded,5,Awarded,CON-001,1154302.73,2025-12-12
+TND-00775,MPLADS-SYN-0775,Tender for Community Hall - MPLADS-SYN-0775,Municipal Council,"Nandurbar, Maharashtra",3130000.0,2026-06-12,2026-06-27,Awarded,7,Awarded,CON-005,2872038.39,2026-07-03
+TND-00776,MPLADS-SYN-0776,Tender for Library - MPLADS-SYN-0776,Zilla Parishad,"Lucknow, Uttar Pradesh",1050000.0,2026-06-14,2026-06-30,Published,6,Not Awarded,,,
+TND-00777,MPLADS-SYN-0777,Tender for Street Lighting - MPLADS-SYN-0777,Zilla Parishad,"Bhagalpur, Bihar",310000.0,2026-05-10,2026-06-03,Awarded,6,Awarded,CON-007,313163.64,2026-06-15
+TND-00778,MPLADS-SYN-0778,Tender for Community Hall - MPLADS-SYN-0778,Municipal Council,"Kota, Rajasthan",2040000.0,2025-12-07,2025-12-29,Published,6,Not Awarded,,,
+TND-00779,MPLADS-SYN-0779,Tender for School Building - MPLADS-SYN-0779,Municipal Council,"Kutch, Gujarat",4340000.0,2025-12-20,2025-12-31,Published,5,Not Awarded,,,
+TND-00780,MPLADS-SYN-0780,Tender for Road - MPLADS-SYN-0780,Municipal Council,"Sagar, Madhya Pradesh",1340000.0,2026-02-10,2026-03-02,Bidding Closed,2,Not Awarded,,,
+TND-00781,MPLADS-SYN-0781,Tender for Street Lighting - MPLADS-SYN-0781,Municipal Corporation,"Vadodara, Gujarat",760000.0,2026-01-01,2026-01-17,Awarded,5,Awarded,CON-001,763418.12,2026-02-02
+TND-00782,MPLADS-SYN-0782,Tender for Road - MPLADS-SYN-0782,Public Works Department,"Ahmedabad, Gujarat",2410000.0,2026-03-20,2026-04-05,Under Evaluation,7,Not Awarded,,,
+TND-00783,MPLADS-SYN-0783,Tender for School Building - MPLADS-SYN-0783,Public Works Department,"Jodhpur, Rajasthan",1820000.0,2026-03-18,2026-04-11,Awarded,7,Awarded,CON-003,1621930.04,2026-04-21
+TND-00784,MPLADS-SYN-0784,Tender for Health Facility - MPLADS-SYN-0784,Rural Development Agency,"Ajmer, Rajasthan",3550000.0,2026-04-08,2026-04-21,Published,2,Not Awarded,,,
+TND-00785,MPLADS-SYN-0785,Tender for School Building - MPLADS-SYN-0785,Zilla Parishad,"Mysuru, Karnataka",1140000.0,2026-03-14,2026-04-01,Bidding Closed,3,Not Awarded,,,
+TND-00786,MPLADS-SYN-0786,Tender for Library - MPLADS-SYN-0786,Municipal Council,"Bhagalpur, Bihar",1230000.0,2026-05-18,2026-05-28,Under Evaluation,5,Not Awarded,,,
+TND-00787,MPLADS-SYN-0787,Tender for Street Lighting - MPLADS-SYN-0787,Municipal Council,"Dhule, Maharashtra",660000.0,2026-06-15,2026-06-26,Published,4,Not Awarded,,,
+TND-00788,MPLADS-SYN-0788,Tender for Community Hall - MPLADS-SYN-0788,Education Department,"Udaipur, Rajasthan",3010000.0,2026-02-12,2026-03-03,Under Evaluation,6,Not Awarded,,,
+TND-00789,MPLADS-SYN-0789,Tender for Sports Facility - MPLADS-SYN-0789,Municipal Council,"Kota, Rajasthan",1260000.0,2026-07-13,2026-07-25,Under Evaluation,7,Not Awarded,,,
+TND-00790,MPLADS-SYN-0790,Tender for Road - MPLADS-SYN-0790,Rural Development Agency,"Belagavi, Karnataka",2330000.0,2026-03-14,2026-03-31,Completed,6,Awarded,CON-007,2074227.68,2026-04-10
+TND-00791,MPLADS-SYN-0791,Tender for Library - MPLADS-SYN-0791,Zilla Parishad,"Bengaluru Urban, Karnataka",860000.0,2025-11-21,2025-12-13,Bidding Closed,4,Not Awarded,,,
+TND-00792,MPLADS-SYN-0792,Tender for Community Hall - MPLADS-SYN-0792,Zilla Parishad,"Tiruchirappalli, Tamil Nadu",1070000.0,2026-04-05,2026-04-25,Awarded,4,Awarded,CON-001,988718.68,2026-05-15
+TND-00793,MPLADS-SYN-0793,Tender for Road - MPLADS-SYN-0793,Public Works Department,"Ujjain, Madhya Pradesh",970000.0,2025-11-29,2025-12-09,Under Evaluation,7,Not Awarded,,,
+TND-00794,MPLADS-SYN-0794,Tender for School Building - MPLADS-SYN-0794,Rural Development Agency,"Varanasi, Uttar Pradesh",1150000.0,2026-03-20,2026-04-06,Completed,6,Awarded,CON-001,1170459.76,2026-04-18
+TND-00795,MPLADS-SYN-0795,Tender for School Building - MPLADS-SYN-0795,Education Department,"Mysuru, Karnataka",3190000.0,2026-04-27,2026-05-17,Awarded,2,Awarded,CON-005,2991841.63,2026-05-31
+TND-00796,MPLADS-SYN-0796,Tender for Street Lighting - MPLADS-SYN-0796,Public Works Department,"Varanasi, Uttar Pradesh",200000.0,2025-11-28,2025-12-19,Awarded,6,Awarded,CON-004,189366.71,2025-12-25
+TND-00797,MPLADS-SYN-0797,Tender for Library - MPLADS-SYN-0797,District Health Office,"Salem, Tamil Nadu",1440000.0,2026-01-12,2026-01-28,Completed,6,Awarded,CON-004,1284986.62,2026-02-05
+TND-00798,MPLADS-SYN-0798,Tender for School Building - MPLADS-SYN-0798,Public Works Department,"Bhagalpur, Bihar",4450000.0,2025-12-05,2025-12-15,Awarded,2,Awarded,CON-005,4056696.63,2025-12-26
+TND-00799,MPLADS-SYN-0799,Tender for Library - MPLADS-SYN-0799,Zilla Parishad,"Bhagalpur, Bihar",990000.0,2026-01-29,2026-02-11,Published,6,Not Awarded,,,
+TND-00800,MPLADS-SYN-0800,Tender for Solar Lighting - MPLADS-SYN-0800,Rural Development Agency,"Madurai, Tamil Nadu",810000.0,2025-11-25,2025-12-07,Published,7,Not Awarded,,,
+TND-00801,MPLADS-SYN-0801,Tender for Sports Facility - MPLADS-SYN-0801,Education Department,"Rajkot, Gujarat",1990000.0,2026-06-06,2026-06-30,Awarded,4,Awarded,CON-004,1762509.06,2026-07-07
+TND-00802,MPLADS-SYN-0802,Tender for Solar Lighting - MPLADS-SYN-0802,Public Works Department,"Lucknow, Uttar Pradesh",870000.0,2026-06-06,2026-06-24,Awarded,2,Awarded,CON-005,840632.58,2026-07-06
+TND-00803,MPLADS-SYN-0803,Tender for Road - MPLADS-SYN-0803,Rural Development Agency,"Ahmednagar, Maharashtra",2200000.0,2026-03-08,2026-03-30,Completed,7,Awarded,CON-004,2069467.85,2026-04-14
+TND-00804,MPLADS-SYN-0804,Tender for Health Facility - MPLADS-SYN-0804,District Health Office,"Darbhanga, Bihar",2880000.0,2026-05-09,2026-05-22,Awarded,2,Awarded,CON-004,2811494.63,2026-05-29
+TND-00805,MPLADS-SYN-0805,Tender for Solar Lighting - MPLADS-SYN-0805,Municipal Council,"Varanasi, Uttar Pradesh",1240000.0,2025-12-14,2025-12-25,Published,2,Not Awarded,,,
+TND-00806,MPLADS-SYN-0806,Tender for Drainage - MPLADS-SYN-0806,Zilla Parishad,"Bhagalpur, Bihar",2450000.0,2026-06-01,2026-06-14,Completed,7,Awarded,CON-001,2266746.39,2026-06-21
+TND-00807,MPLADS-SYN-0807,Tender for Drainage - MPLADS-SYN-0807,Education Department,"Chennai, Tamil Nadu",1440000.0,2025-12-27,2026-01-18,Completed,7,Awarded,CON-003,1273856.94,2026-01-28
+TND-00808,MPLADS-SYN-0808,Tender for Solar Lighting - MPLADS-SYN-0808,Municipal Council,"Varanasi, Uttar Pradesh",1780000.0,2026-02-15,2026-03-01,Under Evaluation,5,Not Awarded,,,
+TND-00809,MPLADS-SYN-0809,Tender for Community Hall - MPLADS-SYN-0809,Municipal Corporation,"Gaya, Bihar",1020000.0,2026-01-18,2026-02-01,Under Evaluation,7,Not Awarded,,,
+TND-00810,MPLADS-SYN-0810,Tender for Community Hall - MPLADS-SYN-0810,District Health Office,"Patna, Bihar",3120000.0,2025-12-07,2025-12-28,Published,6,Not Awarded,,,
+TND-00811,MPLADS-SYN-0811,Tender for Health Facility - MPLADS-SYN-0811,Municipal Council,"Chennai, Tamil Nadu",2490000.0,2025-12-22,2026-01-04,Under Evaluation,2,Not Awarded,,,
+TND-00812,MPLADS-SYN-0812,Tender for Health Facility - MPLADS-SYN-0812,Municipal Council,"Kota, Rajasthan",2660000.0,2026-02-20,2026-03-14,Under Evaluation,6,Not Awarded,,,
+TND-00813,MPLADS-SYN-0813,Tender for Solar Lighting - MPLADS-SYN-0813,District Health Office,"Bhagalpur, Bihar",1380000.0,2026-05-17,2026-06-02,Awarded,7,Awarded,CON-006,1401434.1,2026-06-18
+TND-00814,MPLADS-SYN-0814,Tender for Library - MPLADS-SYN-0814,Municipal Corporation,"Kota, Rajasthan",350000.0,2026-06-01,2026-06-15,Awarded,3,Awarded,CON-005,319591.37,2026-06-28
+TND-00815,MPLADS-SYN-0815,Tender for Drinking Water - MPLADS-SYN-0815,Zilla Parishad,"Nashik, Maharashtra",640000.0,2026-06-30,2026-07-15,Awarded,6,Awarded,CON-005,645016.11,2026-08-03
+TND-00816,MPLADS-SYN-0816,Tender for School Building - MPLADS-SYN-0816,Education Department,"Agra, Uttar Pradesh",4030000.0,2026-01-11,2026-01-23,Published,7,Not Awarded,,,
+TND-00817,MPLADS-SYN-0817,Tender for Library - MPLADS-SYN-0817,District Health Office,"Muzaffarpur, Bihar",1450000.0,2026-05-20,2026-06-02,Awarded,7,Awarded,CON-004,1402279.55,2026-06-17
+TND-00818,MPLADS-SYN-0818,Tender for Health Facility - MPLADS-SYN-0818,Municipal Corporation,"Jalgaon, Maharashtra",3510000.0,2026-07-20,2026-08-06,Completed,4,Awarded,CON-007,3414975.06,2026-08-17
+TND-00819,MPLADS-SYN-0819,Tender for Road - MPLADS-SYN-0819,Education Department,"Varanasi, Uttar Pradesh",2530000.0,2026-04-06,2026-04-30,Completed,6,Awarded,CON-003,2476650.74,2026-05-09
+TND-00820,MPLADS-SYN-0820,Tender for Solar Lighting - MPLADS-SYN-0820,Public Works Department,"Jodhpur, Rajasthan",500000.0,2026-05-25,2026-06-15,Under Evaluation,4,Not Awarded,,,
+TND-00821,MPLADS-SYN-0821,Tender for Library - MPLADS-SYN-0821,Zilla Parishad,"Kota, Rajasthan",1120000.0,2026-04-22,2026-05-02,Bidding Closed,3,Not Awarded,,,
+TND-00822,MPLADS-SYN-0822,Tender for Drinking Water - MPLADS-SYN-0822,Municipal Corporation,"Kota, Rajasthan",1000000.0,2025-11-21,2025-12-14,Awarded,4,Awarded,CON-002,900145.87,2025-12-29
+TND-00823,MPLADS-SYN-0823,Tender for Drainage - MPLADS-SYN-0823,Rural Development Agency,"Kutch, Gujarat",1090000.0,2026-03-09,2026-04-02,Bidding Closed,4,Not Awarded,,,
+TND-00824,MPLADS-SYN-0824,Tender for School Building - MPLADS-SYN-0824,Education Department,"Hubballi, Karnataka",2480000.0,2025-12-06,2025-12-19,Bidding Closed,7,Not Awarded,,,
+TND-00825,MPLADS-SYN-0825,Tender for Drainage - MPLADS-SYN-0825,Rural Development Agency,"Prayagraj, Uttar Pradesh",1990000.0,2026-02-03,2026-02-21,Under Evaluation,3,Not Awarded,,,
+TND-00826,MPLADS-SYN-0826,Tender for Community Hall - MPLADS-SYN-0826,Municipal Council,"Ahmednagar, Maharashtra",2080000.0,2026-06-19,2026-07-07,Under Evaluation,7,Not Awarded,,,
+TND-00827,MPLADS-SYN-0827,Tender for Road - MPLADS-SYN-0827,District Health Office,"Bengaluru Urban, Karnataka",1110000.0,2025-12-24,2026-01-03,Awarded,6,Awarded,CON-001,1081965.81,2026-01-20
+TND-00828,MPLADS-SYN-0828,Tender for Sports Facility - MPLADS-SYN-0828,Rural Development Agency,"Indore, Madhya Pradesh",1980000.0,2026-02-17,2026-02-28,Under Evaluation,4,Not Awarded,,,
+TND-00829,MPLADS-SYN-0829,Tender for Drainage - MPLADS-SYN-0829,Zilla Parishad,"Patna, Bihar",410000.0,2025-11-28,2025-12-23,Under Evaluation,3,Not Awarded,,,
+TND-00830,MPLADS-SYN-0830,Tender for Drainage - MPLADS-SYN-0830,Municipal Council,"Jaipur, Rajasthan",1960000.0,2026-03-25,2026-04-11,Completed,6,Awarded,CON-006,1940368.69,2026-04-25
+TND-00831,MPLADS-SYN-0831,Tender for Sports Facility - MPLADS-SYN-0831,Rural Development Agency,"Surat, Gujarat",500000.0,2026-02-27,2026-03-11,Awarded,4,Awarded,CON-004,477662.55,2026-03-23
+TND-00832,MPLADS-SYN-0832,Tender for Road - MPLADS-SYN-0832,Municipal Corporation,"Ahmedabad, Gujarat",830000.0,2026-01-11,2026-01-26,Under Evaluation,6,Not Awarded,,,
+TND-00833,MPLADS-SYN-0833,Tender for Health Facility - MPLADS-SYN-0833,Municipal Council,"Dhule, Maharashtra",800000.0,2026-03-22,2026-04-06,Awarded,6,Awarded,CON-001,817845.42,2026-04-15
+TND-00834,MPLADS-SYN-0834,Tender for Library - MPLADS-SYN-0834,Municipal Corporation,"Ajmer, Rajasthan",710000.0,2026-06-24,2026-07-15,Published,3,Not Awarded,,,
+TND-00835,MPLADS-SYN-0835,Tender for Solar Lighting - MPLADS-SYN-0835,Public Works Department,"Belagavi, Karnataka",730000.0,2026-02-14,2026-02-26,Bidding Closed,4,Not Awarded,,,
+TND-00836,MPLADS-SYN-0836,Tender for School Building - MPLADS-SYN-0836,District Health Office,"Indore, Madhya Pradesh",4900000.0,2025-12-29,2026-01-14,Awarded,4,Awarded,CON-004,4597248.44,2026-02-02
+TND-00837,MPLADS-SYN-0837,Tender for Sports Facility - MPLADS-SYN-0837,Municipal Corporation,"Pune, Maharashtra",1480000.0,2025-12-22,2026-01-11,Awarded,7,Awarded,CON-007,1517393.99,2026-01-24
+TND-00838,MPLADS-SYN-0838,Tender for School Building - MPLADS-SYN-0838,Zilla Parishad,"Jaipur, Rajasthan",3610000.0,2026-04-07,2026-04-22,Published,7,Not Awarded,,,
+TND-00839,MPLADS-SYN-0839,Tender for School Building - MPLADS-SYN-0839,Zilla Parishad,"Jaipur, Rajasthan",2720000.0,2025-12-28,2026-01-09,Bidding Closed,4,Not Awarded,,,
+TND-00840,MPLADS-SYN-0840,Tender for School Building - MPLADS-SYN-0840,Education Department,"Ujjain, Madhya Pradesh",3730000.0,2026-05-13,2026-06-04,Bidding Closed,4,Not Awarded,,,
+TND-00841,MPLADS-SYN-0841,Tender for Library - MPLADS-SYN-0841,Zilla Parishad,"Chennai, Tamil Nadu",1100000.0,2026-07-09,2026-07-19,Bidding Closed,3,Not Awarded,,,
+TND-00842,MPLADS-SYN-0842,Tender for Drainage - MPLADS-SYN-0842,Municipal Council,"Ajmer, Rajasthan",2060000.0,2026-06-06,2026-06-23,Bidding Closed,6,Not Awarded,,,
+TND-00843,MPLADS-SYN-0843,Tender for Drainage - MPLADS-SYN-0843,Education Department,"Jodhpur, Rajasthan",550000.0,2026-03-23,2026-04-08,Published,3,Not Awarded,,,
+TND-00844,MPLADS-SYN-0844,Tender for School Building - MPLADS-SYN-0844,Municipal Council,"Ujjain, Madhya Pradesh",3700000.0,2026-02-12,2026-02-25,Awarded,3,Awarded,CON-001,3486110.6,2026-03-12
+TND-00845,MPLADS-SYN-0845,Tender for Solar Lighting - MPLADS-SYN-0845,Rural Development Agency,"Belagavi, Karnataka",1160000.0,2026-02-21,2026-03-18,Published,5,Not Awarded,,,
+TND-00846,MPLADS-SYN-0846,Tender for Health Facility - MPLADS-SYN-0846,Rural Development Agency,"Agra, Uttar Pradesh",2550000.0,2026-07-06,2026-07-21,Bidding Closed,5,Not Awarded,,,
+TND-00847,MPLADS-SYN-0847,Tender for Drainage - MPLADS-SYN-0847,Public Works Department,"Ujjain, Madhya Pradesh",1950000.0,2025-12-18,2025-12-29,Awarded,6,Awarded,CON-006,1889261.69,2026-01-07
+TND-00848,MPLADS-SYN-0848,Tender for Road - MPLADS-SYN-0848,Municipal Council,"Nandurbar, Maharashtra",2760000.0,2025-12-30,2026-01-10,Published,3,Not Awarded,,,
+TND-00849,MPLADS-SYN-0849,Tender for Road - MPLADS-SYN-0849,Education Department,"Mysuru, Karnataka",1280000.0,2026-03-27,2026-04-14,Awarded,6,Awarded,CON-003,1310381.76,2026-04-19
+TND-00850,MPLADS-SYN-0850,Tender for Community Hall - MPLADS-SYN-0850,Municipal Council,"Prayagraj, Uttar Pradesh",2990000.0,2025-12-22,2026-01-10,Published,3,Not Awarded,,,
+TND-00851,MPLADS-SYN-0851,Tender for Drinking Water - MPLADS-SYN-0851,Municipal Council,"Bhopal, Madhya Pradesh",700000.0,2026-02-17,2026-03-14,Bidding Closed,5,Not Awarded,,,
+TND-00852,MPLADS-SYN-0852,Tender for Road - MPLADS-SYN-0852,District Health Office,"Aurangabad, Maharashtra",1010000.0,2026-04-04,2026-04-27,Awarded,3,Awarded,CON-002,1009184.33,2026-05-07
+TND-00853,MPLADS-SYN-0853,Tender for Drinking Water - MPLADS-SYN-0853,Zilla Parishad,"Rajkot, Gujarat",1580000.0,2026-06-18,2026-07-06,Under Evaluation,7,Not Awarded,,,
+TND-00854,MPLADS-SYN-0854,Tender for Solar Lighting - MPLADS-SYN-0854,Education Department,"Ajmer, Rajasthan",1590000.0,2026-01-27,2026-02-20,Published,6,Not Awarded,,,
+TND-00855,MPLADS-SYN-0855,Tender for Health Facility - MPLADS-SYN-0855,Public Works Department,"Salem, Tamil Nadu",2770000.0,2026-04-17,2026-05-09,Awarded,3,Awarded,CON-001,2482710.88,2026-05-20
+TND-00856,MPLADS-SYN-0856,Tender for Sports Facility - MPLADS-SYN-0856,Education Department,"Sagar, Madhya Pradesh",1490000.0,2026-03-05,2026-03-28,Under Evaluation,3,Not Awarded,,,
+TND-00857,MPLADS-SYN-0857,Tender for Sports Facility - MPLADS-SYN-0857,District Health Office,"Madurai, Tamil Nadu",1660000.0,2026-07-21,2026-08-05,Under Evaluation,6,Not Awarded,,,
+TND-00858,MPLADS-SYN-0858,Tender for Health Facility - MPLADS-SYN-0858,Municipal Corporation,"Tiruchirappalli, Tamil Nadu",4200000.0,2026-08-04,2026-08-17,Under Evaluation,5,Not Awarded,,,
+TND-00859,MPLADS-SYN-0859,Tender for Road - MPLADS-SYN-0859,Zilla Parishad,"Pune, Maharashtra",830000.0,2026-07-11,2026-07-21,Published,7,Not Awarded,,,
+TND-00860,MPLADS-SYN-0860,Tender for Drainage - MPLADS-SYN-0860,Municipal Corporation,"Rajkot, Gujarat",1480000.0,2026-03-09,2026-04-01,Published,2,Not Awarded,,,
+TND-00861,MPLADS-SYN-0861,Tender for Solar Lighting - MPLADS-SYN-0861,Zilla Parishad,"Solapur, Maharashtra",1800000.0,2025-11-18,2025-12-11,Published,5,Not Awarded,,,
+TND-00862,MPLADS-SYN-0862,Tender for School Building - MPLADS-SYN-0862,Education Department,"Prayagraj, Uttar Pradesh",2730000.0,2026-03-13,2026-03-26,Bidding Closed,3,Not Awarded,,,
+TND-00863,MPLADS-SYN-0863,Tender for Solar Lighting - MPLADS-SYN-0863,Municipal Council,"Sagar, Madhya Pradesh",360000.0,2026-01-09,2026-01-26,Completed,2,Awarded,CON-001,332096.4,2026-02-13
+TND-00864,MPLADS-SYN-0864,Tender for Road - MPLADS-SYN-0864,District Health Office,"Indore, Madhya Pradesh",2110000.0,2026-02-07,2026-02-17,Completed,7,Awarded,CON-006,2106652.22,2026-02-25
+TND-00865,MPLADS-SYN-0865,Tender for Community Hall - MPLADS-SYN-0865,Municipal Corporation,"Rajkot, Gujarat",3630000.0,2026-08-06,2026-08-28,Under Evaluation,3,Not Awarded,,,
+TND-00866,MPLADS-SYN-0866,Tender for Health Facility - MPLADS-SYN-0866,Municipal Council,"Tiruchirappalli, Tamil Nadu",2470000.0,2025-11-28,2025-12-21,Published,2,Not Awarded,,,
+TND-00867,MPLADS-SYN-0867,Tender for Community Hall - MPLADS-SYN-0867,Education Department,"Jaipur, Rajasthan",3960000.0,2025-12-07,2025-12-25,Awarded,6,Awarded,CON-007,3736395.56,2026-01-10
+TND-00868,MPLADS-SYN-0868,Tender for Street Lighting - MPLADS-SYN-0868,District Health Office,"Jabalpur, Madhya Pradesh",1220000.0,2026-06-11,2026-07-03,Under Evaluation,3,Not Awarded,,,
+TND-00869,MPLADS-SYN-0869,Tender for Drinking Water - MPLADS-SYN-0869,Municipal Council,"Ujjain, Madhya Pradesh",1910000.0,2026-05-29,2026-06-23,Bidding Closed,4,Not Awarded,,,
+TND-00870,MPLADS-SYN-0870,Tender for Street Lighting - MPLADS-SYN-0870,Public Works Department,"Jabalpur, Madhya Pradesh",850000.0,2026-03-03,2026-03-28,Under Evaluation,4,Not Awarded,,,
+TND-00871,MPLADS-SYN-0871,Tender for Sports Facility - MPLADS-SYN-0871,Rural Development Agency,"Ajmer, Rajasthan",2360000.0,2026-01-28,2026-02-19,Under Evaluation,3,Not Awarded,,,
+TND-00872,MPLADS-SYN-0872,Tender for Drainage - MPLADS-SYN-0872,District Health Office,"Bhagalpur, Bihar",1420000.0,2025-12-10,2025-12-27,Published,7,Not Awarded,,,
+TND-00873,MPLADS-SYN-0873,Tender for Street Lighting - MPLADS-SYN-0873,Education Department,"Bhopal, Madhya Pradesh",330000.0,2026-04-01,2026-04-17,Awarded,5,Awarded,CON-001,329311.02,2026-04-23
+TND-00874,MPLADS-SYN-0874,Tender for Solar Lighting - MPLADS-SYN-0874,Rural Development Agency,"Prayagraj, Uttar Pradesh",1130000.0,2026-02-06,2026-02-16,Awarded,2,Awarded,CON-007,1133941.8,2026-03-08
+TND-00875,MPLADS-SYN-0875,Tender for Road - MPLADS-SYN-0875,Public Works Department,"Coimbatore, Tamil Nadu",1220000.0,2025-12-01,2025-12-13,Under Evaluation,4,Not Awarded,,,
+TND-00876,MPLADS-SYN-0876,Tender for Library - MPLADS-SYN-0876,Municipal Council,"Pune, Maharashtra",710000.0,2026-07-14,2026-07-26,Awarded,2,Awarded,CON-006,701958.69,2026-08-12
+TND-00877,MPLADS-SYN-0877,Tender for School Building - MPLADS-SYN-0877,Education Department,"Patna, Bihar",3350000.0,2026-05-14,2026-06-02,Under Evaluation,6,Not Awarded,,,
+TND-00878,MPLADS-SYN-0878,Tender for Library - MPLADS-SYN-0878,Municipal Corporation,"Pune, Maharashtra",390000.0,2026-01-20,2026-02-14,Awarded,2,Awarded,CON-003,354999.87,2026-02-28
+TND-00879,MPLADS-SYN-0879,Tender for Drainage - MPLADS-SYN-0879,Zilla Parishad,"Jodhpur, Rajasthan",2190000.0,2025-12-20,2026-01-06,Awarded,3,Awarded,CON-003,2148617.01,2026-01-22
+TND-00880,MPLADS-SYN-0880,Tender for Drinking Water - MPLADS-SYN-0880,Rural Development Agency,"Ujjain, Madhya Pradesh",1150000.0,2026-02-11,2026-02-21,Awarded,2,Awarded,CON-001,1183950.96,2026-03-10
+TND-00881,MPLADS-SYN-0881,Tender for Street Lighting - MPLADS-SYN-0881,Municipal Corporation,"Mysuru, Karnataka",940000.0,2025-12-08,2025-12-30,Completed,6,Awarded,CON-006,855443.76,2026-01-04
+TND-00882,MPLADS-SYN-0882,Tender for Street Lighting - MPLADS-SYN-0882,Public Works Department,"Gaya, Bihar",1320000.0,2026-04-08,2026-04-20,Published,6,Not Awarded,,,
+TND-00883,MPLADS-SYN-0883,Tender for Health Facility - MPLADS-SYN-0883,District Health Office,"Jabalpur, Madhya Pradesh",2330000.0,2026-03-05,2026-03-26,Completed,4,Awarded,CON-005,2129490.28,2026-04-06
+TND-00884,MPLADS-SYN-0884,Tender for Street Lighting - MPLADS-SYN-0884,Municipal Corporation,"Lucknow, Uttar Pradesh",1320000.0,2025-11-25,2025-12-05,Bidding Closed,3,Not Awarded,,,
+TND-00885,MPLADS-SYN-0885,Tender for Street Lighting - MPLADS-SYN-0885,Zilla Parishad,"Darbhanga, Bihar",610000.0,2025-12-05,2025-12-18,Bidding Closed,2,Not Awarded,,,
+TND-00886,MPLADS-SYN-0886,Tender for Road - MPLADS-SYN-0886,Municipal Council,"Bhagalpur, Bihar",1700000.0,2025-12-31,2026-01-20,Under Evaluation,6,Not Awarded,,,
+TND-00887,MPLADS-SYN-0887,Tender for Sports Facility - MPLADS-SYN-0887,Municipal Corporation,"Bengaluru Urban, Karnataka",350000.0,2026-01-19,2026-02-06,Completed,5,Awarded,CON-005,358717.91,2026-02-26
+TND-00888,MPLADS-SYN-0888,Tender for Community Hall - MPLADS-SYN-0888,District Health Office,"Coimbatore, Tamil Nadu",3250000.0,2026-02-12,2026-03-08,Awarded,5,Awarded,CON-005,3297055.36,2026-03-13
+TND-00889,MPLADS-SYN-0889,Tender for Drinking Water - MPLADS-SYN-0889,Municipal Council,"Chennai, Tamil Nadu",1850000.0,2026-07-01,2026-07-19,Bidding Closed,5,Not Awarded,,,
+TND-00890,MPLADS-SYN-0890,Tender for School Building - MPLADS-SYN-0890,Education Department,"Kutch, Gujarat",3460000.0,2026-06-03,2026-06-20,Published,4,Not Awarded,,,
+TND-00891,MPLADS-SYN-0891,Tender for Drinking Water - MPLADS-SYN-0891,Municipal Corporation,"Bhagalpur, Bihar",1360000.0,2026-07-07,2026-07-17,Bidding Closed,4,Not Awarded,,,
+TND-00892,MPLADS-SYN-0892,Tender for Road - MPLADS-SYN-0892,Municipal Council,"Madurai, Tamil Nadu",1680000.0,2026-06-06,2026-06-18,Awarded,7,Awarded,CON-006,1667094.61,2026-07-03
+TND-00893,MPLADS-SYN-0893,Tender for Community Hall - MPLADS-SYN-0893,Rural Development Agency,"Bhopal, Madhya Pradesh",1970000.0,2026-04-28,2026-05-13,Awarded,4,Awarded,CON-007,1838070.46,2026-05-26
+TND-00894,MPLADS-SYN-0894,Tender for Sports Facility - MPLADS-SYN-0894,Education Department,"Pune, Maharashtra",1800000.0,2026-06-23,2026-07-09,Awarded,7,Awarded,CON-003,1637909.97,2026-07-21
+TND-00895,MPLADS-SYN-0895,Tender for School Building - MPLADS-SYN-0895,Public Works Department,"Aurangabad, Maharashtra",3110000.0,2026-04-03,2026-04-20,Completed,3,Awarded,CON-005,3126950.14,2026-05-06
+TND-00896,MPLADS-SYN-0896,Tender for Solar Lighting - MPLADS-SYN-0896,District Health Office,"Bengaluru Urban, Karnataka",860000.0,2026-03-23,2026-04-05,Awarded,7,Awarded,CON-006,880095.58,2026-04-25
+TND-00897,MPLADS-SYN-0897,Tender for Library - MPLADS-SYN-0897,Public Works Department,"Agra, Uttar Pradesh",1710000.0,2026-08-04,2026-08-15,Under Evaluation,5,Not Awarded,,,
+TND-00898,MPLADS-SYN-0898,Tender for School Building - MPLADS-SYN-0898,District Health Office,"Kutch, Gujarat",3920000.0,2026-05-15,2026-06-04,Completed,6,Awarded,CON-004,3960436.08,2026-06-24
+TND-00899,MPLADS-SYN-0899,Tender for Drinking Water - MPLADS-SYN-0899,Education Department,"Jaipur, Rajasthan",620000.0,2026-02-04,2026-02-22,Awarded,3,Awarded,CON-003,615365.75,2026-03-03
+TND-00900,MPLADS-SYN-0900,Tender for Road - MPLADS-SYN-0900,Municipal Council,"Darbhanga, Bihar",2570000.0,2026-05-27,2026-06-19,Awarded,6,Awarded,CON-006,2274152.9,2026-07-05
+TND-00901,MPLADS-SYN-0901,Tender for Drinking Water - MPLADS-SYN-0901,Education Department,"Chennai, Tamil Nadu",430000.0,2026-06-21,2026-07-06,Bidding Closed,2,Not Awarded,,,
+TND-00902,MPLADS-SYN-0902,Tender for School Building - MPLADS-SYN-0902,Education Department,"Ujjain, Madhya Pradesh",3900000.0,2026-04-05,2026-04-29,Published,7,Not Awarded,,,
+TND-00903,MPLADS-SYN-0903,Tender for Drinking Water - MPLADS-SYN-0903,Municipal Council,"Darbhanga, Bihar",660000.0,2026-06-10,2026-06-26,Awarded,6,Awarded,CON-002,590774.03,2026-07-12
+TND-00904,MPLADS-SYN-0904,Tender for Drinking Water - MPLADS-SYN-0904,Zilla Parishad,"Hubballi, Karnataka",1260000.0,2026-07-01,2026-07-16,Under Evaluation,4,Not Awarded,,,
+TND-00905,MPLADS-SYN-0905,Tender for Sports Facility - MPLADS-SYN-0905,Municipal Council,"Jalgaon, Maharashtra",1580000.0,2026-01-01,2026-01-26,Awarded,4,Awarded,CON-003,1477124.02,2026-02-15
+TND-00906,MPLADS-SYN-0906,Tender for Library - MPLADS-SYN-0906,Education Department,"Nashik, Maharashtra",830000.0,2026-05-12,2026-06-04,Bidding Closed,4,Not Awarded,,,
+TND-00907,MPLADS-SYN-0907,Tender for Library - MPLADS-SYN-0907,Public Works Department,"Tiruchirappalli, Tamil Nadu",1800000.0,2026-03-16,2026-04-03,Completed,3,Awarded,CON-007,1738280.62,2026-04-15
+TND-00908,MPLADS-SYN-0908,Tender for Health Facility - MPLADS-SYN-0908,Municipal Corporation,"Ujjain, Madhya Pradesh",2040000.0,2025-12-15,2026-01-01,Awarded,5,Awarded,CON-003,2057230.47,2026-01-12
+TND-00909,MPLADS-SYN-0909,Tender for Road - MPLADS-SYN-0909,District Health Office,"Udaipur, Rajasthan",1460000.0,2026-07-11,2026-08-05,Awarded,2,Awarded,CON-002,1323476.99,2026-08-25
+TND-00910,MPLADS-SYN-0910,Tender for Health Facility - MPLADS-SYN-0910,Public Works Department,"Coimbatore, Tamil Nadu",4150000.0,2025-11-29,2025-12-19,Awarded,5,Awarded,CON-002,3838771.28,2025-12-25
+TND-00911,MPLADS-SYN-0911,Tender for Health Facility - MPLADS-SYN-0911,Municipal Council,"Belagavi, Karnataka",1830000.0,2026-04-04,2026-04-19,Bidding Closed,3,Not Awarded,,,
+TND-00912,MPLADS-SYN-0912,Tender for Library - MPLADS-SYN-0912,Zilla Parishad,"Muzaffarpur, Bihar",1360000.0,2026-01-21,2026-02-03,Completed,7,Awarded,CON-006,1265069.93,2026-02-19
+TND-00913,MPLADS-SYN-0913,Tender for Drainage - MPLADS-SYN-0913,Municipal Council,"Belagavi, Karnataka",1110000.0,2026-01-20,2026-02-07,Completed,2,Awarded,CON-005,1045358.19,2026-02-23
+TND-00914,MPLADS-SYN-0914,Tender for Drainage - MPLADS-SYN-0914,Zilla Parishad,"Agra, Uttar Pradesh",1380000.0,2026-02-16,2026-03-04,Published,6,Not Awarded,,,
+TND-00915,MPLADS-SYN-0915,Tender for School Building - MPLADS-SYN-0915,Municipal Council,"Hubballi, Karnataka",4230000.0,2026-02-12,2026-02-27,Published,4,Not Awarded,,,
+TND-00916,MPLADS-SYN-0916,Tender for Road - MPLADS-SYN-0916,Municipal Corporation,"Ujjain, Madhya Pradesh",1250000.0,2025-12-17,2026-01-11,Completed,7,Awarded,CON-006,1183799.4,2026-01-18
+TND-00917,MPLADS-SYN-0917,Tender for Road - MPLADS-SYN-0917,Zilla Parishad,"Ahmedabad, Gujarat",2250000.0,2026-01-25,2026-02-13,Bidding Closed,7,Not Awarded,,,
+TND-00918,MPLADS-SYN-0918,Tender for Road - MPLADS-SYN-0918,Zilla Parishad,"Indore, Madhya Pradesh",2600000.0,2026-01-18,2026-02-07,Awarded,7,Awarded,CON-007,2526800.95,2026-02-24
+TND-00919,MPLADS-SYN-0919,Tender for Drinking Water - MPLADS-SYN-0919,Rural Development Agency,"Jaipur, Rajasthan",730000.0,2026-02-24,2026-03-11,Awarded,3,Awarded,CON-005,676726.29,2026-03-25
+TND-00920,MPLADS-SYN-0920,Tender for Sports Facility - MPLADS-SYN-0920,Education Department,"Dhule, Maharashtra",2480000.0,2026-01-10,2026-02-01,Published,5,Not Awarded,,,
+TND-00921,MPLADS-SYN-0921,Tender for Street Lighting - MPLADS-SYN-0921,Municipal Council,"Udaipur, Rajasthan",910000.0,2026-05-22,2026-06-15,Completed,3,Awarded,CON-006,825900.47,2026-06-20
+TND-00922,MPLADS-SYN-0922,Tender for Library - MPLADS-SYN-0922,Public Works Department,"Salem, Tamil Nadu",1250000.0,2026-06-14,2026-07-02,Awarded,7,Awarded,CON-003,1240576.2,2026-07-13
+TND-00923,MPLADS-SYN-0923,Tender for Solar Lighting - MPLADS-SYN-0923,Zilla Parishad,"Jodhpur, Rajasthan",1680000.0,2026-03-01,2026-03-14,Awarded,2,Awarded,CON-002,1714472.0,2026-04-03
+TND-00924,MPLADS-SYN-0924,Tender for Drinking Water - MPLADS-SYN-0924,District Health Office,"Salem, Tamil Nadu",1320000.0,2026-01-15,2026-01-25,Under Evaluation,5,Not Awarded,,,
+TND-00925,MPLADS-SYN-0925,Tender for Health Facility - MPLADS-SYN-0925,Municipal Council,"Surat, Gujarat",2470000.0,2026-02-26,2026-03-11,Under Evaluation,6,Not Awarded,,,
+TND-00926,MPLADS-SYN-0926,Tender for Street Lighting - MPLADS-SYN-0926,Zilla Parishad,"Agra, Uttar Pradesh",850000.0,2026-01-20,2026-02-11,Awarded,3,Awarded,CON-001,779543.06,2026-02-25
+TND-00927,MPLADS-SYN-0927,Tender for Street Lighting - MPLADS-SYN-0927,Public Works Department,"Varanasi, Uttar Pradesh",1340000.0,2026-04-23,2026-05-07,Bidding Closed,6,Not Awarded,,,
+TND-00928,MPLADS-SYN-0928,Tender for Street Lighting - MPLADS-SYN-0928,Education Department,"Nashik, Maharashtra",500000.0,2026-01-29,2026-02-09,Awarded,4,Awarded,CON-006,504527.66,2026-02-24
+TND-00929,MPLADS-SYN-0929,Tender for Drinking Water - MPLADS-SYN-0929,Public Works Department,"Madurai, Tamil Nadu",480000.0,2026-03-06,2026-03-24,Bidding Closed,5,Not Awarded,,,
+TND-00930,MPLADS-SYN-0930,Tender for Library - MPLADS-SYN-0930,Municipal Corporation,"Prayagraj, Uttar Pradesh",1410000.0,2026-04-12,2026-04-27,Awarded,6,Awarded,CON-001,1337358.93,2026-05-15
+TND-00931,MPLADS-SYN-0931,Tender for Drainage - MPLADS-SYN-0931,Zilla Parishad,"Varanasi, Uttar Pradesh",1250000.0,2026-01-18,2026-02-06,Under Evaluation,5,Not Awarded,,,
+TND-00932,MPLADS-SYN-0932,Tender for School Building - MPLADS-SYN-0932,Zilla Parishad,"Muzaffarpur, Bihar",3990000.0,2026-04-20,2026-05-02,Under Evaluation,4,Not Awarded,,,
+TND-00933,MPLADS-SYN-0933,Tender for School Building - MPLADS-SYN-0933,Rural Development Agency,"Ahmedabad, Gujarat",2380000.0,2025-12-27,2026-01-14,Completed,4,Awarded,CON-004,2098168.43,2026-01-23
+TND-00934,MPLADS-SYN-0934,Tender for Drainage - MPLADS-SYN-0934,District Health Office,"Ahmedabad, Gujarat",1360000.0,2026-03-09,2026-04-03,Completed,2,Awarded,CON-005,1337105.07,2026-04-23
+TND-00935,MPLADS-SYN-0935,Tender for Road - MPLADS-SYN-0935,Public Works Department,"Kanpur Nagar, Uttar Pradesh",1670000.0,2026-04-16,2026-04-26,Bidding Closed,5,Not Awarded,,,
+TND-00936,MPLADS-SYN-0936,Tender for School Building - MPLADS-SYN-0936,District Health Office,"Varanasi, Uttar Pradesh",3030000.0,2025-11-25,2025-12-12,Completed,2,Awarded,CON-007,2915562.44,2025-12-23
+TND-00937,MPLADS-SYN-0937,Tender for Road - MPLADS-SYN-0937,Municipal Council,"Kota, Rajasthan",1820000.0,2026-04-01,2026-04-24,Bidding Closed,3,Not Awarded,,,
+TND-00938,MPLADS-SYN-0938,Tender for Sports Facility - MPLADS-SYN-0938,Zilla Parishad,"Salem, Tamil Nadu",2400000.0,2025-11-07,2025-11-29,Awarded,5,Awarded,CON-005,2191413.27,2025-12-06
+TND-00939,MPLADS-SYN-0939,Tender for Solar Lighting - MPLADS-SYN-0939,Municipal Corporation,"Prayagraj, Uttar Pradesh",370000.0,2026-05-27,2026-06-13,Bidding Closed,6,Not Awarded,,,
+TND-00940,MPLADS-SYN-0940,Tender for Library - MPLADS-SYN-0940,Municipal Corporation,"Bhagalpur, Bihar",760000.0,2026-03-15,2026-04-02,Published,7,Not Awarded,,,
+TND-00941,MPLADS-SYN-0941,Tender for Library - MPLADS-SYN-0941,Public Works Department,"Dharwad, Karnataka",440000.0,2026-03-04,2026-03-22,Published,3,Not Awarded,,,
+TND-00942,MPLADS-SYN-0942,Tender for Community Hall - MPLADS-SYN-0942,Municipal Council,"Tiruchirappalli, Tamil Nadu",1130000.0,2026-05-29,2026-06-12,Awarded,2,Awarded,CON-007,1102353.31,2026-07-01
+TND-00943,MPLADS-SYN-0943,Tender for Solar Lighting - MPLADS-SYN-0943,Rural Development Agency,"Muzaffarpur, Bihar",1120000.0,2025-11-21,2025-12-16,Completed,4,Awarded,CON-006,988858.43,2025-12-22
+TND-00944,MPLADS-SYN-0944,Tender for Library - MPLADS-SYN-0944,Municipal Council,"Chennai, Tamil Nadu",610000.0,2026-03-08,2026-03-23,Under Evaluation,4,Not Awarded,,,
+TND-00945,MPLADS-SYN-0945,Tender for Road - MPLADS-SYN-0945,Zilla Parishad,"Sagar, Madhya Pradesh",2940000.0,2026-01-30,2026-02-23,Completed,2,Awarded,CON-005,2689869.43,2026-03-04
+TND-00946,MPLADS-SYN-0946,Tender for Library - MPLADS-SYN-0946,Public Works Department,"Chennai, Tamil Nadu",1730000.0,2025-12-07,2025-12-23,Awarded,5,Awarded,CON-007,1603254.15,2026-01-12
+TND-00947,MPLADS-SYN-0947,Tender for Health Facility - MPLADS-SYN-0947,Rural Development Agency,"Salem, Tamil Nadu",1910000.0,2025-12-08,2025-12-19,Completed,2,Awarded,CON-007,1922476.01,2025-12-28
+TND-00948,MPLADS-SYN-0948,Tender for Drainage - MPLADS-SYN-0948,District Health Office,"Jalgaon, Maharashtra",1160000.0,2025-12-15,2026-01-06,Awarded,6,Awarded,CON-007,1102605.54,2026-01-17
+TND-00949,MPLADS-SYN-0949,Tender for Solar Lighting - MPLADS-SYN-0949,Municipal Corporation,"Chennai, Tamil Nadu",1150000.0,2026-01-08,2026-01-18,Completed,7,Awarded,CON-004,1054946.01,2026-02-06
+TND-00950,MPLADS-SYN-0950,Tender for Library - MPLADS-SYN-0950,Rural Development Agency,"Varanasi, Uttar Pradesh",700000.0,2026-05-07,2026-05-23,Awarded,7,Awarded,CON-003,696954.58,2026-06-03
+TND-00951,MPLADS-SYN-0951,Tender for Road - MPLADS-SYN-0951,Education Department,"Tiruchirappalli, Tamil Nadu",770000.0,2026-06-07,2026-06-26,Bidding Closed,3,Not Awarded,,,
+TND-00952,MPLADS-SYN-0952,Tender for Drinking Water - MPLADS-SYN-0952,Zilla Parishad,"Muzaffarpur, Bihar",1700000.0,2026-07-22,2026-08-04,Published,5,Not Awarded,,,
+TND-00953,MPLADS-SYN-0953,Tender for Sports Facility - MPLADS-SYN-0953,Rural Development Agency,"Kutch, Gujarat",530000.0,2026-04-12,2026-04-28,Published,2,Not Awarded,,,
+TND-00954,MPLADS-SYN-0954,Tender for Library - MPLADS-SYN-0954,Education Department,"Hubballi, Karnataka",1430000.0,2026-01-23,2026-02-05,Published,7,Not Awarded,,,
+TND-00955,MPLADS-SYN-0955,Tender for Road - MPLADS-SYN-0955,Municipal Corporation,"Jodhpur, Rajasthan",2480000.0,2026-06-06,2026-06-16,Bidding Closed,4,Not Awarded,,,
+TND-00956,MPLADS-SYN-0956,Tender for Health Facility - MPLADS-SYN-0956,Zilla Parishad,"Prayagraj, Uttar Pradesh",930000.0,2026-07-26,2026-08-17,Under Evaluation,3,Not Awarded,,,
+TND-00957,MPLADS-SYN-0957,Tender for Street Lighting - MPLADS-SYN-0957,District Health Office,"Gaya, Bihar",1000000.0,2026-08-05,2026-08-30,Awarded,6,Awarded,CON-005,903248.79,2026-09-06
+TND-00958,MPLADS-SYN-0958,Tender for Health Facility - MPLADS-SYN-0958,Education Department,"Vadodara, Gujarat",3600000.0,2026-07-07,2026-08-01,Awarded,7,Awarded,CON-006,3502068.22,2026-08-07
+TND-00959,MPLADS-SYN-0959,Tender for Sports Facility - MPLADS-SYN-0959,Rural Development Agency,"Udaipur, Rajasthan",610000.0,2026-01-29,2026-02-12,Awarded,6,Awarded,CON-006,609219.16,2026-02-21
+TND-00960,MPLADS-SYN-0960,Tender for School Building - MPLADS-SYN-0960,Municipal Council,"Dhule, Maharashtra",2890000.0,2026-07-26,2026-08-15,Bidding Closed,7,Not Awarded,,,
+TND-00961,MPLADS-SYN-0961,Tender for Street Lighting - MPLADS-SYN-0961,District Health Office,"Nandurbar, Maharashtra",980000.0,2026-05-02,2026-05-18,Completed,7,Awarded,CON-003,917932.03,2026-05-27
+TND-00962,MPLADS-SYN-0962,Tender for Sports Facility - MPLADS-SYN-0962,Education Department,"Dhule, Maharashtra",2240000.0,2026-06-29,2026-07-24,Completed,5,Awarded,CON-007,2159032.33,2026-08-13
+TND-00963,MPLADS-SYN-0963,Tender for School Building - MPLADS-SYN-0963,Rural Development Agency,"Gaya, Bihar",1790000.0,2026-02-22,2026-03-09,Awarded,4,Awarded,CON-007,1662108.32,2026-03-28
+TND-00964,MPLADS-SYN-0964,Tender for Community Hall - MPLADS-SYN-0964,District Health Office,"Vadodara, Gujarat",3000000.0,2026-04-30,2026-05-15,Completed,6,Awarded,CON-005,2709761.47,2026-05-29
+TND-00965,MPLADS-SYN-0965,Tender for Health Facility - MPLADS-SYN-0965,District Health Office,"Vadodara, Gujarat",2130000.0,2026-03-13,2026-04-03,Completed,2,Awarded,CON-006,2122305.77,2026-04-20
+TND-00966,MPLADS-SYN-0966,Tender for Road - MPLADS-SYN-0966,Public Works Department,"Muzaffarpur, Bihar",1440000.0,2025-12-22,2026-01-01,Published,4,Not Awarded,,,
+TND-00967,MPLADS-SYN-0967,Tender for Street Lighting - MPLADS-SYN-0967,Education Department,"Kutch, Gujarat",1180000.0,2026-07-22,2026-08-11,Under Evaluation,2,Not Awarded,,,
+TND-00968,MPLADS-SYN-0968,Tender for Sports Facility - MPLADS-SYN-0968,District Health Office,"Ajmer, Rajasthan",860000.0,2026-01-03,2026-01-25,Published,6,Not Awarded,,,
+TND-00969,MPLADS-SYN-0969,Tender for Sports Facility - MPLADS-SYN-0969,Zilla Parishad,"Lucknow, Uttar Pradesh",1370000.0,2026-03-08,2026-03-22,Published,4,Not Awarded,,,
+TND-00970,MPLADS-SYN-0970,Tender for Health Facility - MPLADS-SYN-0970,Rural Development Agency,"Patna, Bihar",1490000.0,2025-12-23,2026-01-12,Completed,2,Awarded,CON-005,1428135.32,2026-01-19
+TND-00971,MPLADS-SYN-0971,Tender for Health Facility - MPLADS-SYN-0971,Municipal Corporation,"Kanpur Nagar, Uttar Pradesh",1000000.0,2026-02-26,2026-03-13,Awarded,2,Awarded,CON-006,910311.85,2026-04-02
+TND-00972,MPLADS-SYN-0972,Tender for Drainage - MPLADS-SYN-0972,Education Department,"Dharwad, Karnataka",1140000.0,2026-01-27,2026-02-07,Awarded,7,Awarded,CON-006,1146207.22,2026-02-27
+TND-00973,MPLADS-SYN-0973,Tender for Sports Facility - MPLADS-SYN-0973,Education Department,"Tiruchirappalli, Tamil Nadu",300000.0,2026-02-13,2026-03-03,Under Evaluation,4,Not Awarded,,,
+TND-00974,MPLADS-SYN-0974,Tender for Community Hall - MPLADS-SYN-0974,Rural Development Agency,"Thane, Maharashtra",1770000.0,2025-12-25,2026-01-06,Awarded,3,Awarded,CON-004,1731701.46,2026-01-13
+TND-00975,MPLADS-SYN-0975,Tender for Health Facility - MPLADS-SYN-0975,District Health Office,"Sagar, Madhya Pradesh",3250000.0,2025-11-19,2025-11-30,Bidding Closed,6,Not Awarded,,,
+TND-00976,MPLADS-SYN-0976,Tender for Drinking Water - MPLADS-SYN-0976,Zilla Parishad,"Agra, Uttar Pradesh",550000.0,2026-01-01,2026-01-22,Published,7,Not Awarded,,,
+TND-00977,MPLADS-SYN-0977,Tender for School Building - MPLADS-SYN-0977,Zilla Parishad,"Bhagalpur, Bihar",3360000.0,2025-12-15,2026-01-02,Awarded,2,Awarded,CON-001,3326887.37,2026-01-16
+TND-00978,MPLADS-SYN-0978,Tender for Street Lighting - MPLADS-SYN-0978,Municipal Corporation,"Mysuru, Karnataka",640000.0,2026-01-07,2026-01-20,Awarded,7,Awarded,CON-006,585377.73,2026-02-06
+TND-00979,MPLADS-SYN-0979,Tender for Drainage - MPLADS-SYN-0979,Zilla Parishad,"Hubballi, Karnataka",420000.0,2026-05-25,2026-06-11,Awarded,7,Awarded,CON-001,429292.71,2026-06-29
+TND-00980,MPLADS-SYN-0980,Tender for Library - MPLADS-SYN-0980,Municipal Council,"Belagavi, Karnataka",1080000.0,2026-03-18,2026-04-08,Published,5,Not Awarded,,,
+TND-00981,MPLADS-SYN-0981,Tender for Drainage - MPLADS-SYN-0981,Zilla Parishad,"Solapur, Maharashtra",830000.0,2026-04-28,2026-05-21,Published,3,Not Awarded,,,
+TND-00982,MPLADS-SYN-0982,Tender for Sports Facility - MPLADS-SYN-0982,District Health Office,"Ujjain, Madhya Pradesh",1950000.0,2025-11-28,2025-12-20,Awarded,4,Awarded,CON-004,1908328.08,2026-01-08
+TND-00983,MPLADS-SYN-0983,Tender for Community Hall - MPLADS-SYN-0983,Municipal Corporation,"Kota, Rajasthan",3340000.0,2026-07-03,2026-07-23,Completed,4,Awarded,CON-007,3145783.99,2026-08-10
+TND-00984,MPLADS-SYN-0984,Tender for Sports Facility - MPLADS-SYN-0984,Education Department,"Madurai, Tamil Nadu",1550000.0,2026-03-09,2026-03-26,Published,6,Not Awarded,,,
+TND-00985,MPLADS-SYN-0985,Tender for Street Lighting - MPLADS-SYN-0985,Municipal Council,"Hubballi, Karnataka",460000.0,2026-02-13,2026-03-03,Awarded,5,Awarded,CON-007,435677.49,2026-03-20
+TND-00986,MPLADS-SYN-0986,Tender for Health Facility - MPLADS-SYN-0986,Rural Development Agency,"Indore, Madhya Pradesh",4120000.0,2026-01-03,2026-01-22,Awarded,2,Awarded,CON-007,3945482.58,2026-02-05
+TND-00987,MPLADS-SYN-0987,Tender for Road - MPLADS-SYN-0987,Public Works Department,"Patna, Bihar",1320000.0,2026-05-08,2026-05-25,Awarded,4,Awarded,CON-005,1165896.87,2026-06-07
+TND-00988,MPLADS-SYN-0988,Tender for Road - MPLADS-SYN-0988,District Health Office,"Palghar, Maharashtra",1470000.0,2026-06-16,2026-06-30,Under Evaluation,2,Not Awarded,,,
+TND-00989,MPLADS-SYN-0989,Tender for Health Facility - MPLADS-SYN-0989,Municipal Corporation,"Jaipur, Rajasthan",1290000.0,2026-01-24,2026-02-07,Bidding Closed,4,Not Awarded,,,
+TND-00990,MPLADS-SYN-0990,Tender for School Building - MPLADS-SYN-0990,Municipal Corporation,"Darbhanga, Bihar",1660000.0,2026-06-15,2026-07-02,Completed,4,Awarded,CON-005,1662757.48,2026-07-09
+TND-00991,MPLADS-SYN-0991,Tender for Street Lighting - MPLADS-SYN-0991,Rural Development Agency,"Prayagraj, Uttar Pradesh",220000.0,2026-01-21,2026-02-06,Under Evaluation,2,Not Awarded,,,
+TND-00992,MPLADS-SYN-0992,Tender for Road - MPLADS-SYN-0992,Municipal Council,"Salem, Tamil Nadu",1220000.0,2026-02-03,2026-02-28,Published,5,Not Awarded,,,
+TND-00993,MPLADS-SYN-0993,Tender for Street Lighting - MPLADS-SYN-0993,Education Department,"Rajkot, Gujarat",380000.0,2026-03-18,2026-03-31,Published,7,Not Awarded,,,
+TND-00994,MPLADS-SYN-0994,Tender for Sports Facility - MPLADS-SYN-0994,Rural Development Agency,"Bengaluru Urban, Karnataka",880000.0,2026-01-17,2026-02-08,Completed,2,Awarded,CON-002,896087.04,2026-02-23
+TND-00995,MPLADS-SYN-0995,Tender for Library - MPLADS-SYN-0995,Education Department,"Hubballi, Karnataka",820000.0,2025-11-30,2025-12-23,Completed,2,Awarded,CON-003,828583.74,2026-01-04
+TND-00996,MPLADS-SYN-0996,Tender for Drainage - MPLADS-SYN-0996,Education Department,"Prayagraj, Uttar Pradesh",1870000.0,2026-04-26,2026-05-06,Published,7,Not Awarded,,,
+TND-00997,MPLADS-SYN-0997,Tender for Drainage - MPLADS-SYN-0997,Municipal Council,"Belagavi, Karnataka",2270000.0,2026-07-26,2026-08-14,Bidding Closed,2,Not Awarded,,,
+TND-00998,MPLADS-SYN-0998,Tender for Solar Lighting - MPLADS-SYN-0998,District Health Office,"Prayagraj, Uttar Pradesh",1630000.0,2026-02-04,2026-02-18,Completed,6,Awarded,CON-006,1605004.44,2026-02-27
+TND-00999,MPLADS-SYN-0999,Tender for Drainage - MPLADS-SYN-0999,Zilla Parishad,"Gaya, Bihar",1950000.0,2025-11-07,2025-11-29,Awarded,6,Awarded,CON-005,1884262.04,2025-12-06
+TND-01000,MPLADS-SYN-1000,Tender for Community Hall - MPLADS-SYN-1000,Zilla Parishad,"Ahmedabad, Gujarat",3730000.0,2026-05-28,2026-06-16,Awarded,5,Awarded,CON-007,3365212.94,2026-07-01

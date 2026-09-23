@@ -1,0 +1,8 @@
+contractor_id,contractor_name,company_name,registration_number,state,district,category,registration_date,valid_until,status,total_contracts,completed_contracts,ongoing_contracts,delayed_contracts,cancelled_contracts,total_contract_value
+CON-001,ABC Infrastructure Pvt Ltd,ABC Infrastructure Pvt Ltd,REG-44993,Gujarat,Surat,Road Works,2022-04-01,2027-03-31,Active,156,78,78,2,0,123815657.57
+CON-002,District Works Cooperative,District Works Cooperative,REG-31417,Uttar Pradesh,Lucknow,Building Works,2022-04-01,2027-03-31,Active,128,64,64,2,0,78922727.37
+CON-003,Maharashtra Works Agency,Maharashtra Works Agency,REG-99733,Rajasthan,Ajmer,Road Works,2022-04-01,2027-03-31,Active,147,73,74,0,1,100990101.86
+CON-004,National Infra Services,National Infra Services,REG-62581,Maharashtra,Aurangabad,Road Works,2022-04-01,2027-03-31,Active,165,82,83,2,1,116563354.74
+CON-005,Om Civil Works,Om Civil Works,REG-37869,Uttar Pradesh,Madurai,Water Infrastructure,2022-04-01,2027-03-31,Active,137,68,69,0,1,98385983.11
+CON-006,Sai Construction,Sai Construction,REG-28301,Madhya Pradesh,Sagar,Building Works,2022-04-01,2027-03-31,Active,150,75,75,2,1,116204306.14
+CON-007,Shree Buildcon,Shree Buildcon,REG-86484,Tamil Nadu,Kutch,Road Works,2022-04-01,2027-03-31,Active,117,58,59,0,1,114620572.44

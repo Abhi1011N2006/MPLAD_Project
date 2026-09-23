@@ -1,0 +1,19 @@
+user_id,name,email,role,state,district,constituency,locality,contractor_id,is_active
+USR-0001,Demo Ministry 1,demo1@mplads-demo.gov.in,MINISTRY,Gujarat,Ahmedabad,,,,True
+USR-0002,Demo Ministry 2,demo2@mplads-demo.gov.in,MINISTRY,Maharashtra,Hubballi,,,,True
+USR-0003,Demo State 3,demo3@mplads-demo.gov.in,STATE,Madhya Pradesh,Bhopal,,,,True
+USR-0004,Demo State 4,demo4@mplads-demo.gov.in,STATE,Gujarat,Vadodara,,,,True
+USR-0005,Demo District 5,demo5@mplads-demo.gov.in,DISTRICT,Gujarat,Solapur,,,,True
+USR-0006,Demo District 6,demo6@mplads-demo.gov.in,DISTRICT,Tamil Nadu,Ahmednagar,,,,True
+USR-0007,Demo Mp 7,demo7@mplads-demo.gov.in,MP,Bihar,Belagavi,Hubballi,,,True
+USR-0008,Demo Mp 8,demo8@mplads-demo.gov.in,MP,Madhya Pradesh,Prayagraj,Jodhpur,,,True
+USR-0009,Demo Contractor 9,demo9@mplads-demo.gov.in,CONTRACTOR,Bihar,Sagar,,,CON-002,True
+USR-0010,Demo Contractor 10,demo10@mplads-demo.gov.in,CONTRACTOR,Tamil Nadu,Gaya,,,CON-004,True
+USR-0011,Demo Contractor 11,demo11@mplads-demo.gov.in,CONTRACTOR,Maharashtra,Agra,,,CON-007,True
+USR-0012,Demo Contractor 12,demo12@mplads-demo.gov.in,CONTRACTOR,Karnataka,Varanasi,,,CON-004,True
+USR-0013,Demo Contractor 13,demo13@mplads-demo.gov.in,CONTRACTOR,Rajasthan,Jabalpur,,,CON-002,True
+USR-0014,Demo Citizen 14,demo14@mplads-demo.gov.in,CITIZEN,Madhya Pradesh,Kanpur Nagar,,Village A,,True
+USR-0015,Demo Citizen 15,demo15@mplads-demo.gov.in,CITIZEN,Gujarat,Lucknow,,Village A,,True
+USR-0016,Demo Citizen 16,demo16@mplads-demo.gov.in,CITIZEN,Rajasthan,Kota,,Locality North,,True
+USR-0017,Demo Citizen 17,demo17@mplads-demo.gov.in,CITIZEN,Maharashtra,Ahmednagar,,Ward 7,,True
+USR-0018,Demo Citizen 18,demo18@mplads-demo.gov.in,CITIZEN,Gujarat,Lucknow,,Village A,,True
