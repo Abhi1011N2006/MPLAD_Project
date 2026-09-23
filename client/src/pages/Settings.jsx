@@ -5,7 +5,7 @@ export default function Settings() {
   const [lowThresh, setLowThresh] = useState('30');
   const [medThresh, setMedThresh] = useState('60');
   const [highThresh, setHighThresh] = useState('80');
-  const [aiEndpoint, setAiEndpoint] = useState('http://localhost:8000');
+  const [aiEndpoint, setAiEndpoint] = useState(() => import.meta.env.VITE_API_URL || 'https://nirisha-mplad-backend.onrender.com');
 
   const handleSave = (e) => {
     e.preventDefault();
