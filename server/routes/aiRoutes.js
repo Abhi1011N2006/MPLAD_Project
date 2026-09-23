@@ -3,7 +3,7 @@ const router = express.Router();
 const { authenticateToken } = require('../middleware/auth');
 const axios = require('axios');
 
-const AI_SERVICE_URL = process.env.AI_SERVICE_URL || 'http://localhost:8000';
+const AI_SERVICE_URL = process.env.AI_SERVICE_URL || 'https://nirisha-mplad-project.onrender.com';
 
 // POST /api/ai/risk - Evaluate project risk score
 router.post('/risk', authenticateToken, async (req, res) => {
