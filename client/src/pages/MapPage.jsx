@@ -5,7 +5,9 @@ import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet';
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import { Link } from 'react-router-dom';
-import { Map as MapIcon, Filter, Layers, Navigation } from 'lucide-react';
+import { Map as MapIcon, Filter, Layers, Navigation, MapPin } from 'lucide-react';
+import { useRole } from '../context/RoleContext';
+import { getCitizenArea, isProjectInCitizenRegion } from '../utils/citizenRegion';
 
 // Custom Leaflet Markers based on Risk Level
 const createCustomIcon = (level) => {
@@ -34,20 +36,41 @@ const createCustomIcon = (level) => {
 };
 
 export default function MapPage() {
+  const { currentRole } = useRole();
   const [selectedRiskFilter, setSelectedRiskFilter] = useState('ALL');
   const [selectedTerrainFilter, setSelectedTerrainFilter] = useState('ALL');
 
+  const isCitizen = currentRole?.id === 'citizen';
+  const citizenArea = isCitizen ? getCitizenArea() : null;
+
   const filteredProjects = MOCK_PROJECTS.filter((p) => {
+    if (isCitizen && !isProjectInCitizenRegion(p, citizenArea)) {
+      return false;
+    }
     const matchesRisk = selectedRiskFilter === 'ALL' || p.riskLevel === selectedRiskFilter;
     const matchesTerrain = selectedTerrainFilter === 'ALL' || p.terrainType === selectedTerrainFilter;
     return matchesRisk && matchesTerrain;
   });
 
-  // Map center over Nashik, Maharashtra
+  // Map center over Nashik, Maharashtra by default
   const center = [20.0, 73.8];
 
   return (
     <div className="space-y-4 font-sans text-slate-900">
+      {isCitizen && citizenArea && (
+        <div className="bg-sky-50 border border-sky-200 text-sky-900 px-4 py-2.5 rounded-xl text-xs flex items-center justify-between font-medium shadow-2xs">
+          <div className="flex items-center gap-2">
+            <MapPin className="w-4 h-4 text-sky-600 shrink-0" />
+            <span>
+              <strong>Citizen Regional Scope:</strong> Displaying projects within <strong>{citizenArea.locality}, {citizenArea.district} District ({citizenArea.state})</strong>.
+            </span>
+          </div>
+          <span className="text-[11px] font-bold bg-sky-200/70 text-sky-900 px-2.5 py-0.5 rounded-full">
+            {filteredProjects.length} Regional Marker{filteredProjects.length === 1 ? '' : 's'}
+          </span>
+        </div>
+      )}
+
       {/* Header Bar */}
       <div className="bg-white p-5 rounded-2xl border border-slate-200 shadow-sm flex flex-col md:flex-row items-start md:items-center justify-between gap-4">
         <div>

@@ -1,12 +1,23 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { MOCK_CITIZEN_REPORTS, MOCK_PROJECTS } from '../data/mockData';
 import Pagination from '../components/common/Pagination';
 import CitizenCameraCapture from '../components/common/CitizenCameraCapture';
 import { Users, Send, AlertTriangle, ShieldCheck, MapPin, Camera, Video, Navigation, Image as ImageIcon } from 'lucide-react';
+import { useRole } from '../context/RoleContext';
+import { getCitizenArea, isProjectInCitizenRegion } from '../utils/citizenRegion';
+import { fetchCitizenReports, submitCitizenReport } from '../services/api';
 
 export default function CitizenReports() {
+  const { currentRole } = useRole();
+  const isCitizen = currentRole?.id === 'citizen';
+  const citizenArea = isCitizen ? getCitizenArea() : null;
+
+  const selectableProjects = isCitizen
+    ? MOCK_PROJECTS.filter((p) => isProjectInCitizenRegion(p, citizenArea))
+    : MOCK_PROJECTS;
+
   const [reports, setReports] = useState(MOCK_CITIZEN_REPORTS);
-  const [projectId, setProjectId] = useState(MOCK_PROJECTS[0].id);
+  const [projectId, setProjectId] = useState(selectableProjects[0]?.id || MOCK_PROJECTS[0].id);
   const [reportType, setReportType] = useState('Incorrect progress reported');
   const [description, setDescription] = useState('');
   const [citizenName, setCitizenName] = useState('');
@@ -18,20 +29,47 @@ export default function CitizenReports() {
 
   const ITEMS_PER_PAGE = 10;
 
-  const handleCreateReport = (e) => {
+  useEffect(() => {
+    let isMounted = true;
+    fetchCitizenReports()
+      .then((res) => {
+        if (!isMounted) return;
+        let backendList = null;
+        if (Array.isArray(res)) backendList = res;
+        else if (res && Array.isArray(res.data)) backendList = res.data;
+
+        if (backendList && backendList.length > 0) {
+          const existingIds = new Set(backendList.map(r => r.id || r.reportId));
+          const missingMocks = MOCK_CITIZEN_REPORTS.filter(m => !existingIds.has(m.id || m.reportId));
+          setReports([...backendList, ...missingMocks]);
+        }
+      })
+      .catch(() => {});
+
+    return () => {
+      isMounted = false;
+    };
+  }, []);
+
+  const handleCreateReport = async (e) => {
     e.preventDefault();
 
     const photoItem = attachedMedia.find(m => m.type === 'photo');
     const videoItem = attachedMedia.find(m => m.type === 'video');
 
+    const generatedId = `CR-2026-${Math.floor(100 + Math.random() * 900)}`;
+
     const newReport = {
-      id: `CR-2026-${Math.floor(100 + Math.random() * 900)}`,
+      id: generatedId,
+      reportId: generatedId,
       projectId,
       projectName: MOCK_PROJECTS.find(p => p.id === projectId)?.name || "Community Hall Development",
       reportType,
+      issueType: reportType,
       description,
       submittedBy: citizenName || 'Anonymous Citizen',
       date: new Date().toISOString().split('T')[0],
+      reportDate: new Date().toISOString().split('T')[0],
       latitude: locationData.lat,
       longitude: locationData.lng,
       accuracy: locationData.accuracy || 8.5,
@@ -42,13 +80,17 @@ export default function CitizenReports() {
       attachedMedia: attachedMedia
     };
 
-    setReports([newReport, ...reports]);
+    setReports((prev) => [newReport, ...prev]);
+
+    // Save report to central Express backend database
+    await submitCitizenReport(newReport);
+
     setDescription('');
     setCitizenName('');
     setAttachedMedia([]);
     setCurrentPage(1);
 
-    alert(`Citizen Ground Report submitted with ${attachedMedia.length} Geotagged Media Attachments & Live GPS Coordinates (${locationData.lat}°, ${locationData.lng}°)!`);
+    alert(`Citizen Ground Report submitted to central database with ${attachedMedia.length} Geotagged Media Attachments & Live GPS Coordinates (${locationData.lat}°, ${locationData.lng}°)!`);
   };
 
   const statusColors = {
@@ -84,6 +126,20 @@ export default function CitizenReports() {
         </div>
       </div>
 
+      {isCitizen && citizenArea && (
+        <div className="bg-sky-950/70 border border-sky-800 text-sky-200 px-4 py-2.5 rounded-xl text-xs flex items-center justify-between font-medium shadow-xs">
+          <div className="flex items-center gap-2">
+            <MapPin className="w-4 h-4 text-sky-400 shrink-0" />
+            <span>
+              <strong>Citizen Regional Mode:</strong> Select projects located in <strong>{citizenArea.locality}, {citizenArea.district} ({citizenArea.state})</strong> for ground reporting.
+            </span>
+          </div>
+          <span className="text-[11px] font-bold bg-sky-900 text-sky-200 px-2.5 py-0.5 rounded-full border border-sky-700">
+            {selectableProjects.length} Local Project{selectableProjects.length === 1 ? '' : 's'}
+          </span>
+        </div>
+      )}
+
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
         {/* Submit Complaint Form */}
         <div className="bg-slate-900/90 p-5 rounded-xl border border-slate-800 shadow-xl space-y-4 h-fit">
@@ -98,7 +154,7 @@ export default function CitizenReports() {
                 onChange={(e) => setProjectId(e.target.value)}
                 className="w-full bg-slate-950 border border-slate-700 rounded-lg p-2 font-medium text-slate-200 focus:border-amber-400 focus:outline-none"
               >
-                {MOCK_PROJECTS.slice(0, 100).map((p) => (
+                {selectableProjects.map((p) => (
                   <option key={p.id} value={p.id}>{p.id} - {p.name}</option>
                 ))}
               </select>

@@ -92,32 +92,6 @@ export default function Header() {
             </button>
           </div>
 
-          {/* High Contrast Mode Toggle */}
-          <button
-            onClick={toggleHighContrast}
-            className={`flex items-center gap-1 px-2 py-0.5 rounded font-bold border transition-colors ${
-              highContrast
-                ? 'bg-amber-400 text-slate-950 border-amber-300'
-                : 'bg-blue-900 text-slate-200 border-blue-800 hover:bg-blue-800'
-            }`}
-            title="Toggle WCAG High Contrast Theme"
-          >
-            <Eye className="w-3.5 h-3.5" />
-            <span>{highContrast ? 'Standard Mode' : 'High Contrast'}</span>
-          </button>
-
-          {/* Screen Reader Mode Indicator */}
-          <button
-            onClick={toggleScreenReader}
-            className={`flex items-center gap-1 px-2 py-0.5 rounded font-bold transition-colors ${
-              screenReaderMode ? 'bg-emerald-400 text-slate-950' : 'text-slate-300 hover:text-white'
-            }`}
-            title="Screen Reader Support Mode"
-          >
-            <Volume2 className="w-3.5 h-3.5" />
-            <span className="hidden sm:inline">{screenReaderMode ? 'Screen Reader ON' : 'Screen Reader'}</span>
-          </button>
-
           {isLoggedIn ? (
             <button
               onClick={handleLogoutClick}
@@ -146,9 +120,6 @@ export default function Header() {
               <h1 className="font-extrabold text-xl leading-none tracking-tight text-blue-900">
                 NIRISHA <span className="text-blue-600">AI</span>
               </h1>
-              <span className="bg-blue-100 text-blue-800 text-[10px] font-bold px-2.5 py-0.5 rounded-full border border-blue-200">
-                OFFICIAL PORTAL
-              </span>
             </div>
             <p className="text-xs text-slate-500 font-medium mt-0.5">
               National Integrated Risk & Intelligence System for Holistic Assessment

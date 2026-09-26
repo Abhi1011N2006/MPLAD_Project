@@ -1,7 +1,8 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { MOCK_PROJECTS, MOCK_ALERTS, MOCK_CITIZEN_REPORTS } from '../data/mockData';
 import RiskBadge from '../components/common/RiskBadge';
+import { fetchCitizenReports } from '../services/api';
 import {
   FolderKanban,
   MapPin,
@@ -29,10 +30,34 @@ import {
 export default function ProjectDetails() {
   const { id } = useParams();
   const [activeTab, setActiveTab] = useState('overview');
+  const [allCitizenReports, setAllCitizenReports] = useState(MOCK_CITIZEN_REPORTS);
 
   const project = MOCK_PROJECTS.find((p) => p.id === id) || MOCK_PROJECTS[0];
   const projectAlerts = MOCK_ALERTS.filter((a) => a.projectId === project.id);
-  const projectCitizenReports = MOCK_CITIZEN_REPORTS.filter((c) => c.projectId === project.id);
+
+  useEffect(() => {
+    let isMounted = true;
+    fetchCitizenReports()
+      .then((res) => {
+        if (!isMounted) return;
+        let backendList = null;
+        if (Array.isArray(res)) backendList = res;
+        else if (res && Array.isArray(res.data)) backendList = res.data;
+
+        if (backendList && backendList.length > 0) {
+          const existingIds = new Set(backendList.map(r => r.id || r.reportId));
+          const missingMocks = MOCK_CITIZEN_REPORTS.filter(m => !existingIds.has(m.id || m.reportId));
+          setAllCitizenReports([...backendList, ...missingMocks]);
+        }
+      })
+      .catch(() => {});
+
+    return () => {
+      isMounted = false;
+    };
+  }, []);
+
+  const projectCitizenReports = allCitizenReports.filter((c) => (c.projectId === project.id || c.project_id === project.id));
 
   // 11 Unified Central Tabs
   const tabs = [

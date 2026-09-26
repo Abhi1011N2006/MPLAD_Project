@@ -5,15 +5,52 @@ import { Link } from 'react-router-dom';
 import { Users, MapPin, Camera, Navigation, Send, ArrowRight } from 'lucide-react';
 import Geolocator from '../common/Geolocator';
 import MediaCapture from '../common/MediaCapture';
+import { getCitizenArea, setCitizenArea, isProjectInCitizenRegion } from '../../utils/citizenRegion';
 
 export default function CitizenDashboard() {
-  const [selectedState, setSelectedState] = useState('Maharashtra');
-  const [selectedDistrict, setSelectedDistrict] = useState('Nashik');
-  const [selectedLocality, setSelectedLocality] = useState('Dindori');
-  const [radiusKm, setRadiusKm] = useState('5');
+  const initialArea = getCitizenArea();
+  const [selectedState, setSelectedState] = useState(initialArea.state || 'Maharashtra');
+  const [selectedDistrict, setSelectedDistrict] = useState(initialArea.district || 'Nashik');
+  const [selectedLocality, setSelectedLocality] = useState(initialArea.locality || 'Dindori');
+  const [radiusKm, setRadiusKm] = useState(initialArea.radiusKm || '5');
   const [capturedMedia, setCapturedMedia] = useState(null);
 
-  const localProjects = MOCK_PROJECTS.filter(p => p.district === selectedDistrict || p.village === selectedLocality);
+  const updateArea = (newState, newDistrict, newLocality, newRadius) => {
+    const updated = {
+      state: newState,
+      district: newDistrict,
+      locality: newLocality,
+      radiusKm: newRadius
+    };
+    setCitizenArea(updated);
+  };
+
+  const handleStateChange = (e) => {
+    const val = e.target.value;
+    setSelectedState(val);
+    updateArea(val, selectedDistrict, selectedLocality, radiusKm);
+  };
+
+  const handleDistrictChange = (e) => {
+    const val = e.target.value;
+    setSelectedDistrict(val);
+    updateArea(selectedState, val, selectedLocality, radiusKm);
+  };
+
+  const handleLocalityChange = (e) => {
+    const val = e.target.value;
+    setSelectedLocality(val);
+    updateArea(selectedState, selectedDistrict, val, radiusKm);
+  };
+
+  const handleRadiusChange = (e) => {
+    const val = e.target.value;
+    setRadiusKm(val);
+    updateArea(selectedState, selectedDistrict, selectedLocality, val);
+  };
+
+  const activeArea = { state: selectedState, district: selectedDistrict, locality: selectedLocality, radiusKm };
+  const localProjects = MOCK_PROJECTS.filter(p => isProjectInCitizenRegion(p, activeArea));
 
   return (
     <div className="space-y-6">
@@ -34,23 +71,31 @@ export default function CitizenDashboard() {
         <div className="grid grid-cols-1 sm:grid-cols-4 gap-3">
           <div>
             <label className="font-semibold text-slate-700 block mb-1">State</label>
-            <select value={selectedState} onChange={(e) => setSelectedState(e.target.value)} className="w-full bg-slate-50 border rounded-lg p-2">
+            <select value={selectedState} onChange={handleStateChange} className="w-full bg-slate-50 border rounded-lg p-2 font-medium">
               <option value="Maharashtra">Maharashtra</option>
+              <option value="Gujarat">Gujarat</option>
+              <option value="Karnataka">Karnataka</option>
+              <option value="Uttar Pradesh">Uttar Pradesh</option>
             </select>
           </div>
           <div>
             <label className="font-semibold text-slate-700 block mb-1">District</label>
-            <select value={selectedDistrict} onChange={(e) => setSelectedDistrict(e.target.value)} className="w-full bg-slate-50 border rounded-lg p-2">
+            <select value={selectedDistrict} onChange={handleDistrictChange} className="w-full bg-slate-50 border rounded-lg p-2 font-medium">
               <option value="Nashik">Nashik</option>
+              <option value="Pune">Pune</option>
+              <option value="Thane">Thane</option>
+              <option value="Aurangabad">Aurangabad</option>
+              <option value="Ahmedabad">Ahmedabad</option>
+              <option value="Surat">Surat</option>
             </select>
           </div>
           <div>
             <label className="font-semibold text-slate-700 block mb-1">Locality / Village / Ward</label>
-            <input type="text" value={selectedLocality} onChange={(e) => setSelectedLocality(e.target.value)} className="w-full bg-slate-50 border rounded-lg p-2" />
+            <input type="text" value={selectedLocality} onChange={handleLocalityChange} className="w-full bg-slate-50 border rounded-lg p-2 font-semibold" />
           </div>
           <div>
             <label className="font-semibold text-slate-700 block mb-1">Geographic Radius (km)</label>
-            <select value={radiusKm} onChange={(e) => setRadiusKm(e.target.value)} className="w-full bg-slate-50 border rounded-lg p-2 font-bold">
+            <select value={radiusKm} onChange={handleRadiusChange} className="w-full bg-slate-50 border rounded-lg p-2 font-bold text-blue-600">
               <option value="2">2 km radius</option>
               <option value="5">5 km radius</option>
               <option value="10">10 km radius</option>

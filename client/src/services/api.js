@@ -85,4 +85,24 @@ export const evaluateAIRisk = async (projectData) => {
   }
 };
 
+export const fetchCitizenReports = async () => {
+  try {
+    const response = await api.get('/reports/citizen');
+    return response.data;
+  } catch (error) {
+    console.warn("Using fallback local citizen reports payload:", error);
+    return null;
+  }
+};
+
+export const submitCitizenReport = async (reportData) => {
+  try {
+    const response = await api.post('/reports/citizen', reportData);
+    return response.data;
+  } catch (error) {
+    console.warn("Failed to post citizen report to backend server:", error);
+    return null;
+  }
+};
+
 export default api;

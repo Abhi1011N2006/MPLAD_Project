@@ -4,14 +4,20 @@ import RiskBadge from '../components/common/RiskBadge';
 import Pagination from '../components/common/Pagination';
 import { Link } from 'react-router-dom';
 import { Search, Filter, FolderKanban, Plus, MapPin, Mountain, LayoutGrid, List } from 'lucide-react';
+import { useRole } from '../context/RoleContext';
+import { getCitizenArea, isProjectInCitizenRegion } from '../utils/citizenRegion';
 
 export default function Projects() {
+  const { currentRole } = useRole();
   const [searchTerm, setSearchTerm] = useState('');
   const [terrainFilter, setTerrainFilter] = useState('ALL');
   const [statusFilter, setStatusFilter] = useState('ALL');
   const [riskFilter, setRiskFilter] = useState('ALL');
   const [viewMode, setViewMode] = useState('table'); // 'table' | 'cards'
   const [currentPage, setCurrentPage] = useState(1);
+
+  const isCitizen = currentRole?.id === 'citizen';
+  const citizenArea = isCitizen ? getCitizenArea() : null;
 
   const ITEMS_PER_PAGE = 12;
 
@@ -21,6 +27,10 @@ export default function Projects() {
   }, [searchTerm, terrainFilter, statusFilter, riskFilter]);
 
   const filteredProjects = MOCK_PROJECTS.filter((p) => {
+    if (isCitizen && !isProjectInCitizenRegion(p, citizenArea)) {
+      return false;
+    }
+
     const matchesSearch =
       p.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
       p.id.toLowerCase().includes(searchTerm.toLowerCase()) ||
@@ -42,6 +52,20 @@ export default function Projects() {
 
   return (
     <div className="space-y-6 text-slate-900 font-sans">
+      {isCitizen && citizenArea && (
+        <div className="bg-sky-50 border border-sky-200 text-sky-900 px-4 py-2.5 rounded-xl text-xs flex items-center justify-between font-medium shadow-2xs">
+          <div className="flex items-center gap-2">
+            <MapPin className="w-4 h-4 text-sky-600 shrink-0" />
+            <span>
+              <strong>Citizen Regional Registry:</strong> Displaying development projects restricted to <strong>{citizenArea.locality}, {citizenArea.district} District ({citizenArea.state})</strong>.
+            </span>
+          </div>
+          <span className="text-[11px] font-bold bg-sky-200/70 text-sky-900 px-2.5 py-0.5 rounded-full">
+            {filteredProjects.length} Regional Project{filteredProjects.length === 1 ? '' : 's'}
+          </span>
+        </div>
+      )}
+
       {/* Header & Actions */}
       <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 bg-white p-5 rounded-2xl border border-slate-200 shadow-sm">
         <div>
