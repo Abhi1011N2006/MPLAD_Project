@@ -105,4 +105,14 @@ export const submitCitizenReport = async (reportData) => {
   }
 };
 
+export const submitWeeklyReport = async (reportData) => {
+  try {
+    const response = await api.post('/reports/weekly', reportData);
+    return response.data;
+  } catch (error) {
+    console.warn("Failed to post weekly contractor report to backend server:", error);
+    return null;
+  }
+};
+
 export default api;
