@@ -7,6 +7,49 @@ import { useRole } from '../context/RoleContext';
 import { getCitizenArea, isProjectInCitizenRegion } from '../utils/citizenRegion';
 import { fetchCitizenReports, submitCitizenReport } from '../services/api';
 
+export const normalizeCitizenReport = (r) => {
+  if (!r) return null;
+
+  const id = r.id || r.reportId || r.complaint_id || `CR-2026-${Math.floor(100 + Math.random() * 900)}`;
+  const projectId = r.projectId || r.project_id || 'MPLAD-2026-MH-001';
+
+  const matchedProject = MOCK_PROJECTS.find(p => p.id === projectId || p.project_id === projectId);
+  const projectName = r.projectName || r.project_name || (matchedProject ? matchedProject.name : `MPLADS Project (${projectId})`);
+
+  const reportType = r.reportType || r.issueType || r.complaint_type || 'Field Observation';
+  const description = r.description || r.complaint_text || 'Ground observation report logged for verification.';
+  const submittedBy = r.submittedBy || r.submitted_by || r.citizen_name || 'Citizen Verified';
+  const date = r.date || r.reportDate || r.timestamp?.split('T')[0] || '2026-01-01';
+
+  const verificationStatus = r.verificationStatus || r.status || r.complaint_status || 'Unverified';
+
+  const rawScore = r.confidenceScore !== undefined ? r.confidenceScore : (r.confidence_score !== undefined ? r.confidence_score : 0.85);
+  const parsedScore = parseFloat(rawScore);
+  const confidenceScore = !isNaN(parsedScore) ? (parsedScore > 1 ? parsedScore / 100 : parsedScore) : 0.85;
+
+  const latNum = parseFloat(r.latitude || r.lat);
+  const lngNum = parseFloat(r.longitude || r.lng);
+
+  return {
+    ...r,
+    id,
+    reportId: id,
+    projectId,
+    projectName,
+    reportType,
+    description,
+    submittedBy,
+    date,
+    verificationStatus,
+    confidenceScore,
+    latitude: !isNaN(latNum) ? latNum : null,
+    longitude: !isNaN(lngNum) ? lngNum : null,
+    photoUrl: r.photoUrl || r.photo_url || null,
+    videoUrl: r.videoUrl || r.video_url || null,
+    attachedMedia: r.attachedMedia || []
+  };
+};
+
 export default function CitizenReports() {
   const { currentRole } = useRole();
   const isCitizen = currentRole?.id === 'citizen';
@@ -16,7 +59,7 @@ export default function CitizenReports() {
     ? MOCK_PROJECTS.filter((p) => isProjectInCitizenRegion(p, citizenArea))
     : MOCK_PROJECTS;
 
-  const [reports, setReports] = useState(MOCK_CITIZEN_REPORTS);
+  const [reports, setReports] = useState(() => MOCK_CITIZEN_REPORTS.map(normalizeCitizenReport));
   const [projectId, setProjectId] = useState(selectableProjects[0]?.id || MOCK_PROJECTS[0].id);
   const [reportType, setReportType] = useState('Incorrect progress reported');
   const [description, setDescription] = useState('');
@@ -39,9 +82,10 @@ export default function CitizenReports() {
         else if (res && Array.isArray(res.data)) backendList = res.data;
 
         if (backendList && backendList.length > 0) {
-          const existingIds = new Set(backendList.map(r => r.id || r.reportId));
-          const missingMocks = MOCK_CITIZEN_REPORTS.filter(m => !existingIds.has(m.id || m.reportId));
-          setReports([...backendList, ...missingMocks]);
+          const normalizedBackend = backendList.map(normalizeCitizenReport);
+          const existingIds = new Set(normalizedBackend.map(r => r.id));
+          const missingMocks = MOCK_CITIZEN_REPORTS.map(normalizeCitizenReport).filter(m => !existingIds.has(m.id));
+          setReports([...normalizedBackend, ...missingMocks]);
         }
       })
       .catch(() => {});

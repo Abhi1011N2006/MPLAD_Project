@@ -3,6 +3,7 @@ import { useParams, Link } from 'react-router-dom';
 import { MOCK_PROJECTS, MOCK_ALERTS, MOCK_CITIZEN_REPORTS } from '../data/mockData';
 import RiskBadge from '../components/common/RiskBadge';
 import { fetchCitizenReports } from '../services/api';
+import { normalizeCitizenReport } from './CitizenReports';
 import {
   FolderKanban,
   MapPin,
@@ -30,7 +31,7 @@ import {
 export default function ProjectDetails() {
   const { id } = useParams();
   const [activeTab, setActiveTab] = useState('overview');
-  const [allCitizenReports, setAllCitizenReports] = useState(MOCK_CITIZEN_REPORTS);
+  const [allCitizenReports, setAllCitizenReports] = useState(() => MOCK_CITIZEN_REPORTS.map(normalizeCitizenReport));
 
   const project = MOCK_PROJECTS.find((p) => p.id === id) || MOCK_PROJECTS[0];
   const projectAlerts = MOCK_ALERTS.filter((a) => a.projectId === project.id);
@@ -45,9 +46,10 @@ export default function ProjectDetails() {
         else if (res && Array.isArray(res.data)) backendList = res.data;
 
         if (backendList && backendList.length > 0) {
-          const existingIds = new Set(backendList.map(r => r.id || r.reportId));
-          const missingMocks = MOCK_CITIZEN_REPORTS.filter(m => !existingIds.has(m.id || m.reportId));
-          setAllCitizenReports([...backendList, ...missingMocks]);
+          const normalizedBackend = backendList.map(normalizeCitizenReport);
+          const existingIds = new Set(normalizedBackend.map(r => r.id));
+          const missingMocks = MOCK_CITIZEN_REPORTS.map(normalizeCitizenReport).filter(m => !existingIds.has(m.id));
+          setAllCitizenReports([...normalizedBackend, ...missingMocks]);
         }
       })
       .catch(() => {});

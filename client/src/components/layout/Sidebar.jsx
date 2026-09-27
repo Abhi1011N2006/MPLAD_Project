@@ -47,7 +47,6 @@ export default function Sidebar() {
       { label: 'Contractor History', path: '/contractor/history', icon: FileSpreadsheet },
       { label: 'AI Risk Alerts', path: '/alerts', icon: AlertOctagon, badge: 'High Risk' },
       { label: 'Interactive GIS Map', path: '/map', icon: Map },
-      { label: 'Weekly Progress Reports', path: '/reports', icon: FileCheck },
       { label: 'Citizen Reports', path: '/citizen-reports', icon: Users },
       { label: 'Audit / Activity Scenarios', path: '/scenarios', icon: Sparkles, highlight: true },
     ],

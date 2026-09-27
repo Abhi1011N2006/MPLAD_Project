@@ -79,8 +79,9 @@ export default function WeeklyReports() {
     }
   }, [selectedProjectId]);
 
-  // ROUTE GUARD: Block Citizens from viewing or submitting Contractor Weekly Reports
-  if (currentRole?.id === 'citizen') {
+  // ROUTE GUARD: Block Citizens & Central Ministry from submitting Contractor Weekly Reports
+  if (currentRole?.id === 'citizen' || currentRole?.id === 'ministry') {
+    const isMinistry = currentRole?.id === 'ministry';
     return (
       <div className="max-w-2xl mx-auto my-12 bg-white p-8 rounded-2xl border border-rose-200 shadow-xl text-center space-y-4 font-sans">
         <div className="w-16 h-16 bg-rose-100 text-rose-600 rounded-full flex items-center justify-center mx-auto">
@@ -88,14 +89,16 @@ export default function WeeklyReports() {
         </div>
         <h1 className="text-2xl font-black text-slate-900">403 Access Denied</h1>
         <p className="text-sm text-slate-600 max-w-md mx-auto">
-          Public/Citizen accounts are not authorized to view or submit contractor weekly progress reports. Please use the Citizen Portal to submit public feedback or report field issues.
+          {isMinistry
+            ? "Central Ministry accounts monitor national financial analytics, project audits, and AI risk alerts. Contractor weekly progress reports are submitted directly by implementing agencies and field contractors."
+            : "Public/Citizen accounts are not authorized to view or submit contractor weekly progress reports. Please use the Citizen Portal to submit public feedback or report field issues."}
         </p>
         <div className="pt-4 flex justify-center gap-3">
-          <Link to="/" className="bg-slate-900 text-white font-bold text-xs px-5 py-2.5 rounded-xl hover:bg-slate-800 transition-all">
-            Return to Public Portal Home
+          <Link to={isMinistry ? "/dashboard" : "/"} className="bg-slate-900 text-white font-bold text-xs px-5 py-2.5 rounded-xl hover:bg-slate-800 transition-all">
+            {isMinistry ? "Return to Ministry Dashboard" : "Return to Public Portal Home"}
           </Link>
-          <Link to="/citizen-reports" className="bg-blue-600 text-white font-bold text-xs px-5 py-2.5 rounded-xl hover:bg-blue-700 transition-all">
-            Report an Issue / Feedback
+          <Link to={isMinistry ? "/projects" : "/citizen-reports"} className="bg-blue-600 text-white font-bold text-xs px-5 py-2.5 rounded-xl hover:bg-blue-700 transition-all">
+            {isMinistry ? "Inspect All India Projects" : "Report an Issue / Feedback"}
           </Link>
         </div>
       </div>
